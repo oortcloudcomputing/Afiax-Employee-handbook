@@ -1,6 +1,6 @@
-# AFIAX CONNECTED HEATHCARE Handbook
+# Afiax Connected Healthcare Handbook
 
-At AFIAX CONNECTED HEATHCARE we want to positively impact the future of Our Healthcare by using technology to improve Healthcare Delivery. We work with Both public and private sector organisations to modernise Healthcare technology and accelerate digital healthcare delivery so that citizens can benefit from better healthcare services.
+At Afiax Connected Healthcare we want to positively impact the future of the country by using technology to improve society. We work with public sector organisations to modernise technology and accelerate digital delivery so that citizens can benefit from better public services.
 
 We're building an open and transparent company across the Africa, full of people who are passionate about their work, always strive to be better, love to help others grow, and care about using digital and technology to create a better, fairer society.
 
