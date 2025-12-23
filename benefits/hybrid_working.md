@@ -1,21 +1,21 @@
 # Hybrid Working
 
-We believe in people working in the best way for our teams and clients - this may sometimes be in person, remotely at home, from a coffee shop or outside of the UK. 
+We believe in people working in the best way for our teams and clients - this may sometimes be in person, remotely at home, from a coffee shop or outside of the Kenya. 
 
 The best outcomes are delivered by blending different ways and places of work - and we want to empower our teams to make the best decisions for their teams, projects and relationships.
  
 
-### Made Tech offices
-As part of our Hybrid Working policy, we want to encourage organic purposeful face-to-face sessions that help build relationships and stronger teams, which in turn deliver even better work for our teams and clients. Bringing people together regularly creates more opportunities for relationships to be built within teams, across Made Tech, and with our clients and partners.
+### Afiax Connected Healthcare offices
+As part of our Hybrid Working policy, we want to encourage organic purposeful face-to-face sessions that help build relationships and stronger teams, which in turn deliver even better work for our teams and clients. Bringing people together regularly creates more opportunities for relationships to be built within teams, across Afiax Connected Healthcare, and with our clients and partners.
 
-For our group-facing team members, and our client-facing team members that do not have a client onsite requirement, we encourage 2 - 3 days a month in a Made Tech office for purpose-driven activities that will help drive valuable outputs and relationship building. 
+For our group-facing team members, and our client-facing team members that do not have a client onsite requirement, we encourage 2 - 3 days a month in a Afiax Connected Healthcare office for purpose-driven activities that will help drive valuable outputs and relationship building. 
 
 ### Client office
-Each of our clients will have their own requirements for Made Tech team members to work from their offices. All client-facing team members will be required to be able to travel to their assigned client office. We expect client-facing teams to create regular opportunities to come together to collaborate and where necessary to align with a client’s specific needs
+Each of our clients will have their own requirements for Afiax Connected Healthcare team members to work from their offices. All client-facing team members will be required to be able to travel to their assigned client office. We expect client-facing teams to create regular opportunities to come together to collaborate and where necessary to align with a client’s specific needs
 
 ### Exceptional Circumstances
 There may be circumstances where our team members may not be able to attend sites or our offices or may need additional support to be able to do so. We encourage you to reach out to your Line Manager and/or your People Partner to discuss how we can best support you. 
-You can find more information about hybrid working within our Hybrid Working Policy, and the supporting policies such as TOIL, Project Assignments and Reasonable Adjustments Passport - which you view with your Made Tech account. 
+You can find more information about hybrid working within our Hybrid Working Policy, and the supporting policies such as TOIL, Project Assignments and Reasonable Adjustments Passport - which you view with your Afiax Connected Healthcare account. 
 
 ### Hybrid working guidance
 - Check that you're not needed on-site by a client or your team
@@ -29,7 +29,7 @@ When remote working, and when onsite with a client, it is important to pay close
 - Ensure any work-related conversations can’t be overheard. If that’s not possible, try to talk in general terms, and without specific details such as names or clients
 
 ### Working abroad
-Where possible we will support short-term/ad hoc remote working from outside of the UK (for example if someone wanted to travel and work from abroad for a few weeks during the year and this was viable).
+Where possible we will support short-term/ad hoc remote working from outside of the Kenya (for example if someone wanted to travel and work from abroad for a few weeks during the year and this was viable).
 Whilst we will always try to support this, in some cases this may not be feasible. 
 
 When considering this option, you will need to: 
@@ -39,9 +39,9 @@ When considering this option, you will need to:
 - Ensure you're familiar with our security requirements 
 
 Some things to be aware of when thinking about working abroad: 
-- Client laptops - you are not able to take a client laptop outside of the UK.
-- VPN - you must use the VPN to access Made Tech systems.
-- Our IT support - We’re only able to provide support during UK working hours. If there is a major issue with the laptop (or other equipment, such as your charger) you would be responsible for ensuring you are able to continue working until you return to the UK.
+- Client laptops - you are not able to take a client laptop outside of the Kenya.
+- VPN - you must use the VPN to access Afiax Connected Healthcare systems.
+- Our IT support - We’re only able to provide support during Kenya working hours. If there is a major issue with the laptop (or other equipment, such as your charger) you would be responsible for ensuring you are able to continue working until you return to the Kenya.
 
 If you remain uncertain or you have any additional questions, please reach out to the Compliance team, Ops, or People. 
 
@@ -49,9 +49,9 @@ If you remain uncertain or you have any additional questions, please reach out t
 Team members may expense travel to client sites that are outside of their regional office. Travel to and from your allocated office & within your regional office area is not able to be expensed. 
 
 #### What is part of my regional office?
-- London - within the M25
-- Manchester - all Manchester postcodes (M postcodes)
-- Bristol - within a 25KM radius of Bristol city centre 
-- Swansea - within a 25KM radius of Swansea city centre
+- Nairobi - within the CBD
+- Kigali - all Rwanda postcodes
+- Bungoma - within entire Western and Nyanza Regions 
+- Malindi - within a 25KM radius of Malindi town centre
 
 You will be able to use our TravelPerks platform to book trains and hotels for your journey. For more information on when and how to use this take a look at the [Travel Perk doc](https://docs.google.com/document/d/1cgASgYU9rjF-y7pa9gJ9FJ8HCBP6M3ntmdgeLZclSPo/edit) and/or head over to our TravelPerks slack channel. 

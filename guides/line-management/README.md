@@ -1,4 +1,4 @@
-# Line management at Made Tech
+# Line management at Afiax Connected Healthcare
 
 Line managers help others to learn and grow, deliver great results, and progress their careers.
 
@@ -6,7 +6,7 @@ People who report to a line manager are called "direct reports".
 
 This guidance isn't complete yet. If you need help, ask:
 - your own line manager
-- you can search our knowledge base - Ask Made Tech, and if you can't find an answer there, feel free to raise a query
+- you can search our knowledge base - Ask Afiax Connected Healthcare, and if you can't find an answer there, feel free to raise a query
 - ask one of the people partnering team
 - the line manager community (**#cop-learning-line-managers** on Slack)
 

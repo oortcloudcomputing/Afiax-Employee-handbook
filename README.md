@@ -1,23 +1,23 @@
-# Made Tech Handbook
+# AFIAX CONNECTED HEATHCARE Handbook
 
-At Made Tech we want to positively impact the future of the country by using technology to improve society. We work with public sector organisations to modernise technology and accelerate digital delivery so that citizens can benefit from better public services.
+At AFIAX CONNECTED HEATHCARE we want to positively impact the future of Our Healthcare by using technology to improve Healthcare Delivery. We work with Both public and private sector organisations to modernise Healthcare technology and accelerate digital healthcare delivery so that citizens can benefit from better healthcare services.
 
-We're building an open and transparent company across the UK, full of people who are passionate about their work, always strive to be better, love to help others grow, and care about using digital and technology to create a better, fairer society.
+We're building an open and transparent company across the Africa, full of people who are passionate about their work, always strive to be better, love to help others grow, and care about using digital and technology to create a better, fairer society.
 
 This Handbook should be the starting point for any new team members. It provides an overview of [why we exist](company/about.md), our roles, our investment into staff welfare, our team norms, and details of our processes, policies and benefits.
 
 ## Contributing to our Handbook
 
-We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook or spot a typo, please feel free to [open a pull request](https://github.com/madetech/handbook/pulls). If you have a question feel free to [open an issue](https://github.com/madetech/handbook/issues). This applies whether you're a Made Tech employee or not.
+We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook or spot a typo, please feel free to [open a pull request](https://github.com/mattwamoto/handbook/pulls). If you have a question feel free to [open an issue](https://github.com/mattwamoto/handbook/issues). This applies whether you're a AFIAX CONNECTED HEATHCARE employee or not.
 
 For more information on contributing, including how to as a non-technical user, read our [CONTRIBUTING.md](guides/contributing_to_the_handbook.md).
 
 ## Table of contents
 
-### Introduction to Made Tech
+### Introduction to AFIAX CONNECTED HEATHCARE
 
-* [About Made Tech](company/about.md) – Why we do what we do
-* [Welcome Pack](company/welcome_pack.md) – All you need to know when joining Made Tech
+* [About AFIAX CONNECTED HEATHCARE](company/about.md) – Why we do what we do
+* [Welcome Pack](company/welcome_pack.md) – All you need to know when joining AFIAX CONNECTED HEATHCARE
 
 ### Roles
 

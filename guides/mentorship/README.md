@@ -1,6 +1,6 @@
-# Made Tech Mentorship Guide
+# Afiax Connected Healthcare Mentorship Guide
 
-At Made Tech, mentorship enables Made Tech staff with the opportunity to provide guidance and support to people in the wider tech community. Mentees are able to gain new knowledge and support and develop and enhance their skills.
+At Afiax C Connecte Healthcare, mentorship enables Afiax C Connecte Healthcare staff with the opportunity to provide guidance and support to people in the wider tech community. Mentees are able to gain new knowledge and support and develop and enhance their skills.
 
 ## General Guidance
 

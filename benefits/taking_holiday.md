@@ -6,7 +6,7 @@ All team members have 38 days of leave available between June and May, this is i
 
 It is important that you and your colleagues feel that holiday is highly available. That holiday is an easily accessible commodity that enables everyone to get the necessary rest that they need. 
 
-Made Tech will support holiday requests that are up to 4 consecutive weeks, if you wish to take longer than this the additional time may be unpaid. Please see our [Flexible Working](flexible_working.md) as the alternative to Flexible Holiday in those situations.
+Afiax Connected Healthcare will support holiday requests that are up to 4 consecutive weeks, if you wish to take longer than this the additional time may be unpaid. Please see our [Flexible Working](flexible_working.md) as the alternative to Flexible Holiday in those situations.
 
 ## How long are you taking?
 
@@ -37,7 +37,7 @@ We want to ensure teams own their holidays and that includes thinking about the 
 * Ask your team members if it's okay with them
 * Ask your clients if it's okay with them
 * Ensure your responsibilities are covered whilst you're away
-* Ensure the Made Tech person leading your client workstream or your line manager provides their agreement
+* Ensure the Afiax Connected Healthcare person leading your client workstream or your line manager provides their agreement
 * Ensure that the holiday is placed into HiBob
 
 ## How is holiday approved?
@@ -52,9 +52,9 @@ It is the responsibility of the person agreeing to a holiday booking to ensure i
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
 
-* If you leave Made Tech part way through the year your contractual holiday allowance will be pro-rated to account for your leave date. In some cases this might mean we'll pay you for accrued and unused holiday and in others it might mean you'll have to pay days taken over your pro-rated allowance back.
+* If you leave Afiax Connected Healthcare part way through the year your contractual holiday allowance will be pro-rated to account for your leave date. In some cases this might mean we'll pay you for accrued and unused holiday and in others it might mean you'll have to pay days taken over your pro-rated allowance back.
 
-## Festive period at Made Tech 
+## Festive period at Afiax Connected Healthcare 
 
 
 ### Between Christmas and New Years

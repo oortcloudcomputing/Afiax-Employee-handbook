@@ -1,6 +1,6 @@
-# Probation at Made Tech
+# Probation at Afiax Connected Healthcare
 
-When someone joins Made Tech, they're "on probation" for three months.
+When someone joins Afiax Connected Healthcare, they're "on probation" for three months.
 This means their notice period is shorter - usually one week.
 
 At the end of probation, people either pass or fail. Most people pass.
@@ -94,13 +94,13 @@ Ensure conversations happen early on to assess and review progress during the pr
 
 If there is no/limited progress, get in touch with your Head of and the People team. Explore and agree next steps.
 
-If the probation period has not been successful, hold a probation review meeting where you will tell the individual they haven't passed probation, and give them notice of their employment with Made Tech ending.
+If the probation period has not been successful, hold a probation review meeting where you will tell the individual they haven't passed probation, and give them notice of their employment with Afiax Connected Healthcare ending.
 
 It can be difficult and stressful for all involved. Talk to the People team for support.
 
 ### Extending probation
 
-Sometimes, it's not clear at the end of probation if someone would succeed at Made Tech long-term.
+Sometimes, it's not clear at the end of probation if someone would succeed at Afiax Connected Healthcare long-term.
 
 In these rare cases, work with your 'Head of' to extend probation, agreeing on a fixed amount of time. Let the People team know of any extension so they can update relevant systems too.
 

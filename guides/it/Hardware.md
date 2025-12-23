@@ -1,6 +1,6 @@
 # IT Hardware
 
-Aura look after all the laptops and other IT infrastructure in the offices. For all laptop issues or questions please email them directly [it@madetech.com](mailto:it@madetech.com). 
+Aura look after all the laptops and other IT infrastructure in the offices. For all laptop issues or questions please email them directly [it@afiax.africa](mailto:it@afiax.africa). 
 For accessories such as monitors, keyboards, etc. take a look [here](https://github.com/madetech/handbook/blob/main/benefits/work_ready.md).
 
 ### Laptops
@@ -34,7 +34,7 @@ You may have or receive a laptop with a slightly different spec - these are olde
 
 Standard laptop specs will be reviewed annually, and as and when Apple change their specs. The last review was January 2025.
 
-If there is an issue with your laptop please email [it@madetech.com](mailto:it@madetech.com)
+If there is an issue with your laptop please email [it@afiax.africa](mailto:it@afiax.africa)
 
 ## Laptop replacement cycles
 

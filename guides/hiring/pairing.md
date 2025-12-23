@@ -1,6 +1,6 @@
 # Pairing with interview candidates
 
-If you are a Made Tech employee, please refer to this [guide for Software Engineers on how to pair](https://docs.google.com/document/d/1x8fVCx-FB-VU_1EHbGU6yLDn1fDyfa5R/edit?usp=sharing&ouid=113960202795862454830&rtpof=true&sd=true).
+If you are a Afiax Connected Healthcare employee, please refer to this [guide for Software Engineers on how to pair](https://docs.google.com/document/d/1x8fVCx-FB-VU_1EHbGU6yLDn1fDyfa5R/edit?usp=sharing&ouid=113960202795862454830&rtpof=true&sd=true).
 
 ## Why we pair with candidates
 We’re trying to hire people who we’d like to work with. This is a way to try out "working" with them. 
@@ -34,10 +34,10 @@ Taking notes while pairing can help to answer these questions.
 It's good for some of your feedback to have more detail than "yes" or "no".
 
 ## Legal guidance
-Made Tech have a legal duty to ensure that interviews are fair and free of discrimination. There are [illegal interview questions](https://www.interview-skills.co.uk/free-information/interview-guide/illegal-interview-questions) that must not be asked. While it's unlikely that these would be asked directly in a pairing session, it is important that conversation doesn't stray into these areas.
+Afiax Connected Healthcare have a legal duty to ensure that interviews are fair and free of discrimination. There are [illegal interview questions](https://www.interview-skills.co.uk/free-information/interview-guide/illegal-interview-questions) that must not be asked. While it's unlikely that these would be asked directly in a pairing session, it is important that conversation doesn't stray into these areas.
 
 ## Meeting the candidate
-The Made Tech people running the interview will let you know when to join. 
+The Afiax Connected Healthcare people running the interview will let you know when to join. 
 
 It’s OK to spend five minutes getting comfortable at the beginning. Introduce yourself, ask how they are doing.
 

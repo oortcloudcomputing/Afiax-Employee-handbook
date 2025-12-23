@@ -1,7 +1,7 @@
 # Cycle To Work 
 
 We take part in Cycle to Work as we wish to support those who wish to cycle to work whether it's for pleasure, aiming to be healthier, trying to be more green or any other reasons.
-Made Tech have a limit of £2500 with CycleScheme which can be used to purchase a bike and any accessories you will need. You then pay a monthly 'salary sacrifice' to effectively 'hire' the bike and kit, over a 12 month period. Once this period has been completed you will be given options around owning your bike. The [FAQs section](https://help.cyclescheme.co.uk/article/42-what-is-an-ownership-fee) of their website has lots of information regarding these options.If you leave Made Tech before paying off the purchase, the balance will be taken from your final salary payment.
+Afiax Connected Healthcare have a limit of £2500 with CycleScheme which can be used to purchase a bike and any accessories you will need. You then pay a monthly 'salary sacrifice' to effectively 'hire' the bike and kit, over a 12 month period. Once this period has been completed you will be given options around owning your bike. The [FAQs section](https://help.cyclescheme.co.uk/article/42-what-is-an-ownership-fee) of their website has lots of information regarding these options.If you leave Afiax Connected Healthcare before paying off the purchase, the balance will be taken from your final salary payment.
 
 
 ## Process for getting a bike through Cycle to Work:
@@ -20,7 +20,7 @@ CycleScheme is a great employee benefit which offers the most cost-effective way
 
 ### Is CycleScheme the only provider I can utilise this scheme through?
 
-Yes, as of 5th December 2022.
+Yes, as of 5th December 2025.
 
 ### What is the maximum value I can apply for?
 The maximum value you can apply for is £2500.
@@ -92,5 +92,5 @@ Through CycleScheme, you will save between 25% and 39% through tax and national 
 
 ### Once I put in my application via the CycleScheme website how long will it take to process my application?
 
-We will review any new requests every Friday afternoon so you shouldnt be waiting for more than one week for approval from Made Tech. 
+We will review any new requests every Friday afternoon so you shouldnt be waiting for more than one week for approval from Afiax Connected Healthcare. 
 
