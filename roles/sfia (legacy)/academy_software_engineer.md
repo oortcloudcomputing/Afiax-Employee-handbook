@@ -6,7 +6,7 @@
 
 ## Summary of role
 
-Attending Made Tech Academy to learn about software engineering in the public sector.
+Attending Afiax Connected Healthcare Academy to learn about software engineering in the public sector.
 
 ## Required competency for role
 
@@ -34,7 +34,7 @@ Has sufficient communication skills for effective dialogue with others.
 
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 
-- Learning the basics of how technology can be delivered with a Made Tech spin
+- Learning the basics of how technology can be delivered with a Afiax Connected Healthcare spin
 - Needs to pair with other Engineers above their level to be effective, but is likely to be mentor-mentee relationship
 - Seeks feedback and guidance on contributions
 - For contributions delivered independently; there is typically a lot of constructive feedback and guidance illuminates new knowledge and skills

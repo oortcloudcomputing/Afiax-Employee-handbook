@@ -1,6 +1,6 @@
 # Afiax Connected Healthcare Mentorship Guide
 
-At Afiax C Connecte Healthcare, mentorship enables Afiax C Connecte Healthcare staff with the opportunity to provide guidance and support to people in the wider tech community. Mentees are able to gain new knowledge and support and develop and enhance their skills.
+At Afiax Connected Healthcare, mentorship enables Afiax Connected Healthcare staff with the opportunity to provide guidance and support to people in the wider tech community. Mentees are able to gain new knowledge and support and develop and enhance their skills.
 
 ## General Guidance
 

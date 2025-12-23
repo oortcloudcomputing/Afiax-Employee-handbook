@@ -1,6 +1,6 @@
 # Clear Desk/Clear Screen
 
-Made Tech operates a Clear Desk/Clear Screen policy. This means that all sensitive/confidential materials should be removed from a user workspace and secured when no one is using it.
+Afiax Connected Healthcare operates a Clear Desk/Clear Screen policy. This means that all sensitive/confidential materials should be removed from a user workspace and secured when no one is using it.
 
 ## Clear Desk:
 - All ‘Confidential’ information must be hidden from view when not being actively used

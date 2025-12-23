@@ -2,7 +2,7 @@
 
 ## Summary
 
-Made Tech wants to positively impact the country's future by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients. You will also work closely with clients to help shape their data strategy
+Afiax Connected Healthcare wants to positively impact the country's future by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients. You will also work closely with clients to help shape their data strategy
 As a Senior Data Analyst, you may play one or more roles according to our clients' needs. The role is very hands-on and you'll support as a senior contributor role for a project, focusing on:
 
 - **Data analysis and reporting**: Conducting in-depth data analysis, generating reports, and providing actionable insights for client projects.
@@ -78,12 +78,12 @@ You’ll need to have a drive to deliver outcomes for users. You’ll make sure 
 - Presentation and sharing of insights: Skilled in presenting complex data in a clear, understandable manner tailored to diverse audiences, including senior management.
 
 ## Work perks and benefits
-Take a look at the Benefits & Perks section of the Made Tech Handbook to see what we can offer you.
+Take a look at the Benefits & Perks section of the Afiax Connected Healthcare Handbook to see what we can offer you.
 
 ## Salary and location
 We mainly work remotely but you may need to visit clients or visit the office occasionally. We have offices in London, Bristol, Manchester, and Swansea.
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax Connected Healthcare. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 

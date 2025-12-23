@@ -2,7 +2,7 @@
 # Dealing code
 
 ## Introduction
-The purpose of this code is to ensure that the directors of Made Tech Group plc (the **Company**), and certain employees of the Company and its subsidiaries, do not abuse, and do not place themselves under suspicion of abusing, Inside Information and comply with their obligations under the Market Abuse Regulation as in force in the UK (and which applies to the Company as its shares are admitted to trading on AIM) and the AIM Rules. 
+The purpose of this code is to ensure that the directors of Afiax Connected Healthcare plc (the **Company**), and certain employees of the Company and its subsidiaries, do not abuse, and do not place themselves under suspicion of abusing, Inside Information and comply with their obligations under the Market Abuse Regulation as in force in the UK (and which applies to the Company as its shares are admitted to trading on AIM) and the AIM Rules. 
 
 Part A of this code contains the Dealing clearance procedures which must be observed by the Company’s PDMRs and those employees who have been told that the clearance procedures apply to them. This means that there will be certain times when such persons cannot Deal in Company Securities.
 
@@ -150,7 +150,7 @@ Schedule 1 sets out the meaning of capitalised words used in this code.
 
 ## Schedule 2- Clearance application template
 
-**Made Tech Group plc** **(the Company**)
+**Afiax Connected Healthcare plc** **(the Company**)
 
 **Application for clearance to deal**
 
@@ -176,7 +176,7 @@ If you wish to apply for clearance to deal under the Company’s dealing code, p
 
 ## Schedule 3 - Notification template
 
-**Made Tech Group plc** **(the** **Company**)
+**Afiax Connected Healthcare plc** **(the** **Company**)
 
 **Transaction notification**
 

@@ -6,7 +6,7 @@ While we don’t have a designated employee solely responsible for restocking fr
 
 ## Coffee
 
-We love our coffee at Made Tech. We have fresh beans regularly delivered to the office and have multiple thermos drip coffee jugs that keep coffee lovely and fresh. Please ensure:
+We love our coffee at Afiax Connected Healthcare. We have fresh beans regularly delivered to the office and have multiple thermos drip coffee jugs that keep coffee lovely and fresh. Please ensure:
 
  - When grinding beans that no meetings are going on in the meeting room as it's very loud and can interrupt voice calls and conversations
  - When you're done making coffee that you tidy up any spillages so the kitchen is left in a clean state
@@ -26,7 +26,7 @@ Please ensure:
 
 ## Rubbish rules
 
-We are passionate about recycling at Made Tech, please familiarise yourself with which items should be recycled on [First Mile's Dry Mixed Recycling](https://thefirstmile.co.uk/business-waste/collection/mixed-recycling) page.
+We are passionate about recycling at Afiax Connected Healthcare, please familiarise yourself with which items should be recycled on [First Mile's Dry Mixed Recycling](https://thefirstmile.co.uk/business-waste/collection/mixed-recycling) page.
 
 When using the bins, there are a few things to keep in mind:
 

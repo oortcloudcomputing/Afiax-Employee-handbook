@@ -26,7 +26,7 @@ Senior Business Analysts should expect to work more autonomously and may often b
 
 ## Competencies
 
-Senior Business Analysts display [Made Tech’s values](https://github.com/madetech/handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/business-analyst--2#:~:text=Skill%20level%3A%20working-,Senior%20business%20analyst,system%20in%20a%20project%20or%20programme%20of%20work.%20(Skill%20level%3A%20practitioner),-Lead%20business%20analyst) and [SFIA (Level 4)](https://sfia-online.org/en/sfia-8/responsibilities/level-4) behaviours.
+Senior Business Analysts display [Afiax Connected Healthcare’s values](https://github.com/madetech/handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/business-analyst--2#:~:text=Skill%20level%3A%20working-,Senior%20business%20analyst,system%20in%20a%20project%20or%20programme%20of%20work.%20(Skill%20level%3A%20practitioner),-Lead%20business%20analyst) and [SFIA (Level 4)](https://sfia-online.org/en/sfia-8/responsibilities/level-4) behaviours.
 
 ## Skills needed for this role
 
@@ -47,7 +47,7 @@ Applies the following practices as a Senior Business Analyst, within an engageme
 
 ## Community of Practice (CoP)
 
-Engages and participates within the Made Tech and client communities of practice to:
+Engages and participates within the Afiax Connected Healthcare and client communities of practice to:
 
 - build an inclusive and supportive culture
 - recognise when to ask for further guidance and support and identify how to improve how we work, for example, by discussing and sharing approaches, ideas and examples of practice
@@ -70,7 +70,7 @@ Take a look at the [Benefits & Perks](https://github.com/madetech/handbook/blob/
 
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax Connected Healthcare. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 

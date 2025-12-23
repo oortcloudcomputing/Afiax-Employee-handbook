@@ -19,9 +19,9 @@ Below is information on access and layout for each of our offices. If anyone has
 
 Please leave desks and meeting rooms as you (should hopefully) find them. This means making sure all the equipment, including stationery, remotes, USB-C cables, keyboards, etc., are back where they should be. Chairs should be returned to the correct desk or room, and meeting room tables should be clear.
 
-## London 
+## Nairobi 
 
-### Entry to London 
+### Entry to Nairobi 
 
 Entry to the office is via the stairs. Due to the steepness of the steps, we are unable to add ramps for wheelchair access. 
 
@@ -54,9 +54,9 @@ There is no Braille in the office.
 
 Fire and first aid information can be found on the notice board.
 
-## Bristol 
+## Malindi 
 
-### Entry to Bristol
+### Entry to Malindi
 
 The office and all its facilities are on the ground floor.
  
@@ -89,11 +89,11 @@ There are wheelchair accessible showers, however these are currently located wit
  
 Fire and first aid information can be found on the notice board.
 
-## Manchester 
+## Kigali 
 
-### Entry to Manchester 
+### Entry to Kigali 
 
-There is a wheelchair ramp on the left of the main building entry door with an automatic door at the top. The office is on the 4th floor; there is access via both stairs and lifts. The Manchester office is accessible to anyone using a standard wheelchair. 
+There is a wheelchair ramp on the left of the main building entry door with an automatic door at the top. The office is on the 4th floor; there is access via both stairs and lifts. The Kigali office is accessible to anyone using a standard wheelchair. 
 
  
 ### Layout and office information 
