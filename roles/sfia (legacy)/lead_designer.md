@@ -75,7 +75,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 
 ### Knowledge
 
-Develops a deep understanding of design and policy landscape in the UK public sector.
+Develops a deep understanding of design and policy landscape in the UK healthcare.
 
 #### Examples of behaviour and responsibilities
 

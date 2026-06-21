@@ -6,7 +6,7 @@
 
 ## Summary of role
 
-Attending Afiax Connected Healthcare Academy to learn about software engineering in the public sector.
+Attending Afiax Connected Healthcare Academy to learn about software engineering in the healthcare sector.
 
 ## Required competency for role
 

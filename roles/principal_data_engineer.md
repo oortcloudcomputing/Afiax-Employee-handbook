@@ -1,10 +1,10 @@
 # Principal Data Engineer
 
-Our Principal Data Engineers enable public sector organisations to transform service delivery with data to improve society, for everyone. They provide our most senior data leadership and support to our clients and teams. They build and manage key relationships with clients, and manage data consultancy and delivery across one or more accounts. They also support sales.
+Our Principal Data Engineers enable healthcare organisations to transform service delivery with data to improve health outcomes, for everyone. They provide our most senior data leadership and support to our clients and teams. They build and manage key relationships with clients, and manage data consultancy and delivery across one or more accounts. They also support sales.
 
 ## Your role at Afiax
 
-At Afiax we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. To do this we work alongside brilliant public servants to drive better decisions through data and automation.
+At Afiax we want to positively impact the future of healthcare across Africa by using technology to improve health outcomes, for everyone. We want to empower the healthcare sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. To do this we work alongside brilliant public servants to drive better decisions through data and automation.
 
 As a Principal Data Engineer you will work closely with our clients' senior leadership teams to help inform their data strategy, as well as ensuring our teams are delivering to a high quality and aligned with our clients' data vision. You’ll need to have a drive to deliver outcomes for users. Working alongside delivery, client and other capability principals, you will help shape account plans and be responsible for delivering against them.
 
@@ -12,7 +12,7 @@ Working with Afiax's leadership team you will ensure our work with customers is 
 
 You will coach and support Lead Data Engineers to steer their teams towards success. You will also be responsible for hiring and line managing Lead Data Engineers.
 
-While this is not a hands-on coding technical role, the importance of credibility in internet-era approaches to digital, data and technology in the public sector cannot be understated. You will be expected to maintain a broad technical knowledge of modern data practices, be able to shape data strategy and roadmaps, and hold others to account for technical quality. 
+While this is not a hands-on coding technical role, the importance of credibility in internet-era approaches to digital, data and technology in the healthcare sector cannot be understated. You will be expected to maintain a broad technical knowledge of modern data practices, be able to shape data strategy and roadmaps, and hold others to account for technical quality. 
 
 As a data leader within Afiax you will be expected to maintain and grow your professional network. You will be expected to contribute to thought leadership, content and events and should have a proven track record of doing so.
 
@@ -43,7 +43,7 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 - Working within an account or programme leadership team
 - Working within bid teams to win contracts exceeding value of £1m
 - Working with multidisciplinary digital and technology teams
-- Working within the public sector
+- Working within the healthcare sector
 - Experience in hiring, forming and running teams
 
 ## Work perks and benefits
@@ -53,7 +53,7 @@ Take a look at the Benefits & Perks section of the [Afiax Handbook](https://gith
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

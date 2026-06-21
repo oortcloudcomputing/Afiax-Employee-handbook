@@ -6,7 +6,7 @@
 
 ## Summary of role
 
-Leads teams to deliver digital, data and technology outcomes that improve society. They do this by establishing and leading teams to deliver software in public sector organisations.
+Leads teams to deliver digital, data and technology outcomes that improve health outcomes. They do this by establishing and leading teams to deliver software in healthcare organisations.
 
 ## Required competency for role
 
@@ -24,7 +24,7 @@ Manages complex technical change of a workstream within a wider programme of wor
 
 ### Knowledge
 
-Develops a deep understanding of digital and technology landscape in UK public sector.
+Develops a deep understanding of digital and technology landscape in UK healthcare.
 
 ### Business Skills
 

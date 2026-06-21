@@ -1,10 +1,10 @@
 # Lead Security Engineer
 
-Our Lead Security Engineers enable public sector organisations to mitigate cyber and information security risks across an increasingly complex and threatened mix of technology-enabled services. They lead teams to make sure digital and data services are securely designed and built from the outset, and work with technology teams to make sure entire platforms are securely monitored with timely incident response.
+Our Lead Security Engineers enable healthcare organisations to mitigate cyber and information security risks across an increasingly complex and threatened mix of technology-enabled services. They lead teams to make sure digital and data services are securely designed and built from the outset, and work with technology teams to make sure entire platforms are securely monitored with timely incident response.
 
 ## Your role at Afiax
 
-At Afiax we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. Underpinning this is a need for us to do this securely, handling public data safely, and defending against increasing cyber and information security risks.
+At Afiax we want to positively impact the future of healthcare across Africa by using technology to improve health outcomes, for everyone. We want to empower the healthcare sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. Underpinning this is a need for us to do this securely, handling public data safely, and defending against increasing cyber and information security risks.
 
 As a Lead Security Engineer you will work closely with clients to help inform their security strategy and to ensure our teams are delivering secure digital services and cloud-based platforms, aligned to our customers risk tolerance. You’ll need to have a drive to deliver outcomes for users. You’ll be expected to upskill clients and Afiax delivery teams, including pair programming with other engineers. 
 
@@ -39,7 +39,7 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 * Penetration testing qualifications (one of: OSCP, CREST, TIGER or equivalent)
 * Working within bid teams to win contracts exceeding value of £1m
 * Working with multidisciplinary digital and technology teams
-* Working within the public sector
+* Working within the healthcare sector
 * Hiring, forming and running teams
 
 
@@ -50,7 +50,7 @@ Take a look at the Benefits & Perks section of the [Afiax Handbook](https://gith
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.

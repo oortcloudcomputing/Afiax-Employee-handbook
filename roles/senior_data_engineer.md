@@ -1,10 +1,10 @@
 # Senior Data Engineer
 
-Our Senior Data Engineers enable public sector organisations to embrace a data-driven approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to clients’ needs. They develop, operate, and maintain these services. They make sure they provide maximum value to data consumers, including analysts, scientists, and business stakeholders.
+Our Senior Data Engineers enable healthcare organisations to embrace a data-driven approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to clients’ needs. They develop, operate, and maintain these services. They make sure they provide maximum value to data consumers, including analysts, scientists, and business stakeholders.
 
 ## Your role at Afiax 
 
-At Afiax we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients. You will also work closely with clients to help shape their data strategy.
+At Afiax we want to positively impact the future of healthcare across Africa by using technology to improve health outcomes, for everyone. We want to empower the healthcare sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients. You will also work closely with clients to help shape their data strategy.
 
 As a Senior Data Engineer, you may play one or more roles according to our clients' needs. Sometimes the role is very hands-on and you'll support in a senior contributor role for a project, focusing on both delivering engineering work as well as upskilling members of the client team. At other points, you might play more of a technical architect role. 
 
@@ -37,7 +37,7 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 - Infrastructure-as-code (e.g. Terraform, Cloud Formation)
 - Working knowledge of statistics
 - Working with multidisciplinary digital and technology teams
-- Working within the public sector
+- Working within the healthcare sector
 
 ## Work perks and benefits
 
@@ -46,7 +46,7 @@ to see what we can offer you.
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

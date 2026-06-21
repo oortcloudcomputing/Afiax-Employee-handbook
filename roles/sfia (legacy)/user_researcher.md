@@ -5,7 +5,7 @@
 
 ### Summary of role
 
-Our User Researchers work within service teams. They support the planning of user research activities and carry them out . They’re confident practitioners, able to support our seniors and leads to  plan and run user research as part of a team on public sector projects. They are contributors to our user-centred design (UCD) community and culture at Afiax.
+Our User Researchers work within service teams. They support the planning of user research activities and carry them out . They’re confident practitioners, able to support our seniors and leads to  plan and run user research as part of a team on healthcare projects. They are contributors to our user-centred design (UCD) community and culture at Afiax.
 
 ### Required competency for role (with example behaviours)
 

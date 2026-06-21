@@ -6,7 +6,7 @@
 
 ## Summary of role
 
-Contributor to digital, data and technology outcomes that improve society. They do this by architecting and delivering features.
+Contributor to digital, data and technology outcomes that improve health outcomes. They do this by architecting and delivering features.
 
 ## Required competency for role
 

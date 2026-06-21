@@ -3,9 +3,9 @@
 Reporting to one of our Lead Product Managers, this role is responsible for leading on product within a client delivery team. 
 
 ## Summary
-Afiax wants to positively impact the country's future by using technology to improve society. We believe being design and product-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers, researchers and product professionals to support the public sector's growing demand for a user-centred, design and product led approach to how services are delivered.
+Afiax wants to positively impact the future of healthcare in Africa by using technology to improve health outcomes. We believe being design and product-led can create positive outcomes in the healthcare sector through critical services enabled by technology. We are building a community of designers, researchers and product professionals to support the healthcare sector's growing demand for a user-centred, design and product led approach to how services are delivered.
 
-As a Senior Product Manager, you’ll enable public sector organisations to better design services that improve society. You will be expected to role model and lead teams with best practice in your discipline.
+As a Senior Product Manager, you’ll enable healthcare organisations to better design services that improve health outcomes. You will be expected to role model and lead teams with best practice in your discipline.
 
 You will work as part of cross-functional teams which might include other Afiax team members, stakeholders and partner agencies. You will inspire trust in the team, guide and coach teams through the product process and use your influence to continuously iterate and improve ways of working and processes. 
 
@@ -28,7 +28,7 @@ You will work as part of cross-functional teams which might include other Afiax 
 * Ability to support and coach others to grow their skills, product capabilities and to take on more responsibility for client-facing projects
 * Able to educate and mentor team members, colleagues and peers in the wider business on developing product and agile delivery as a core discipline
 * Experienced in working directly with customers and users, and able to drive teams to deliver excellent outcomes for users
-* Working within a design consultancy/senior product leadership role in the public sector, health or allied areas
+* Working within a design consultancy/senior product leadership role in the healthcare sector, health or allied areas
 * Strong empathy and relationship building skills
 
 At this point, we hope you're feeling excited about Afiax and the opportunity. Even if you don't feel that you meet every single skill, we still encourage you to apply. Get in touch with our talent team if you’d like an informal chat about the role and your suitability before applying.
@@ -43,7 +43,7 @@ At this point, we hope you're feeling excited about Afiax and the opportunity. E
 
 ## Salary and location
 
-We work in a hybrid manner with on-site requirements for in-person presence when considered most beneficial for the activity (team meetings, workshops, onboarding for example). You may also need to visit clients where on-site requirements are necessary and/or beneficial. We have offices in London, Bristol, Manchester, and Swansea. 
+We work in a hybrid manner with on-site requirements for in-person presence when considered most beneficial for the activity (team meetings, workshops, onboarding for example). You may also need to visit clients where on-site requirements are necessary and/or beneficial. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

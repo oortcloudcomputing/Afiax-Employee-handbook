@@ -5,7 +5,7 @@
 
 ## Summary of role
 
-Our Senior User Researchers play a key role in leading project teams and setting direction for project work. They’re expert practitioners, confident leading the planning and running of user research on complicated and large scale public sector projects. They are vocal and visible contributors to our user-centred design (UCD) community and culture at Afiax.
+Our Senior User Researchers play a key role in leading project teams and setting direction for project work. They’re expert practitioners, confident leading the planning and running of user research on complicated and large scale healthcare projects. They are vocal and visible contributors to our user-centred design (UCD) community and culture at Afiax.
 
 ## Required competency for role (with example behaviours)
 

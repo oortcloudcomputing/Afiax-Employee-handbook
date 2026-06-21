@@ -2,7 +2,7 @@
 
 We ask teams to provide Delivery Healthchecks to the wider business to encourage the implementation of our Delivery Standards.
 
-It is the responsibility of the lead on each delivery team to provide an update on the health of their delivery in each week's TGIF.
+It is the responsibility of the lead on each delivery team to provide an update on the health of their delivery in the weekly all-hands and in the `#delivery` Slack channel.
 
 A Delivery Healthcheck should answer:
 

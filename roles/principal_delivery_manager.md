@@ -6,7 +6,7 @@ Our Principal Delivery Managers are accountable for the successful delivery of a
 
 Delivery principals work with delivery, technical and design leads to ensure projects deliver the desired outcomes for users and customers. As an expert in delivery, you’ll define the delivery approach and team shape, inspire trust with senior stakeholders and guide clients through the delivery process from the first client engagement. As the most senior line of project escalation on your account, you’ll collaborate with delivery teams and client stakeholders to identify and manage risks and solve issues that arise. The majority of these activities will be value adding, and chargeable to the client.
 
-While this is not a hands-on delivery role, the importance of credibility in internet-era approaches to digital, data and technology in the public sector cannot be understated. You will maintain a broad knowledge of modern delivery practices and support teams to deliver quality outcomes that meet the needs of users and clients. As the most senior delivery professional on your account, you will be accountable for ensuring the teams within your portfolio have appropriate processes and ways of working in place to manage budget, quality, team well-being, and risks that could impact successful delivery. 
+While this is not a hands-on delivery role, the importance of credibility in internet-era approaches to digital, data and technology in the healthcare sector cannot be understated. You will maintain a broad knowledge of modern delivery practices and support teams to deliver quality outcomes that meet the needs of users and clients. As the most senior delivery professional on your account, you will be accountable for ensuring the teams within your portfolio have appropriate processes and ways of working in place to manage budget, quality, team well-being, and risks that could impact successful delivery. 
 
 Delivery principals form part of the Delivery and Project Management Office leadership team and contribute to the successful delivery of change and improvement initiatives. This includes fostering a best-in-class Community of Practice (CoP), managing the performance and development of a number of delivery managers, promoting learning and development, supporting recruitment, and contributing to quarterly and annual goals.
 
@@ -26,7 +26,7 @@ Delivery Principal accomplishment is demonstrated by growing Afiax’s impact, d
 * Balance client satisfaction and team well-being with Afiax’s commercial goals
 * Develop and deliver an effective Account Growth strategy with other members of the Account Management Team
 * Contribute to growing Afiax’s impact
-* Demonstrate leadership and expertise in public sector delivery
+* Demonstrate leadership and expertise in healthcare delivery
 * Contribute to the Delivery Community of Practice
 * Accelerate the career of other Delivery Managers through line management, coaching, mentoring & knowledge sharing
 
@@ -128,7 +128,7 @@ Take a look at the Benefits & Perks section of the [Afiax Handbook](https://gith
 
 ## Salary and location
 
-We do not mandate time on-site, but in-person collaboration is important for fostering effective relationships, and would expect Delivery Principals to spend time with their teams and with their clients. We have offices in London, Bristol, Manchester, and Swansea, and have clients with hubs all over the country. 
+We do not mandate time on-site, but in-person collaboration is important for fostering effective relationships, and would expect Delivery Principals to spend time with their teams and with their clients. We have office in Nairobi, Kenya, and have clients with hubs all over the country. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

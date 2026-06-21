@@ -3,7 +3,7 @@
 Our Delivery Directors are each responsible for the successful delivery of our entire portfolio of client activity in an industry. 
 You will be pivotal in leading our delivery across multiple clients within the industry and managing client relationships at the most senior level. 
 Commercially experienced with deep client delivery expertise, you will be responsible for overseeing a portfolio of client revenues in excess of £10million per annum.
-You will ensure the successful execution of projects, client delight, team engagement, and the continued growth of our business within the public sector.
+You will ensure the successful execution of projects, client delight, team engagement, and the continued growth of our business within the healthcare sector.
 
 ## Outcomes
 
@@ -86,7 +86,7 @@ And the type of experience we anticipate you will bring:
 * Strong leadership and team management skills. You’ll have actively coached, mentored and managed (directly or matrix) diverse teams achieving demonstrable positive people results
 * Excellent financial acumen and budget management skills
 * Strong problem-solving and decision-making capabilities
-* Knowledge of the UK public sector, the Industry you’ll be leading in, and the unique requirements that the sector and industry bring is highly desirable
+* Knowledge of the UK healthcare, the Industry you’ll be leading in, and the unique requirements that the sector and industry bring is highly desirable
 * Relevant certifications are also a plus.
 
 ## Work perks and benefits
@@ -95,7 +95,7 @@ Take a look at the Benefits & Perks section of the Afiax Handbook to see what we
 
 ## Salary and location
 
-We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have offices in London, Bristol, Manchester, and Swansea and our clients are across the UK. 
+We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have office in Nairobi, Kenya and our clients are across the UK. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

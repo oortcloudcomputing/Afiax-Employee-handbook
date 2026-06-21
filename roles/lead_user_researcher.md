@@ -7,9 +7,9 @@
 
 ## Summary
 
-Afiax wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
+Afiax wants to positively impact the future of healthcare in Africa by using technology to improve health outcomes. We believe being design-led can create positive outcomes in the healthcare sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the healthcare sector's growing demand for a design-led approach to service delivery.
 
-Lead User Researchers are expert practitioners who influence and mentor others. They work with teams to deeply understand people’s lives, services, organisations, and outcomes for the public sector. They do this by making sure that teams take a user-centred, evidence-based approach to service design and delivery. They can lead a team to understand a complex policy area and identify the most value in focusing. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Afiax.
+Lead User Researchers are expert practitioners who influence and mentor others. They work with teams to deeply understand people’s lives, services, organisations, and outcomes for the healthcare sector. They do this by making sure that teams take a user-centred, evidence-based approach to service design and delivery. They can lead a team to understand a complex policy area and identify the most value in focusing. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Afiax.
 
 ## Key responsibilities
 

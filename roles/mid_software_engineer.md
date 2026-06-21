@@ -1,10 +1,10 @@
 # Software Engineer
 
-Our engineers create digital, data and technology outcomes that improve society by delivering and architecting software.
+Our engineers create digital, data and technology outcomes that improve health outcomes by delivering and architecting software.
 
 ## Your role at Afiax
 
-At Afiax we want to positively impact the future of the country with digital technology. We help public sector organisations deliver quality software to help citizens get more from public services. We work alongside brilliant public servants to modernise technology and accelerate digital delivery.
+At Afiax we want to positively impact the future of healthcare across Africa with digital technology. We help healthcare organisations deliver quality software to help citizens get more from public services. We work alongside brilliant public servants to modernise technology and accelerate digital delivery.
 
 As an engineer you’ll actively contribute to planning of work and the development of features, helping to define the features and approach to delivering them. You will proactively pick up complex features, seeking guidance and support when needed to complete them, and be comfortable architecting and delivering simple features in new contexts.
 
@@ -43,7 +43,7 @@ Take a look at the Benefits & Perks section of the [Afiax Handbook](https://gith
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

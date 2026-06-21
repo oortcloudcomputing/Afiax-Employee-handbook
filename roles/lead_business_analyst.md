@@ -2,7 +2,7 @@
 
 Lead Business Analysts help teams deliver products and services that bring value to their users through:
 Identifying business problems and opportunities
-Conducting research to understand the public sector domain, people, organisation, processes and technology
+Conducting research to understand the healthcare sector domain, people, organisation, processes and technology
 Explore, elicit and analyse business and user needs
 Identify areas for improvement and explore feasibility of options
 Understand any business and policy constraints that need to be considered, and assess the implications
@@ -64,7 +64,7 @@ Collaborates with Principal Business Analysts to ensure that engagements are eff
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 

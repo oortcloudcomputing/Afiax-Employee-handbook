@@ -9,7 +9,7 @@ Designers might already be a Product Designer, UX Designer, Service Designer or 
 
 ## Summary
 
-Afiax wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
+Afiax wants to positively impact the future of healthcare in Africa by using technology to improve health outcomes. We believe being design-led can create positive outcomes in the healthcare sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the healthcare sector's growing demand for a design-led approach to service delivery.
 
 Designers are experienced practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by influencing the direction, assuring the quality of design delivery within their team and by leading the end-to-end design of a chosen service. They are active members of a healthy user-centred design (UCD) community and culture at Afiax.
 

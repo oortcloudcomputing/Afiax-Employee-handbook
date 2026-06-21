@@ -19,21 +19,21 @@ This role reports directly to the Head of Strategy & Design Service Line.
 ## Responsibilities
 
 * Grow the Business Analysis & Change practice at Afiax (revenue and headcount); develop trusted relationships with our clients to identify specific growth opportunities and proactively take new ideas to our clients to help them solve their biggest problems.
-* Develop joined-up propositions as solutions to client problems; establish Afiax as an innovator and thought leader in the space, sharing our differentiated approach to improve services across the public sector.
-* Lead the Business Analysis & Change practice; hire, develop, motivate and coach a team that understands the user/client needs as well as the technology and lasting change that we are delivering across the public sector.
+* Develop joined-up propositions as solutions to client problems; establish Afiax as an innovator and thought leader in the space, sharing our differentiated approach to improve services across the healthcare sector.
+* Lead the Business Analysis & Change practice; hire, develop, motivate and coach a team that understands the user/client needs as well as the technology and lasting change that we are delivering across the healthcare sector.
 * Deliver a profitable practice; balance complex client needs with highly performing, suitably leveraged and cost effective teams.
 * Help to shape our Service Line and Afiax; define and articulate the client-facing solutions that support our Industry strategies and help to turn them into client engagements through client conversations, presenting externally as a thought leader and contributing directly to bids.
 * Provide subject matter expertise; lead the client conversations as a subject matter expert, and guide and support the account teams to build strategic plans that leverage the practice capability. 
-* Be a trusted advisor; build strategic relationships with C-Level stakeholders across our public sector client base and the wider industry
+* Be a trusted advisor; build strategic relationships with C-Level stakeholders across our healthcare client base and the wider industry
 * Oversee our deliveries and drive excellence in our engagements; take a hands-on interest in our client deliveries, guide and mentor our delivery teams and liaise with high profile stakeholders and key clients to ensure satisfaction with our contributions.
 
 ## Skills
 
 ### Clients
 
-* Understanding of the issues and challenges that the public sector faces in delivering services that make the best use of data and digital capabilities, transforming legacy infrastructure, and taking an innovative and user-centric approach.
+* Understanding of the issues and challenges that the healthcare sector faces in delivering services that make the best use of data and digital capabilities, transforming legacy infrastructure, and taking an innovative and user-centric approach.
 * Ability to innovate and take learnings from the commercial sector, other countries and advances in technology and apply them to UK Public Sector challenges to create tangible solutions for our clients.
-* Experience building trusted advisor relationships with senior client stakeholders within the public sector.
+* Experience building trusted advisor relationships with senior client stakeholders within the healthcare sector.
 
 ### Leadership 
 
@@ -45,7 +45,7 @@ This role reports directly to the Head of Strategy & Design Service Line.
 
 * Experience developing targeted propositions and go-to-market plans based on real-world client needs.
 * Experience of working with sales professionals and commercial responsibility for strategic organisational goals.
-* Experience in running engagements that span multiple capabilities for user-facing digital and data services in the public sector.
+* Experience in running engagements that span multiple capabilities for user-facing digital and data services in the healthcare sector.
 
 ### Business Analysis and Change
 
@@ -88,7 +88,7 @@ This role reports directly to the Head of Strategy & Design Service Line.
 
 ## Salary and location
 
-We work in a hybrid manner with on-site requirements for in-person presence when considered most beneficial for the activity (team meetings, workshops, onboarding for example). You may also need to visit clients where on-site requirements are necessary and/or beneficial. We have offices in London, Bristol, Manchester, and Swansea.
+We work in a hybrid manner with on-site requirements for in-person presence when considered most beneficial for the activity (team meetings, workshops, onboarding for example). You may also need to visit clients where on-site requirements are necessary and/or beneficial. We have office in Nairobi, Kenya.
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

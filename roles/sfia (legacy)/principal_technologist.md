@@ -6,7 +6,7 @@
 
 ## Summary of role
 
-Enables public sector organisations to better use technology in order to improve society. They do this by building and managing strategic relationships, leading accounts, finding new opportunities and advising as a senior technology leader.
+Enables healthcare organisations to better use technology in order to improve health outcomes. They do this by building and managing strategic relationships, leading accounts, finding new opportunities and advising as a senior technology leader.
 
 ## Required competency for role
 
@@ -24,7 +24,7 @@ Has a broad business understanding, a deep understanding of digital and technolo
 
 ### Knowledge
 
-Develops a deep understanding of digital and technology landscape in UK public sector, including customers, suppliers, partners and competitors.
+Develops a deep understanding of digital and technology landscape in UK healthcare, including customers, suppliers, partners and competitors.
 
 ### Business Skills
 

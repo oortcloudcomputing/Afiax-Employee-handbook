@@ -21,7 +21,7 @@ Designers are experienced practitioners who collaborate with others to tackle ch
 _Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
 * Speaks to their line manager or another senior person when struggling in their team. 
-* Spots likely usability issues on a public sector website their delivery team has been tasked to replace.
+* Spots likely usability issues on a healthcare website their delivery team has been tasked to replace.
 * Produces designs for services using a predefined design system.
 * Gives Adhoc feedback about a user interface and what to improve. 
 * Produces documents that clearly articulate how users can interact with a service.

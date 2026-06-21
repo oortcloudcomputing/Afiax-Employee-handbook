@@ -2,7 +2,7 @@
 
 Associate Business Analysts will work alongside more senior team members to help deliver products and services that bring value to their users through:
 - Identifying business problems and opportunities
-- Conducting research to understand the public sector domain, people, organisation, processes and technology
+- Conducting research to understand the healthcare sector domain, people, organisation, processes and technology
 - Explore, elicit and analyse business and user needs
 - Identify areas for improvement and explore feasibility of options
 - Understand any business and policy constraints that need to be considered, and assess the implications
@@ -40,7 +40,7 @@ Associate Level Business Analysts display Afiax’s values, relevant DDaT capabi
 Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ## Salary and location
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea.
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya.
 
 The salary for this role is location dependant:
 

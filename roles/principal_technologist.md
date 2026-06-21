@@ -1,10 +1,10 @@
 # Principal Technologist
 
-Our Principal Technologists enable public sector organisations to better use technology to improve society. They do this by building and managing strategic relationships, leading accounts, finding new opportunities and advising as a senior technology leader.
+Our Principal Technologists enable healthcare organisations to better use technology to improve health outcomes. They do this by building and managing strategic relationships, leading accounts, finding new opportunities and advising as a senior technology leader.
 
 ## Your role at Afiax
 
-At Afiax we want to positively impact the future of the country by using technology to improve society. We help public sector organisations deliver quality software to help citizens get more from public services. We work alongside brilliant public servants to modernise technology and accelerate digital delivery.
+At Afiax we want to positively impact the future of healthcare across Africa by using technology to improve health outcomes. We help healthcare organisations deliver quality software to help citizens get more from public services. We work alongside brilliant public servants to modernise technology and accelerate digital delivery.
 
 As a Principal Technologist you will work closely with our clients’ senior leadership team to help inform their strategy, and make sure our teams are delivering to a high quality and are aligned to our clients' technology vision. As part of an account team, you will help shape account plans and be responsible for delivering against them.
 
@@ -12,7 +12,7 @@ Working with Afiax's regional and group leadership you will make sure our work w
 
 You’ll need to have a drive to deliver outcomes for users and a desire to mentor teams. You will coach and support Lead Software Engineers to steer their teams towards success. You will also be responsible for hiring and line managing them. 
 
-While this is not a hands-on technical role, the importance of credibility in internet-era approaches to digital and technology in the public sector cannot be understated. You will be expected to maintain a broad technical knowledge of modern software development practices, be able to shape technology strategy and roadmaps, and hold others to account for technical quality.
+While this is not a hands-on technical role, the importance of credibility in internet-era approaches to digital and technology in the healthcare sector cannot be understated. You will be expected to maintain a broad technical knowledge of modern software development practices, be able to shape technology strategy and roadmaps, and hold others to account for technical quality.
 
 As a technology leader within Afiax you will be expected to maintain and grow your professional network. You will be expected to contribute to thought leadership, content and events, and should have a proven track record of doing so.
 
@@ -35,7 +35,7 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 - Working within an account or programme leadership team
 - Working within bid teams to win contracts exceeding value of £1m
 - Working with multidisciplinary digital and technology teams
-- Working within the public sector
+- Working within the healthcare sector
 - Experience in hiring, forming and running software teams
 - Experience in legacy application modernisation
 - Maintaining a deep working knowledge of technology and programming languages
@@ -46,7 +46,7 @@ Take a look at the Benefits & Perks section of the [Afiax Handbook](https://gith
 
 ## Salary and location 
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

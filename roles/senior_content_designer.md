@@ -7,7 +7,7 @@
 
 ## Summary
 
-Afiax Connected Healthcare wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector, through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
+Afiax Connected Healthcare wants to positively impact the future of healthcare across Africa by using technology to improve health outcomes. We believe being design-led can create positive outcomes in the healthcare sector, through critical services enabled by technology. We’ve built a community of designers and researchers to support the healthcare sector's growing demand for a design-led approach to service delivery.
 
 Our Senior Content Designers are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team working a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Afiax Connected Healthcare.
 

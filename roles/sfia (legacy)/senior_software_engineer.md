@@ -6,7 +6,7 @@
 
 ## Summary of role
 
-Senior contributor to digital, data and technology outcomes that improve society. They do this by delivering and architecting software, and coaching others to do so in public sector organisations.
+Senior contributor to digital, data and technology outcomes that improve health outcomes. They do this by delivering and architecting software, and coaching others to do so in healthcare organisations.
 
 ## Required competency for role
 

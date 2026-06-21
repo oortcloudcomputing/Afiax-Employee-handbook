@@ -5,7 +5,7 @@
 
 ## Summary of role
 
-Our Lead User Researchers play a key role in scoping and managing multiple, complex user research projects in the public sector and supporting our sales time to sell new work to clients. They’re expert practitioners comfortable conducting and managing user research. They play an important role in creating an inclusive, nurturing and safe environment for our more junior user researchers to grow and develop. They are vocal and visible contributors to our user-centred design (UCD) community and culture at Afiax.
+Our Lead User Researchers play a key role in scoping and managing multiple, complex user research projects in the healthcare sector and supporting our sales time to sell new work to clients. They’re expert practitioners comfortable conducting and managing user research. They play an important role in creating an inclusive, nurturing and safe environment for our more junior user researchers to grow and develop. They are vocal and visible contributors to our user-centred design (UCD) community and culture at Afiax.
 
 ## Required competency for role (with example behaviours)
 
@@ -84,7 +84,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 ### Business Skills
 
-Is a trusted, honest and respected leader. Communicates effectively, both formally and informally. Is confident at selling UCD work in the public sector.
+Is a trusted, honest and respected leader. Communicates effectively, both formally and informally. Is confident at selling UCD work in the healthcare sector.
 
 #### Examples of behaviour and responsibilities
 

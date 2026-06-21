@@ -13,11 +13,11 @@ Reporting to one of four Discipline Heads to support with multi-disciplinary acc
 
 ## Summary
 
-Afiax wants to positively impact the country's future by using technology to improve society. We believe being user centred and product-led can create positive outcomes in the public sector through critical services enabled by technology. 
+Afiax wants to positively impact the future of healthcare in Africa by using technology to improve health outcomes. We believe being user centred and product-led can create positive outcomes in the healthcare sector through critical services enabled by technology. 
 
-We are building a community of designers, researchers and product professionals to support the public sector's growing demand for a user-centred, design and product led approach to how services are delivered.
+We are building a community of designers, researchers and product professionals to support the healthcare sector's growing demand for a user-centred, design and product led approach to how services are delivered.
 
-As a Principal, reporting to the Discipline Head, you’ll enable public sector organisations to better design services that improve society. You will be expected to role model and lead teams with best practice in your discipline and across disciplines and the wider business.
+As a Principal, reporting to the Discipline Head, you’ll enable healthcare organisations to better design services that improve health outcomes. You will be expected to role model and lead teams with best practice in your discipline and across disciplines and the wider business.
 
 You will do this by: 
 * building and managing strategic relationships with our clients 
@@ -61,7 +61,7 @@ This includes:
 * Existing Security Clearance or eligible for Security Clearance
 * Working directly with customers and users
 * Worked within a design consultancy or related professional services
-* Worked within the public sector
+* Worked within the healthcare sector
 * Strong understanding of agile ways of working
 * Strong understanding of user-centred design practice
 * Strong understanding of design communities of practice

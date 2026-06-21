@@ -1,69 +1,78 @@
 # Welcome Pack
 
-If it's your first day today, we'd just like you to know how happy we are to have you with us :)
+If it's your first day today — we're really glad you're here. Welcome to Afiax.
 
-To give you an idea of what to expect from your on-boarding, we have written this short guide. It covers the things that we think are important for new starters and we hope it provides a basis for your successful on-boarding.
+This guide covers what to expect in your first days and weeks, and gives you a checklist to make sure you're set up and ready to contribute.
 
-Over the next few days and weeks we'll introduce:
+## What we'll cover together
 
-1. **Company mission, [values](about.md#our-values), business services and EOSs** - We'll talk about our mission and why the business exists. We'll tell you why we think it's important to improve software delivery in every organisation and how you can help us to achieve our mission.
-2. **Peer buddy** — As part of our on-boarding process, we'll introduce you to a company buddy who will be available whenever you need them. If anything crops up (from simple questions to emergencies), feel free to let your buddy know and they will do all they can to help.
+Over your first few days and weeks we will introduce:
 
-   It goes without saying that the rest of the team are here too, so there should be plenty of places to turn if you need anything.
-3. [**Role expectations**](../roles/README.md) — All our team members have role expectations and we'll work with you to introduce these to you over the coming weeks.
-4. **Career development 121s** — As part of your on-boarding process and ongoing career development, you'll have a monthly 121 with your Line Manager or one of the company directors. These sessions are an opportunity for us to review your progress, look at areas where we can provide support.
-5. **Marketplace** — Every Friday, we run showcases. Please contribute to these and once you're feeling confident enough, look to facilitate one of them.
-6. **Salary, Pensions & Expenses** — We'll take you through how our finances work, where to go to if you have any questions around salary, pensions, benefits or if you need to submit an expense claim.
+1. **Mission, [values](about.md#our-values), and platform** — We will walk you through why Afiax exists, what we are building, and how your role connects to improving healthcare across Africa.
+2. **Your buddy** — You will be introduced to a colleague who will be your go-to for any questions during your first weeks — from simple things to bigger concerns. The rest of the team is always available too.
+3. **[Role expectations](../roles/README.md)** — We will work through what is expected in your specific role over your first month so there are no surprises.
+4. **Monthly 1-2-1s** — You will have a monthly career development 1-2-1 with your Line Manager. These sessions are for your progress, your concerns, and identifying where Afiax can support your growth.
+5. **Weekly showcases** — Every Friday we run product and engineering showcases. Start by attending; contribute when you are ready; facilitate when you feel confident.
+6. **Salary, pension & expenses** — The People team will walk you through how pay, contributions, and expenses work at Afiax.
 
 ## Getting Started Checklist
 
-Our on-boarding checklist will be in your Hibob profile on your first day. Below are a few things this will cover.
-
-#### Everyone
+### Everyone
 
 * [ ] Meet your buddy
-* [ ] Attend first career development 121 to introduce role expectations
-* [ ] Read the [Acceptable Use Policy](../guides/security/acceptable_use_policy.md) & [Bring Your Own Device Policy](../guides/security/bring_your_own_device.md)
-* [ ] Ensure your own devices used for [work are secure](../guides/security/bring_your_own_device.md)
-* [ ] Set up Slack account with picture, name(s), name pronunciation guide and [pronouns](https://www.mypronouns.org/)
+* [ ] Attend your first career development 1-2-1 to review role expectations
+* [ ] Read the [Acceptable Use Policy](../guides/security/acceptable_use_policy.md) and [Bring Your Own Device Policy](../guides/security/bring_your_own_device.md)
+* [ ] Ensure any personal devices used for work are secured as per our [BYOD policy](../guides/security/bring_your_own_device.md)
+* [ ] Set up your Slack profile — photo, full name, name pronunciation, and pronouns
 
-#### Non-Engineers
-* [ ] Complete the [Github tutorial](https://guides.github.com/activities/hello-world/)
+### Non-Engineers
 
+* [ ] Complete the [GitHub Hello World tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world) to get comfortable with pull requests and the handbook contribution process
 
-### Signing up for Services
+---
 
-Below you'll find a list of tools that you will need to do your job. You will be setup with the accounts you'll need on your first day with us.
+## Accounts and Tools
 
-Note that Google office applications (Docs, Sheets) are the preferred format for internal office documents, to be stored in Google Drive
+All accounts below will be provisioned for you before your first day. Google Workspace (Docs, Sheets, Drive) is our default for internal documents.
 
-#### Everyone
+### Everyone
 
-* [ ] Google Mail (with 2FA)
-* [ ] Github (with 2FA)
-* [ ] Slack (with 2FA)
-* [ ] 1Password (with 2FA)
-* [ ] Trello (with 2FA unless using Google Auth to login to Trello)
-* [ ] HiBob
+* [ ] **Google Workspace** (Gmail, Drive, Meet) — enable 2FA
+* [ ] **GitHub** — enable 2FA; you will be added to the `oortcloudcomputing` org
+* [ ] **Slack** — enable 2FA; join your team channels and `#general`, `#announcements`
+* [ ] **1Password** — enable 2FA; this is where all shared credentials live
+* [ ] **Google Calendar** — accept recurring team meetings and onboarding sessions
 
-Academy Engineers: you can skip these two for now, but you will probably need them once you graduate.
+### Engineers
 
-* [ ] Xero
-* [ ] Kimble
+* [ ] **Oortcloud** — request sandbox access in `#cop-cloud` on Slack
+* [ ] **GitHub — Afiax repos** — confirm you have access to the platform monorepo
+* [ ] **Medplum local environment** — follow the [dev setup guide](https://github.com/oortcloudcomputing) (linked from `#engineering`)
 
-#### Sales & Marketing
+### Health Informatics & Clinical Partnerships
 
-* [ ] HubSpot
-* [ ] Access to [LinkedIn Sales Navigator](https://www.linkedin.com/sales/)
+* [ ] **AfyaLink sandbox credentials** — request from the Engineering team
+* [ ] **SHA developer portal access** — request from your Line Manager
 
-#### Engineers
+### Sales, Partnerships & Marketing
 
-* [ ] Get access to infrastructure for delivery team
+* [ ] **HubSpot** — for CRM and pipeline management
+* [ ] **LinkedIn Sales Navigator** — for partnership outreach
 
-### Setting up your Machine
+### Finance & Operations
 
-#### Engineers
+* [ ] **Xero** — for expense submission and financial reporting
 
-To get your machine set up with some essentials we've created [First Boot](https://github.com/oortcloudcomputing/Afiax-Employee-handbook).
+---
 
-First Boot will install applications like Chrome, Slack, and Sequel Pro as well as installing the latest version of Ruby using `rbenv`, and the latest version of Node using `nvm`.
+## Setting Up Your Machine
+
+### Engineers
+
+Clone the platform repo and follow the README to get your local environment running. The stack is **TypeScript / Node.js / React** on a Medplum FHIR server. You will need:
+
+- Node.js (use `nvm` — version pinned in `.nvmrc`)
+- Docker (for running the local FHIR server and dependencies)
+- `git` and a configured GitHub SSH key
+
+Ask in `#engineering` on Slack if you hit any setup issues — we keep the dev setup documented and up to date.

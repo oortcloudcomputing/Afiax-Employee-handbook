@@ -5,7 +5,7 @@
 
 ## Summary of role
 
-Our User-Centred Design (UCD) Principals enable public sector organisations to better design services in order to improve society. They do this by building and managing strategic relationships, leading accounts, finding new opportunities, creating space for teams to do good work and advising as a senior design leader. 
+Our User-Centred Design (UCD) Principals enable healthcare organisations to better design services in order to improve health outcomes. They do this by building and managing strategic relationships, leading accounts, finding new opportunities, creating space for teams to do good work and advising as a senior design leader. 
 
 They might have built their leadership skills as a designer, user researcher, content designer or design manager. 
 
@@ -101,7 +101,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 
 ### Knowledge
 
-Develops a deep understanding of design in the UK public sector.
+Develops a deep understanding of design in the UK healthcare.
 
 #### Examples of behaviour and responsibilities
 

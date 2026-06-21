@@ -7,7 +7,7 @@
 
 ## Summary
 
-Afiax wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
+Afiax wants to positively impact the future of healthcare in Africa by using technology to improve health outcomes. We believe being design-led can create positive outcomes in the healthcare sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the healthcare sector's growing demand for a design-led approach to service delivery.
 
 Associate Designers are practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by understanding problems and creating solutions that work equally well for users and stakeholders. They are active members of a healthy user-centred design (UCD) community and culture at Afiax.
 
