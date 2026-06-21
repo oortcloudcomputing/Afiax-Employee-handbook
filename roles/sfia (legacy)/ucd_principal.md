@@ -1,7 +1,7 @@
 # SFIA Role Guidance: UCD Principal
 
 - [SFIA Level 6](https://sfia-online.org/en/legacy-sfia/sfia-7/responsibilities/level-6)
-- [Job description](https://github.com/madetech/handbook/blob/main/roles/sfia%20(legacy)/ucd_principal.md)
+- [Job description](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/main/roles/sfia%20(legacy)/ucd_principal.md)
 
 ## Summary of role
 
@@ -62,7 +62,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 
 - Regularly sources and hires people for senior UCD roles. 
 
-- Regularly speaks and shares ideas in and outside Made Tech about how to run communities of practice. 
+- Regularly speaks and shares ideas in and outside Afiax about how to run communities of practice. 
 
 - Successfully supports someone they line manage to get promoted to a Lead or Principal
 
@@ -107,15 +107,15 @@ Develops a deep understanding of design in the UK public sector.
 
 _Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
-- Make training videos for Made Tech people new to UCD or design in government, to show how discovery and alpha phases can work.
+- Make training videos for Afiax people new to UCD or design in government, to show how discovery and alpha phases can work.
 
 - Coaches client team to get ready for a GDS service assessment, drawing on their own experiences going through the process. 
 
 - Run accessibility talks for client teams who are unsure who to approach designing for people with access needs. 
 
-- Speaks at a public panel discussion about Made Tech’s approach to improving the citizen experience of local government. 
+- Speaks at a public panel discussion about Afiax’s approach to improving the citizen experience of local government. 
 
-- Runs introduction to UCD in government as part of Onboarding week at Made Tech
+- Runs introduction to UCD in government as part of Onboarding week at Afiax
 
 ---
 
@@ -125,17 +125,17 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 * Understands and communicates industry developments, and the role and impact of design in the employing organisation. Absorbs complex information.
 * Promotes diversity, inclusion and the need for services, teams and working practices to provide equal access and equal opportunity to people with diverse abilities.
 * Takes the initiative to keep both their own and colleagues' skills up to date. 
-* Manages and mitigates risks across client programmes of work and across Made Tech. 
+* Manages and mitigates risks across client programmes of work and across Afiax. 
 
 ## Examples of behaviours and responsibilities
 
 _Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
-- Speaks at a public panel discussion about Made Tech’s approach to improving the citizen experience of local government. 
+- Speaks at a public panel discussion about Afiax’s approach to improving the citizen experience of local government. 
 
-- Speak to the Head of User Research at a government department about how Made Tech integrates UCD roles with operations in the run-up to a bid. 
+- Speak to the Head of User Research at a government department about how Afiax integrates UCD roles with operations in the run-up to a bid. 
 
-- Sets the vision for user-centred design at Made Tech and how that fits into the sector’s transformation of public services. 
+- Sets the vision for user-centred design at Afiax and how that fits into the sector’s transformation of public services. 
 
 - Proactively gets someone levelling someone’s role who’s performing at a higher level of maturity than we hired them for. 
 

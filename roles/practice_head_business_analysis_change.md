@@ -4,7 +4,7 @@ Our Head of Business Analysis & Change is responsible for leading a world-class 
 
 We believe that good design, research-driven policy, technical excellence, continuous innovation and improvement, and effectively managed change can significantly enhance citizen and user experiences, bolster the resilience of public services, and help to improve the applications that deliver essential services to our society.
 
-The successful candidate will lead the practice to help us to develop and support the sale of a set of differentiated offerings covering transformation, business analysis, change, for a wide range of public services. They will develop a team of Business Analysts, Transformation Leads & Change Practitioners to engage with our clients on their business priorities and challenges, and they will guide and monitor client engagements across Made Tech. 
+The successful candidate will lead the practice to help us to develop and support the sale of a set of differentiated offerings covering transformation, business analysis, change, for a wide range of public services. They will develop a team of Business Analysts, Transformation Leads & Change Practitioners to engage with our clients on their business priorities and challenges, and they will guide and monitor client engagements across Afiax. 
 
 In addition the Head of Practice will be responsible for engaging with our clients to understand their challenges and build lasting, trusted advisor relationships. They will also oversee client deliveries to help ensure quality and drive the sharing of best practice across our engagements and industries.
 
@@ -14,15 +14,15 @@ This role reports directly to the Head of Strategy & Design Service Line.
 
 * Our Head of Business Analysis & Change is a member of the Strategy & Design Service Line leadership team with the responsibility to develop the capability of the practice to meet business needs and to accelerate the growth of both the practice and wider business.
 * You will be responsible for the revenue, margin and utilisation of the practice, collaborating with the other practice, service line, industry and delivery heads to drive excellent services for our Public Sector clients. You will also be responsible for the output of your team working on client projects, proposals and capability development. 
-* The right person for this role will do this by combining their technical discipline experience, leadership skills and industry network with Made Tech's unparalleled experience of delivering digital services and digital transformation for the Public Sector.
+* The right person for this role will do this by combining their technical discipline experience, leadership skills and industry network with Afiax's unparalleled experience of delivering digital services and digital transformation for the Public Sector.
 
 ## Responsibilities
 
-* Grow the Business Analysis & Change practice at Made Tech (revenue and headcount); develop trusted relationships with our clients to identify specific growth opportunities and proactively take new ideas to our clients to help them solve their biggest problems.
-* Develop joined-up propositions as solutions to client problems; establish Made Tech as an innovator and thought leader in the space, sharing our differentiated approach to improve services across the public sector.
+* Grow the Business Analysis & Change practice at Afiax (revenue and headcount); develop trusted relationships with our clients to identify specific growth opportunities and proactively take new ideas to our clients to help them solve their biggest problems.
+* Develop joined-up propositions as solutions to client problems; establish Afiax as an innovator and thought leader in the space, sharing our differentiated approach to improve services across the public sector.
 * Lead the Business Analysis & Change practice; hire, develop, motivate and coach a team that understands the user/client needs as well as the technology and lasting change that we are delivering across the public sector.
 * Deliver a profitable practice; balance complex client needs with highly performing, suitably leveraged and cost effective teams.
-* Help to shape our Service Line and Made Tech; define and articulate the client-facing solutions that support our Industry strategies and help to turn them into client engagements through client conversations, presenting externally as a thought leader and contributing directly to bids.
+* Help to shape our Service Line and Afiax; define and articulate the client-facing solutions that support our Industry strategies and help to turn them into client engagements through client conversations, presenting externally as a thought leader and contributing directly to bids.
 * Provide subject matter expertise; lead the client conversations as a subject matter expert, and guide and support the account teams to build strategic plans that leverage the practice capability. 
 * Be a trusted advisor; build strategic relationships with C-Level stakeholders across our public sector client base and the wider industry
 * Oversee our deliveries and drive excellence in our engagements; take a hands-on interest in our client deliveries, guide and mentor our delivery teams and liaise with high profile stakeholders and key clients to ensure satisfaction with our contributions.
@@ -90,7 +90,7 @@ This role reports directly to the Head of Strategy & Design Service Line.
 
 We work in a hybrid manner with on-site requirements for in-person presence when considered most beneficial for the activity (team meetings, workshops, onboarding for example). You may also need to visit clients where on-site requirements are necessary and/or beneficial. We have offices in London, Bristol, Manchester, and Swansea.
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 

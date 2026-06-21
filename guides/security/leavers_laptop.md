@@ -1,6 +1,6 @@
 # Returning your laptop if you're leaving
 
-If you're leaving Made Tech we are going to need your laptop back. Please ensure that you've copied or moved any personal information from the laptop before your last day - the laptop will not be usable 
+If you're leaving Afiax we are going to need your laptop back. Please ensure that you've copied or moved any personal information from the laptop before your last day - the laptop will not be usable 
 after that point and we will not re-open an account to allow you to have access. The laptop will be wiped so all information will be removed. 
 
 You need to send the laptop back to Aura as soon as possible after your last day. Please ensure: 
@@ -25,6 +25,6 @@ We recommend using the following method to send the laptop and charger to Aura a
 
 You can expense the postage by claiming back via Xero - in the description of the xero expense add ‘returning laptop to Aura'.
 You will have access to Xero to submit expense claims for about a week after your last day.
-If you are returning the laptop after this point you will need to email the receipt of the laptop postage to [finance@madetech.com](mailto:finance@madetech.com) and you will be reimbursed.
+If you are returning the laptop after this point you will need to email the receipt of the laptop postage to [finance@afiax.africa](mailto:finance@afiax.africa) and you will be reimbursed.
 
 We do not offer an option to purchase your laptop.

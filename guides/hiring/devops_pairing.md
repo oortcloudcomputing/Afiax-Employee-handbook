@@ -11,10 +11,10 @@ Therefore work should be done on an actual cloud account so that the pair can wo
 ## Preparing to pair
 The DevOps pairing process needs a little more preparation than normal
 - For pairing in AWS [you will need a cloud account to use](../cloud/aws_sandbox.md)
-- Use [this terraform project](https://github.com/madetech/devops-pairing-terraform) to create temporary credentials for the pair
+- Use [this terraform project](https://github.com/oortcloudcomputing) to create temporary credentials for the pair
 
 ## Writing code together
-Please use one of [these scenarios](https://learn.madetech.com/technology/scenarios/cloud/) for the interview pairing exercise.
+Please use one of [these scenarios](https://learn.afiax.africa/technology/scenarios/cloud/) for the interview pairing exercise.
 
 ## Ending the pairing session
 When there are five minutes left in the session:

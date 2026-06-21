@@ -21,7 +21,7 @@ Definition of Hiring Manager: The person responsible for the contractor.
 
 * It is the project team’s responsibility to inform the Scheduling team of the contractor’s end date so that the contract notice can be served in time
 
-* Billable contractors need to complete a Made Tech timesheet. This may be in addition to the agency timesheet. 
+* Billable contractors need to complete a Afiax timesheet. This may be in addition to the agency timesheet. 
 
 * Line managers are responsible for the accuracy of both timesheets.
 
@@ -29,13 +29,13 @@ Definition of Hiring Manager: The person responsible for the contractor.
 
 * Contractors must be attached to a single, specific project and set of outcomes. To transfer a contractor to a new project, a new assessment must be done and **a new contract must be issued** to remain IR35 compliant. The Scheduling team will facilitate this change in contract with the People Team
 
-* Contractors must carry out the work specified in their contract i.e lead engineer for HMRC. They are not able to work on internal projects or work for other Made Tech clients without this agreed and the contract adjusted to reflect this arrangement.
+* Contractors must carry out the work specified in their contract i.e lead engineer for HMRC. They are not able to work on internal projects or work for other Afiax clients without this agreed and the contract adjusted to reflect this arrangement.
 
 * If there is a known break between projects i.e one project finishes and there’s a 2 week break, the contractor should take this time as unbilled leaved. The People team can support these conversations.
 
   ## FAQs
 
-  **What are contractors permitted to do (and not do) whilst with Made Tech?**
+  **What are contractors permitted to do (and not do) whilst with Afiax?**
 
   Contractors **shouldn’t be required** to attend company updates or social events, however they may be invited and go of their own accord. 
 
@@ -67,7 +67,7 @@ Definition of Hiring Manager: The person responsible for the contractor.
   Please inform the Scheduling team as soon as you anticipate a contractor will no longer needed on the project. We usually set an expectation of 1 calendar weeks’ notice but this is contract dependent so please check beforehand with Scheduling. 
 
   This will be initiated with the People team who manage contracts and will inform the agency if required. 
-  If a project unexpectedly finishes, we may be liable to pay the notice period. Where there is a financial impact to Made Tech, the Market Principal needs to be informed. 
+  If a project unexpectedly finishes, we may be liable to pay the notice period. Where there is a financial impact to Afiax, the Market Principal needs to be informed. 
 
   We should aim to give the contractor as much notice as possible that the project is coming to an end. 
 
@@ -79,4 +79,4 @@ Definition of Hiring Manager: The person responsible for the contractor.
 
 
 
-For any other questions not covered please refer to the [Ops Scheduling Slack Channel](https://madetechteam.slack.com/archives/CFCSJJVML). 
+For any other questions not covered please refer to the [Ops Scheduling Slack Channel](#slack-channel-link-needed

@@ -2,9 +2,9 @@
 
 Our Senior Software Engineers create digital, data and technology outcomes that improve society. They do this by delivering and architecting software, and coaching others in public sector organisations to do the same.
 
-## Your role at Made Tech
+## Your role at Afiax
 
-At Made Tech we want to positively impact the future of the country. We help public sector organisations deliver quality software to help citizens get more from public services. We work alongside brilliant public servants to modernise technology and accelerate digital delivery.
+At Afiax we want to positively impact the future of the country. We help public sector organisations deliver quality software to help citizens get more from public services. We work alongside brilliant public servants to modernise technology and accelerate digital delivery.
 
 As a Senior Software Engineer you will combine your technical excellence, drive to deliver and coaching skills to achieve great outcomes for our clients and their users, and establish strong engineering cultures within organisations.
 
@@ -56,16 +56,16 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ## Salary and location
 
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at [careers@afiax.africa](mailto:careers@afiax.africa). We’re happy to help!

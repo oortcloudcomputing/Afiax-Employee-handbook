@@ -2,11 +2,11 @@
 
 Delivering technical services to support, maintain and improve live services across the public sector.
 
-As an application support engineer at Made Tech you will work collaboratively within delivery teams transitioning live services without disruption from incumbent suppliers, deliver enhancements and provide ongoing maintenance and BAU support.
+As an application support engineer at Afiax you will work collaboratively within delivery teams transitioning live services without disruption from incumbent suppliers, deliver enhancements and provide ongoing maintenance and BAU support.
 
 ## Role Description
 
-As an application support engineer at Made Tech you will work collaboratively within Managed Service teams onboarding new services without disruption, deliver enhancements, provide ongoing maintenance and support services, as well as continuously improving both digital services and service operations using DevSecOps practices and data-driven user analytics.
+As an application support engineer at Afiax you will work collaboratively within Managed Service teams onboarding new services without disruption, deliver enhancements, provide ongoing maintenance and support services, as well as continuously improving both digital services and service operations using DevSecOps practices and data-driven user analytics.
 
 Operating within a managed service environment, you will maintain a range of digital services, data services, and platform offerings.  You will maintain application management procedures and documentation and manage application enhancements through to live operation. 
 
@@ -46,16 +46,16 @@ Don’t worry - we don’t expect you to tick all of these when you join, we wil
 * Design, build and maintain CI/CD pipelines including automated testing supporting multiple environments
 * Maintaining infrastructure, ensuring compliance, upgrading live services
 * Collaborating with other stakeholders e.g. User Centred Design, product management to refine the continuous improvement backlog
-* Being an active member of Made Tech’s communities of practice, sharing knowledge and learning from others.
+* Being an active member of Afiax’s communities of practice, sharing knowledge and learning from others.
 
 ## Work perks and benefits
   
-Take a look at the Benefits & Perks section of the Made Tech Handbook to see what we can offer you. 
+Take a look at the Benefits & Perks section of the Afiax Handbook to see what we can offer you. 
 
 ## Salary and location
 
 We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have offices in London, Bristol, Manchester, and Swansea and our clients are across the UK. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.

@@ -1,21 +1,21 @@
 {
-  "name": "@madetech/handbook",
+  "name": "@afiax/handbook",
   "version": "1.0.0",
-  "description": "Made Tech Company Handbook",
+  "description": "Afiax Connected Healthcare Employee Handbook",
   "scripts": {
     "test": "node build.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madetech/handbook.git"
+    "url": "git+https://github.com/oortcloudcomputing/Afiax-Employee-handbook.git"
   },
-  "author": "Made Tech <hello@madetech.com>",
+  "author": "Afiax Connected Healthcare <hello@afiax.africa>",
   "license": "UNLICENSED",
   "private": true,
   "bugs": {
-    "url": "https://github.com/madetech/handbook/issues"
+    "url": "https://github.com/oortcloudcomputing/Afiax-Employee-handbook/issues"
   },
-  "homepage": "https://github.com/madetech/handbook#readme",
+  "homepage": "https://github.com/oortcloudcomputing/Afiax-Employee-handbook#readme",
   "devDependencies": {
     "chalk": "^4.0.0",
     "glob": "^7.1.6",

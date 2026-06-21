@@ -1,5 +1,5 @@
 # All about Linux
-In order to reach the standards for [ISO](https://www.madetech.com/blog/iso-27001-changes/) and [Cyber Essentials Plus](https://www.ncsc.gov.uk/cyberessentials/overview), all our laptops must meet a certain set of requirements. For Mac and Windows machines that is controlled remotely by our IT Partner Aura. For Linux machines that currently all needs to be done manually.
+In order to reach the standards for [ISO](https://www.afiax.africa/blog/iso-27001-changes/) and [Cyber Essentials Plus](https://www.ncsc.gov.uk/cyberessentials/overview), all our laptops must meet a certain set of requirements. For Mac and Windows machines that is controlled remotely by our IT Partner Aura. For Linux machines that currently all needs to be done manually.
 
 The documentation below is valid in places and out of date (but not incorrect) in others. A new set of standards is being put together but it won't be ready until January 2022. At that point this new information will move to the internally facing Knowledge Base.
 
@@ -14,7 +14,7 @@ The operating system must be a current, supported version, that continues to rec
 Check [Ubuntu releases](https://wiki.ubuntu.com/Releases) to ensure that your version is supported.
 
 ## Full disk encryption
-**This is the most important step**. When you install your operating system there will be a checkbox to enable this. Please set a disk encryption password that fits the [password policy](https://github.com/madetech/handbook/blob/7d4a7f840a587fed5046045cbe43f8222cabb194/guides/security/password_policy.md).
+**This is the most important step**. When you install your operating system there will be a checkbox to enable this. Please set a disk encryption password that fits the [password policy](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/7d4a7f840a587fed5046045cbe43f8222cabb194/guides/security/password_policy.md).
 
 It may be possible to encrypt dual booted or manual partitions but it is simpler to erase the disk and follow the guided installation for one operating system.
 
@@ -92,7 +92,7 @@ Your system should *not* auto mount or auto run files when media, such as a remo
 In Ubuntu this feature can be disabled by selecting _"Never prompt or start programs on media insertion"_ in _Settings_ > _Removable media_.
 
 ## VPN
-You must have [Made Tech's VPN](vpn/README.md) configured on your system.
+You must have [Afiax's VPN](vpn/README.md) configured on your system.
 
 ## Anti-virus
 You must be running Anti-virus software. The installed AV software must:
@@ -103,7 +103,7 @@ You must be running Anti-virus software. The installed AV software must:
 You can test the configuration of your AV software using the test files provided by [EICAR](https://www.eicar.org/) on their ["Anti Malware Testfile" page](https://www.eicar.org/download-anti-malware-testfile/). For example, after downloading `eicar.com.txt` it should not be possible to open the file in a text editor.
 
 ## SentinelOne
-SentinelOne is the Linux Anti-virus Software of choice at Made Tech. To get set up with SentinelOne follow the instructions below
+SentinelOne is the Linux Anti-virus Software of choice at Afiax. To get set up with SentinelOne follow the instructions below
 
 ### Step 1: Download and install the package
 * [DEB Installer](https://ncrepository.z33.web.core.windows.net/sentinelone/SentinelAgent-Linux-22-1-2-7-x86-64-release-22-1-2_linux_v22_1_2_7.deb) - For Debian/Ubuntu based distributions
@@ -124,7 +124,7 @@ or
 sudo rpm -i --nodigest ~/Downloads/Signed-SentinelAgent-Linux-22-1-2-7-x86-64-release-22-1-2_linux_v22_1_2_7.rpm
 ```
 
-### Step 2: Register the Made Tech licence key to your SentinelOne install 
+### Step 2: Register the Afiax licence key to your SentinelOne install 
 
 You can find the licence key in 1Password.
 ```

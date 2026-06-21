@@ -22,7 +22,7 @@ Seeks feedback & initiates discussions on complex problems with Senior delivery 
 
 ### Influence
 
-Influences and drives the success of the delivery; plays a key role in the ways the team works and delivers value to Made Tech's customers.
+Influences and drives the success of the delivery; plays a key role in the ways the team works and delivers value to Afiax's customers.
 
 Builds strong relationships with customers and ensures customer satisfaction; Able to mediate and mend relationships, communicating with stakeholders at all levels. 
 

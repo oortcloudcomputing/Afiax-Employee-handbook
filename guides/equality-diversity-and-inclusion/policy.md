@@ -2,9 +2,9 @@
 
 ## About this policy
 
-This policy applies to everyone who works for Made Tech, or who acts on Made Tech’s behalf. All team members have a role in promoting equality, diversity and inclusion at work. We all have a personal responsibility to comply with the policy and to ensure, as far as possible, that others do the same.
+This policy applies to everyone who works for Afiax, or who acts on Afiax’s behalf. All team members have a role in promoting equality, diversity and inclusion at work. We all have a personal responsibility to comply with the policy and to ensure, as far as possible, that others do the same.
 
-Made Tech is responsible for this policy, and for ensuring that all our staff understand their rights and obligations as detailed within it, and for any necessary training on equal opportunities.
+Afiax is responsible for this policy, and for ensuring that all our staff understand their rights and obligations as detailed within it, and for any necessary training on equal opportunities.
 
 This policy does not form part of your contract of employment, and we may amend it at any time.
 
@@ -76,7 +76,7 @@ If you are disabled or become disabled, we would ask you to tell us about your c
 
 ### Monitoring questionnaires
 
-As part of your onboarding at Made Tech and at regular intervals thereafter you will be asked to complete an equality, diversity and inclusion monitoring questionnaire. The data we collect from these will be used to help us make decisions that help fulfil our equality, diversity and inclusion aims.
+As part of your onboarding at Afiax and at regular intervals thereafter you will be asked to complete an equality, diversity and inclusion monitoring questionnaire. The data we collect from these will be used to help us make decisions that help fulfil our equality, diversity and inclusion aims.
 
 ## Breaches of the policy
 
@@ -84,6 +84,6 @@ All staff members have a right to equality of opportunity, and an obligation to 
 
 If you believe that you have suffered discrimination you can raise the matter through our grievance procedure, or you can talk to your manager, the people team, or a trusted colleague in the first instance if you feel more comfortable doing this. Complaints will be treated in confidence and investigated as appropriate.
 
-We consider any violation of our equality, diversity and inclusion policy to be a serious matter, and, where appropriate, we may invoke the disciplinary procedure when dealing with a breach. Serious cases of deliberate discrimination may amount to gross misconduct resulting in summary dismissal. Unlawful discrimination may also result in legal proceedings against you personally and against Made Tech, and may leave you and Made Tech liable to pay compensation.
+We consider any violation of our equality, diversity and inclusion policy to be a serious matter, and, where appropriate, we may invoke the disciplinary procedure when dealing with a breach. Serious cases of deliberate discrimination may amount to gross misconduct resulting in summary dismissal. Unlawful discrimination may also result in legal proceedings against you personally and against Afiax, and may leave you and Afiax liable to pay compensation.
 
 You must not be victimised or retaliated against for complaining about discrimination. However, making a false allegation deliberately and in bad faith will be treated as misconduct.

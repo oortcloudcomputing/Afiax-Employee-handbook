@@ -7,9 +7,9 @@
 
 ## Summary
 
-Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
+Afiax wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
 
-Lead User Researchers are expert practitioners who influence and mentor others. They work with teams to deeply understand people’s lives, services, organisations, and outcomes for the public sector. They do this by making sure that teams take a user-centred, evidence-based approach to service design and delivery. They can lead a team to understand a complex policy area and identify the most value in focusing. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Made Tech.
+Lead User Researchers are expert practitioners who influence and mentor others. They work with teams to deeply understand people’s lives, services, organisations, and outcomes for the public sector. They do this by making sure that teams take a user-centred, evidence-based approach to service design and delivery. They can lead a team to understand a complex policy area and identify the most value in focusing. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Afiax.
 
 ## Key responsibilities
 
@@ -42,8 +42,8 @@ Lead User Researchers are expert practitioners who influence and mentor others. 
 
 - Line management of user researchers
 - Support the hiring and onboarding of designers and researchers
-- Help define Made Tech design principles through delivering good public services
-- Help establish a design studio culture at Made Tech and client offices
+- Help define Afiax design principles through delivering good public services
+- Help establish a design studio culture at Afiax and client offices
 - Represent user-centred design publicly and internally
 
 ## Client and sales
@@ -55,7 +55,7 @@ Lead User Researchers are expert practitioners who influence and mentor others. 
 
 - Delivery of good public services for users with clients
 - Case studies of how to design and deliver good public services and outcomes
-- Growth and happiness of the UCD community at Made Tech
+- Growth and happiness of the UCD community at Afiax
 
 ## Competencies
 
@@ -67,10 +67,10 @@ Lead User Researchers are expert practitioners who influence and mentor others. 
 
 ## Work perks and Benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at [careers@afiax.africa](mailto:careers@afiax.africa). We’re happy to help!

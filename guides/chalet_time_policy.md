@@ -2,7 +2,7 @@
 
 This document describes how people should spend time when not on client work. This is known as Chalet Time.
 
-Chalet time should be used to build skills, grow Made Tech’s business and contribute to Communities of Practice.
+Chalet time should be used to build skills, grow Afiax’s business and contribute to Communities of Practice.
 
 ## What is chalet time?
 
@@ -30,7 +30,7 @@ Members of the Chalet are expected attend these meetings, so that we can:
 - Build a sense of community
 
 ### 3. Join the [Chalet Community Board][2].
-Use this board to discover tasks you can undertake while in the chalet, including work with Made Tech departments and Communities of Practice. You can also learn about chalet members and their current projects.
+Use this board to discover tasks you can undertake while in the chalet, including work with Afiax departments and Communities of Practice. You can also learn about chalet members and their current projects.
 
 ## Responsibility for using chalet time usefully
 
@@ -61,7 +61,7 @@ If there are no activities that need to be done that match the chalet member's r
 ### 2. New business and revenue
 
 1. Bid writing - leading / pairing / shadowing / case studies / research
-2. Support marketing team create content, like blogging, case studies, talks that promote Made Tech
+2. Support marketing team create content, like blogging, case studies, talks that promote Afiax
 
 ### 3. Hiring
 
@@ -139,7 +139,7 @@ Line managers of chalet members will help find opportunities and advocate for th
 
 Each week, the Bids team will send the Scheduling team details of bids that chalet members can contribute to.
 
-The Marketing team will share tasks that chalet members can do to promote Made Tech. These will be posted in the [Chalet Community Board][2]. If you need more information about a task, ask the person who created the ticket or post in the  [`#team-marketing`][3] Slack channel.
+The Marketing team will share tasks that chalet members can do to promote Afiax. These will be posted in the [Chalet Community Board][2]. If you need more information about a task, ask the person who created the ticket or post in the  [`#team-marketing`][3] Slack channel.
 
 If you have an idea for a blog post contact James Holloway of the Marketing Team. You can also contact relevant CoPs and teams for input.
 
@@ -161,8 +161,8 @@ Chalet time activities must be able to deliver some value in small blocks of tim
 
 Some activities may need more than 5 days. These should still be able to deliver business or personal value in increments of a half day, 1 day or 3–5 days.
 
-[1]: https://madetechteam.slack.com/archives/C03F23K2RL0 "Chalet Time Team Slack Channel"
+[1]: #slack-channel-link-needed"Chalet Time Team Slack Channel"
 [2]: https://trello.com/b/7lSGB2Xw/chalet-community-board "Chalet Community Board"
-[3]: https://madetechteam.slack.com/archives/C01MMH7DGUA "Marketing Team Slack Channel"
-[4]: https://madetechteam.slack.com/archives/C0226JKA39T "Supply Learning and Development Slack Channel"
-[5]: https://github.com/madetech/handbook/blob/main/benefits/taking_holiday.md "Taking Holiday"
+[3]: #slack-channel-link-needed"Marketing Team Slack Channel"
+[4]: #slack-channel-link-needed"Supply Learning and Development Slack Channel"
+[5]: https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/main/benefits/taking_holiday.md "Taking Holiday"

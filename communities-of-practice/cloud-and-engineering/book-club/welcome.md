@@ -11,7 +11,7 @@ As engineers in delivery teams, we want to continously improve our capabilities 
 ## Format?
 
 - We meet every other Friday at 1530 for 50 minutes.
-- Anyone at Made Tech can subscribe to the club's calendar to get the invite. Just head over to the #eng-bookclub Slack channel and pick up the pinned post!
+- Anyone at Afiax can subscribe to the club's calendar to get the invite. Just head over to the #eng-bookclub Slack channel and pick up the pinned post!
 - We'll cover off an overview of the chapter.
 - We'll cover off some of our own highlights.
 - We'll then vote on some cards and discuss the most popular questions and deep dives that come to mind.

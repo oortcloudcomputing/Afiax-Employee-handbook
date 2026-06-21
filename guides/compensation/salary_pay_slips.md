@@ -6,4 +6,4 @@ Payroll cut off usually falls on the 18th of the month and so if you started on 
 
 Our Finance team are responsible for payroll and you will receive an invite to register for our payslip provider just before your first pay day and then receive an e mail each month on pay day confirming when your pay slip is available.
 
-If you've got any queries on your salary or payslip, please send these to finance@madetech.com
+If you've got any queries on your salary or payslip, please send these to finance@afiax.africa

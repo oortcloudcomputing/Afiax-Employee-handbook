@@ -12,14 +12,14 @@ Visitors should be given a visitor lanyard.
 If someone tries to enter the office and you feel uncomfortable, you are within your rights to challenge their reasons for entry (gently).
 
 ### Unauthorised Access
-Attackers may attempt to gain access to our offices in order to do Made Tech or our clients harm. They may use techniques to gain your trust, take advantage of inattention, or capitalise on your desire to be helpful to gain access.
+Attackers may attempt to gain access to our offices in order to do Afiax or our clients harm. They may use techniques to gain your trust, take advantage of inattention, or capitalise on your desire to be helpful to gain access.
 
 **Remain vigilant for:**
 - Anyone you do not recognise trying to gain access to (or already in) the office
 - Anyone trying to follow you into the communal stairway or office
-- Anyone trying to observe the access codes for the communal stairway or Made Tech office
+- Anyone trying to observe the access codes for the communal stairway or Afiax office
 - Anyone who cannot provide a credible reason for gaining access to the building or office
-- Anyone who cannot name the member of the Made Tech team they are visiting
+- Anyone who cannot name the member of the Afiax team they are visiting
 - Anyone trying to pressure you for information about our building or office
 
 Remember, it is always ok to (politely) challenge any request for access from an unknown individual.

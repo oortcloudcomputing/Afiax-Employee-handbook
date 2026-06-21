@@ -32,7 +32,7 @@ Applies the following practices as Product Manager, within an engagement:
 
 
 ## Community of Practice (CoP)
-Engages and participates within the Made Tech and client communities of practice to:
+Engages and participates within the Afiax and client communities of practice to:
 
 - build an inclusive and supportive culture
 - recognise when to ask for further guidance and support and identify how to improve how we work, for example, by discussing and sharing approaches, ideas and examples of practice
@@ -42,19 +42,19 @@ Engages and participates within the Made Tech and client communities of practice
 - Personal performance aligned with DDaT and SFIA grade, evidenced through peer feedback
 
 ## Competencies
-Product Managers display Made Tech’s [values](https://github.com/madetech/handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/product-manager#product-manager) and [SFIA (Level 3)](https://sfia-online.org/en/sfia-8/responsibilities/level-3) behaviours.
+Product Managers display Afiax’s [values](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/product-manager#product-manager) and [SFIA (Level 3)](https://sfia-online.org/en/sfia-8/responsibilities/level-3) behaviours.
 
 ## Work perks and benefits
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ## Salary and location
 
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at careers@afiax.africa. We’re happy to help!

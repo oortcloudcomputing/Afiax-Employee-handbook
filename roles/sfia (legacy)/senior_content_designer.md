@@ -1,9 +1,9 @@
 # SFIA Role Guidance: Senior Content Designer
 - [SFIA Level 4: Enable](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
-- [Job description](https://github.com/madetech/handbook/blob/main/roles/senior_content_designer.md)
+- [Job description](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/main/roles/senior_content_designer.md)
 
 ## Summary of role
-Our Senior Content Designers are strong practitioners who work with minimal support and can influence and mentor others to meet user needs and make complex processes easy to understand. They do this by setting the direction, assuring the quality of content design delivery within a team working on a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
+Our Senior Content Designers are strong practitioners who work with minimal support and can influence and mentor others to meet user needs and make complex processes easy to understand. They do this by setting the direction, assuring the quality of content design delivery within a team working on a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Afiax.
 
 ## Required competency for role
 ### Autonomy
@@ -36,7 +36,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 _Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 - Works closely with the team to identify user needs, write and map user stories, design content plans, create and publish content
 - Drives team towards good quality content design by influencing their whole team to work on problems in a suitable way.
-- Line manages content designers new to Made Tech and the public sector. Coaches them on where to spend energy and what to compromise on, using the design guides and operating models as reference.
+- Line manages content designers new to Afiax and the public sector. Coaches them on where to spend energy and what to compromise on, using the design guides and operating models as reference.
 - Presents clearly and confidently the design decisions at the start of each sprint to the whole team. Making it clear what hypotheses the prototypes are trying to prove or disprove.
 - Regularly pairs with other disciplines in their team such as user researchers. Able to see when this is needed to move work forward and show the value of working closely together like this.
 - Writes key content to form part of a minimal viable service a team can ship as its first release.
@@ -72,7 +72,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 - Explains their role as Content Designer in the different GDS service design phases. Can advise a client or team how to get the best value out of their time.
 - Reads around the wider context of their teams work, be that client blog posts, ministerial announcements or news about a new policy. Can communicate the policy intent behind the work and how it relates to making the language of what can be complex policies easy to understand.
 - Suggests activities and tools to their team for designing a service with fewer barriers for people with disabilities and other access needs.
-- Attends events relating to public sector content design. Shares learnings with the wider community of practice at Made Tech.
+- Attends events relating to public sector content design. Shares learnings with the wider community of practice at Afiax.
 - Trials a new content technique from other organisations in their own team. Then, evaluates how effective the technique is and shares learning with the wider community of practice.
 - Decide what is the most effective way to test an idea, be that card sorting, a paper prototype or A/B test.
 
@@ -90,8 +90,8 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 - Manages own time to get designs or content changes ready for testing with users. Is able to fit in other responsibilities like line management without it affecting their team's ability to learn and deliver value.
 - Facilitates a workshop with their team and stakeholders to show how the different steps of a service might fit together. Is able to hold and move on conversations.
 - Can demonstrate user needs focus underpinning decisions on Information Architecture, patterns, layout, language and design to stakeholders who may have had other preferences.
-- Supports the development of content design at Made Tech.
-- Represents Made Tech in the wider UCD community through writing or speaking. 
+- Supports the development of content design at Afiax.
+- Represents Afiax in the wider UCD community through writing or speaking. 
 - Trustworthy, acts with integrity, openness and impartiality. 
 - Able to navigate and handle conflict within teams and with stakeholders.
 - Support the sales team in proposal writing. 

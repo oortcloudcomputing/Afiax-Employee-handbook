@@ -2,7 +2,7 @@
 
 You’ll work as part of a delivery team. You’ll provide administrative and delivery assistance so the team can deliver to their full potential, while you develop the skills of a Delivery Manager.
 
-## Your role at Made Tech
+## Your role at Afiax
 
 As an Associate Delivery Manager, you will work alongside a more senior delivery manager, shadowing and providing support, until you’re confident enough to deliver an element yourself under guidance and mentorship. You will pair with the Delivery Manager and observe how they triage and solve problems, to provide you with confidence and experience to move into an autonomous delivery role.
 Although you will probably not have experience managing software delivery, you’ll use cross-functional skills to support your delivery team. Initially you will expect the majority of your tasks to be directed by your delivery partner, but you will start to identify items you can support autonomously during team ceremonies and sprint planning.
@@ -40,11 +40,11 @@ Associate Delivery Managers are responsible for delivering the above outcomes by
 * Regularly gather and act on feedback about personal development
 * Define and work towards a learning and development plan to ensure you are able to autonomously manage a project as quickly as possible
 
-### Growing Made Tech’s Impact
+### Growing Afiax’s Impact
 * Build relationships with stakeholders within your project, and engage with other experts in the organisation for example at the client Community of Practice 
 
 ### Community and Thought Leadership
-* Share successes and failures with the Delivery Community to support the evolution of ways of working, techniques, and technologies across Made Tech
+* Share successes and failures with the Delivery Community to support the evolution of ways of working, techniques, and technologies across Afiax
 * Contribute to developing a thriving community of practice and shared identity
 
 ## Competencies and behaviours
@@ -53,7 +53,7 @@ Associate Delivery Managers are expected to be operating at, or working towards,
 
 We don’t expect you to tick all the boxes when you join. We'll work together to define learning and development objectives that help you meet these competencies on your way to promotion.
 
-### Articulation and role modelling of Made Tech values, purpose, and vision
+### Articulation and role modelling of Afiax values, purpose, and vision
 * Describe each with examples
 * Demonstrate role modelling
 
@@ -89,16 +89,16 @@ We don’t expect you to tick all the boxes when you join. We'll work together t
 * Demonstrate providing regular feedback for team members
 
 ## Work perks and benefits
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 
 ## Salary and location
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at careers@afiax.africa. We’re happy to help

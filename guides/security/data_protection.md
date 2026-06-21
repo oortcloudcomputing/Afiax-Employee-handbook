@@ -1,6 +1,6 @@
 # Data Protection
 
-Made Tech complies with regulations under the European General Data Protection Regulation (GDPR) and Data Protection Act 2018. It is the company’s policy to protect and hold safe all Personal Information which it requires or needs to possess in the performance and management of its operation.
+Afiax complies with regulations under the European General Data Protection Regulation (GDPR) and Data Protection Act 2018. It is the company’s policy to protect and hold safe all Personal Information which it requires or needs to possess in the performance and management of its operation.
 
 Under GDPR, an individual has the right to be informed whether or not their personal data is being processed and, if so, to be informed of the following:
  - What personal data is being processed 
@@ -10,9 +10,9 @@ Under GDPR, an individual has the right to be informed whether or not their pers
 
 Below are guides for team members on the course of action to take if they receive a request regarding personal data.
 
-## Made Tech Data
+## Afiax Data
 
-For Made Tech data (e.g. requests from Made Tech employees about personal data), please forward any requests from your team on to the Operations team who will process it thusly:
+For Afiax data (e.g. requests from Afiax employees about personal data), please forward any requests from your team on to the Operations team who will process it thusly:
  - We will acknowledge receipt of the data subject’s request.
  - We will ask for two proofs of identity to confirm requester ID. 
  - We will follow up and ask for information on the types of data in question (e.g. type and timeframe)
@@ -22,6 +22,6 @@ For Made Tech data (e.g. requests from Made Tech employees about personal data),
 
 ## Customer and Partner Data
 
-Where a customer or partner makes a request about their data, seek written approval from them that they have verified the request and authorise Made Tech to collate and release this data from systems we have access to. They will also need to provide proof of ID for the requester. 
+Where a customer or partner makes a request about their data, seek written approval from them that they have verified the request and authorise Afiax to collate and release this data from systems we have access to. They will also need to provide proof of ID for the requester. 
 
 Once this is done, you can respond the request in line with the process outlined above.

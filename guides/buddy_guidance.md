@@ -2,9 +2,9 @@
 
 You've been chosen to be a buddy to a new team member - Yay. Here's some guidance to help you find out what's expected.
 
-A buddy is a friend at Made Tech. Someone friendly who helps new team members connect and find their way, especially in their first 3 months with us when everything is new to them. 
+A buddy is a friend at Afiax. Someone friendly who helps new team members connect and find their way, especially in their first 3 months with us when everything is new to them. 
 
-Being a buddy is a really important way to help a new person integrate into Made Tech. 
+Being a buddy is a really important way to help a new person integrate into Afiax. 
 When we're back in the office, you will show them all the good lunch places near the office, take them out for a coffee or lunch and help them find their way in the local area. 
 
 As we're working remotely currently, most or all of your interactions will happen on video calls which we call 'coffee chats'.

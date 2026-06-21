@@ -27,7 +27,7 @@ Applies the following practices as an Associate Business Analyst, within an enga
 
 
 ## Community of Practice (CoP)
-Engages and participates within Made Tech communities of practice to:
+Engages and participates within Afiax communities of practice to:
 - Recognise when to ask for further guidance and support and identify how to improve how we work. For example, discussing and sharing approaches, ideas and examples of practice.
 
 ## Key measures
@@ -35,9 +35,9 @@ Engages and participates within Made Tech communities of practice to:
 - Personal performance aligned with DDaT, evidenced through peer feedback.
 
 ## Competencies
-Associate Level Business Analysts display Made Tech’s values, relevant DDaT capabilities.
+Associate Level Business Analysts display Afiax’s values, relevant DDaT capabilities.
 ## Work perks and benefits
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ## Salary and location
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea.
@@ -48,4 +48,4 @@ UK: TBC
 London & South East: TBC
 
 ## Applying
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at careers@afiax.africa. We’re happy to help!

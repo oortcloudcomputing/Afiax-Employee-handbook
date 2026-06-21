@@ -7,9 +7,9 @@
 
 ## Summary
 
-Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
+Afiax wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
 
-Associate Designers are practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by understanding problems and creating solutions that work equally well for users and stakeholders. They are active members of a healthy user-centred design (UCD) community and culture at Made Tech.
+Associate Designers are practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by understanding problems and creating solutions that work equally well for users and stakeholders. They are active members of a healthy user-centred design (UCD) community and culture at Afiax.
 
 Associate Designers might:
 - have a degree in a subject like UX design or interaction design
@@ -36,11 +36,11 @@ Associate Designers might:
 
 ## Community
 
-- Take part in Made Tech community activities
+- Take part in Afiax community activities
 
 ## Key measures
 
-- Delivery of good public services for users in partnership with Made Tech’s clients
+- Delivery of good public services for users in partnership with Afiax’s clients
 
 ## Competencies
 
@@ -52,12 +52,12 @@ Associate Designers might:
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at [careers@afiax.africa](mailto:careers@afiax.africa). We’re happy to help!

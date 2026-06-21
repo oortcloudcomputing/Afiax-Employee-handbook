@@ -5,7 +5,7 @@
 
 ## Summary of role
 
-Our Senior User Researchers play a key role in leading project teams and setting direction for project work. They’re expert practitioners, confident leading the planning and running of user research on complicated and large scale public sector projects. They are vocal and visible contributors to our user-centred design (UCD) community and culture at Made Tech.
+Our Senior User Researchers play a key role in leading project teams and setting direction for project work. They’re expert practitioners, confident leading the planning and running of user research on complicated and large scale public sector projects. They are vocal and visible contributors to our user-centred design (UCD) community and culture at Afiax.
 
 ## Required competency for role (with example behaviours)
 
@@ -84,8 +84,8 @@ Demonstrates leadership. Communicates effectively, both formally and informally
 
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 
-- Supports the development of user research at Made Tech
-- Represents Made Tech in the wider UCD community through writing or speaking
+- Supports the development of user research at Afiax
+- Represents Afiax in the wider UCD community through writing or speaking
 - Trustworthy, acts with integrity, openness and impartiality
 - Able to navigate and handle conflict within teams and with stakeholders
 - Can help colleagues understand how digital technology is changing user behaviour, and the challenges and opportunities for government services.

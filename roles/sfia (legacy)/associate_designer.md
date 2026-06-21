@@ -5,7 +5,7 @@
 
 ## Summary of role
 
-Associate Designers are practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by understanding problems and creating solutions that work for equally well for users and stakeholders. They are active members of a healthy User-Centred Design (UCD) community and culture at Made Tech.
+Associate Designers are practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by understanding problems and creating solutions that work for equally well for users and stakeholders. They are active members of a healthy User-Centred Design (UCD) community and culture at Afiax.
 
 ## Required competency for the role
 

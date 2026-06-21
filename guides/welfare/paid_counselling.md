@@ -16,7 +16,7 @@ We have setup an employee assistance programme to provide our team with advice o
 
 ### Getting assistance
 
-- Access help via the help@hand mobile app. You'll receive an email in your Made Tech inbox to activate your account. This will be available to you from week 1.
+- Access help via the help@hand mobile app. You'll receive an email in your Afiax inbox to activate your account. This will be available to you from week 1.
 - **Contacting help@hand** email help-at- hand@squarehealth.com or call 0333 577 7805.
 
 ### Confidentiality

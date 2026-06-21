@@ -5,7 +5,7 @@
 
 ## Summary of role
 
-Our Senior Designers are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team working on a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
+Our Senior Designers are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team working on a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Afiax.
 
 ## Required competency for the role
 
@@ -48,7 +48,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 
-- Line managers designer new to Made Tech and public sector. Coaches them where to spend energy and what stuff to compromise on. 
+- Line managers designer new to Afiax and public sector. Coaches them where to spend energy and what stuff to compromise on. 
 
 - Presents clearly and confidently the design decisions at the start of each sprint to the whole team. Making it clear what hypotheses the prototypes are trying to prove or disprove. 
 
@@ -104,7 +104,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 
 - Suggests activities and tools to their team for designing a service with fewer berries for people with disabilities and other access needs. 
 
-- Attends events relating to public sector design or user research. Share learnings with the wider community of practice at Made Tech about what ideas from the idea might copying and trialling. 
+- Attends events relating to public sector design or user research. Share learnings with the wider community of practice at Afiax about what ideas from the idea might copying and trialling. 
 
 - Trials a new design technique from another organisation in their own team. Evaluate how effective the tool is and shares learning with the wider community of practice. 
 

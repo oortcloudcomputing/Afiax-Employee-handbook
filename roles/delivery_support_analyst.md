@@ -3,14 +3,14 @@
 Salary: Please refer to the job ad when this role is live
 Location: Bristol, London, Manchester or Swansea with hybrid-working policy
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
-## Your role at Made Tech
-The Delivery Support Analyst in PMO at Made Tech plays an essential role in ensuring the seamless execution and oversight of the company's digital transformation engagements. 
+## Your role at Afiax
+The Delivery Support Analyst in PMO at Afiax plays an essential role in ensuring the seamless execution and oversight of the company's digital transformation engagements. 
 
-This role will see you managing workstream reporting, ensuring compliance with Statements of Work (SoW), and maintaining a comprehensive RAID (Risks, Assumptions, Issues, Dependencies) log across all Made Tech engagements. 
+This role will see you managing workstream reporting, ensuring compliance with Statements of Work (SoW), and maintaining a comprehensive RAID (Risks, Assumptions, Issues, Dependencies) log across all Afiax engagements. 
 
 This involves capturing and managing the demand for resources within each workstream or SoW, coordinating with the Scheduling team to raise and manage resource requests, and working closely with workstream leads to ensure the appropriate allocation of resources. 
 
@@ -24,7 +24,7 @@ Furthermore, this role ensures accurate and timely completion of timesheets acro
 
 The management of team work plans, schedules, and on-site registers also falls under the PMO's purview, allowing for the consistent and organised execution of projects.
 
-Beyond operational management support, the Delivery Support Analyst at Made Tech is responsible for producing timely, visual, and client-ready reports on all aspects of the engagements. 
+Beyond operational management support, the Delivery Support Analyst at Afiax is responsible for producing timely, visual, and client-ready reports on all aspects of the engagements. 
 
 These reports are crucial for communicating the current status, risks, and progress to various stakeholders, including the C-Suite, ensuring transparency and informed decision-making. 
 
@@ -38,12 +38,12 @@ Finally, the Delivery Support Analyst creates and maintains all key engagement d
 
 This documentation is vital for keeping a detailed and organised record of project activities, decisions, and changes. 
 
-As an active participant in the Delivery Management community, this role not only helps to drive the successful delivery of current engagements but also contributes to the continuous improvement of project management practices within Made Tech, ensuring that the organisation remains agile, efficient, and responsive to client needs.
+As an active participant in the Delivery Management community, this role not only helps to drive the successful delivery of current engagements but also contributes to the continuous improvement of project management practices within Afiax, ensuring that the organisation remains agile, efficient, and responsive to client needs.
 
 ## Responsibilities
 
-* Manage work stream reporting, SoW compliance reporting and overall RAID log for Made Tech’s engagements
-* Capture and manage demand for resources within each of the Made Tech account workstreams/ SoWs. Work with Scheduling to raise/ manage resource requests and work with workstream leads to verify appropriate resource allocation
+* Manage work stream reporting, SoW compliance reporting and overall RAID log for Afiax’s engagements
+* Capture and manage demand for resources within each of the Afiax account workstreams/ SoWs. Work with Scheduling to raise/ manage resource requests and work with workstream leads to verify appropriate resource allocation
 * Support onboarding new team members and create rotation plans where appropriate
 * Track budget and capacity within each work stream/ SoW, highlighting risks and issues to Delivery Manager
 * Ensure accurate and timely timesheet completion across all work streams/ SoWs
@@ -53,7 +53,7 @@ As an active participant in the Delivery Management community, this role not onl
 * Facilitate key meetings/ ceremonies with stakeholders where appropriate
 * Oversee dependencies, action/ issue monitoring, and controls and help to perform health checks work streams/ SoWs
 * Create and maintain all key engagement documentation, or work with the Delivery Manager to bring additional specialist knowledge onboard 
-* Present and report on engagement status to the agreed frequency level to a range of stakeholders across the business, up to C-Suite level. Be an active participant in the Delivery Management community within the engagement and Made Tech
+* Present and report on engagement status to the agreed frequency level to a range of stakeholders across the business, up to C-Suite level. Be an active participant in the Delivery Management community within the engagement and Afiax
 
 ### Expected outcomes 
 

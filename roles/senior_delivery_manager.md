@@ -2,25 +2,25 @@
 
 Our Senior Delivery Managers lead digital projects. They make sure our clients have positive experiences and achieve great outcomes. They also make sure our teams deliver to their full potential.
 
-## Your role at Made Tech
+## Your role at Afiax
 Senior Delivery Managers are accountable for successful project delivery. Normally working within one or two teams, you will promote effective cross-functional delivery by building motivated, collaborative delivery teams. You will use agile methodologies, with additional processes for managing dependencies, supporting risk mitigation and resolution, and managing the project scope and budget.
 
 You will work as part of a cross functional delivery team, which may include client stakeholders and partner agencies. You will personify servant leadership, promoting a collaborative approach to make sure the project delivers the desired outcomes for users and clients, working together to identify and manage risks and issues that arise. You will be empowered to solve problems that arise independently, but will be supported by a Lead or Principal Delivery Manager when needed. You will build effective working relationships with client stakeholders, and are the go-to person for questions about the delivery of a project.
 
 You will have a good understanding of agile delivery, and are able to work with a team and client stakeholders to determine the delivery methodology that will best work with the needs of the project (for example Scrum, or Kanban). You will help build trust with stakeholders and guide clients throughout the delivery process using your influence to continuously iterate and approve team processes. You will work with a Product Manager to define and deliver against a roadmap in order to monitor whether the project is on track and support conversations about priority, scope and budget.
 
-You understand that you will get out what you put into the organisation you work in, so you look for ways to contribute to Made Tech beyond the scope of your delivery. This could include participating in and contributing to the Delivery Community of Practice (COP), managing the performance and development of a number of Delivery Managers and supporting recruitment activities. You may also contribute to other areas of the business, for example learning and development or marketing.
+You understand that you will get out what you put into the organisation you work in, so you look for ways to contribute to Afiax beyond the scope of your delivery. This could include participating in and contributing to the Delivery Community of Practice (COP), managing the performance and development of a number of Delivery Managers and supporting recruitment activities. You may also contribute to other areas of the business, for example learning and development or marketing.
 
 ## Definition of success
 
-Success as a Senior Delivery Manager is predominantly measured by delivering successful outcomes to our clients, but is also assessed through contribution to Made Tech as an organisation, and effective line management where appropriate.
+Success as a Senior Delivery Manager is predominantly measured by delivering successful outcomes to our clients, but is also assessed through contribution to Afiax as an organisation, and effective line management where appropriate.
 
 ### Expected outcomes
 * Effective quality and risk management
 * Accountable for ensuring accurate and timely adherence to all critical business processes within the delivery 
-* Balance client satisfaction and team happiness with Made Tech’s commercial goals
+* Balance client satisfaction and team happiness with Afiax’s commercial goals
 * Contribute to the Delivery Community of Practice
-* Contribute to growing Made Tech’s impact
+* Contribute to growing Afiax’s impact
 * Accelerate the career of other Delivery Managers through line management, coaching and mentoring, and knowledge sharing
 
 ### KPIs
@@ -37,7 +37,7 @@ Senior Delivery Managers are responsible for delivering the above outcomes by co
 ### Project Level Delivery Assurance
 * Accountable for ensuring delivery success, including scope, budget and quality
 * Report to Heads of Delivery on a weekly basis the status of quality and risk
-* Manage team resourcing to balance successful client delivery, team happiness and Made Tech commercial objectives 
+* Manage team resourcing to balance successful client delivery, team happiness and Afiax commercial objectives 
 * Ensure compliance and accuracy of all critical business processes (time sheeting, invoicing, forecasting, delivery assurance reporting)
 * Support commercial activities (Statements of Work, purchase order numbers, supplier contracts for partners, IR35 assessments for contractors, raising staffing demands)
 
@@ -46,13 +46,13 @@ Senior Delivery Managers are responsible for delivering the above outcomes by co
 * Management of Delivery Managers including performance, progression and satisfaction (where appropriate)
 * Ensure regular feedback (constructive and/or appreciative) is shared with all individuals working on your projects
 
-### Growing Made Tech’s Impact
+### Growing Afiax’s Impact
 * Ensure your clients are motivated to bring repeat business and recommend our services to others
-* Identify opportunities for Made Tech to deliver value for the client beyond the current project
+* Identify opportunities for Afiax to deliver value for the client beyond the current project
 * Build relationships with stakeholders within your project, and engage with other experts in the organisation for example at the client Community of Practice 
 
 ### Community and Thought Leadership
-* Share successes and failures with the Delivery Community to support the evolution of ways of working, techniques, and technologies across Made Tech
+* Share successes and failures with the Delivery Community to support the evolution of ways of working, techniques, and technologies across Afiax
 * Contribute to developing a thriving community of practice and shared identity
 
 ## Competencies and behaviours
@@ -60,7 +60,7 @@ Senior Delivery Managers are expected to be operating at, or working towards, [S
 
 Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies on your way to promotion.
 
-### Articulation and role modelling of Made Tech values, purpose, and vision
+### Articulation and role modelling of Afiax values, purpose, and vision
 * Describe each with examples
 * Demonstrate role modelling
 
@@ -68,7 +68,7 @@ Don’t worry - we don’t expect you to tick all of these when you join, we wil
 * Articulate project commercial fundamentals (Statements of Work, Purchase Orders, Gross Profit Margin, Forecasting, Burndown)
 * Describe how they are supporting commercial activities within their delivery
 * Be able to demonstrate that the team is on track to meet the deliverables defined in the SOW
-* Be able to recall and describe key Made Tech case studies, including where you were not directly involved in the project 
+* Be able to recall and describe key Afiax case studies, including where you were not directly involved in the project 
 
 ### Time management and prioritisation
 * Demonstrate prioritisation and time management
@@ -77,7 +77,7 @@ Don’t worry - we don’t expect you to tick all of these when you join, we wil
 
 * Demonstrate fast remediation of performance issues, including highlighting issues to the relevant capability lead and requesting support where necessary*
 * Demonstrate encouragement of high performers, to support them towards successful promotions
-* Maintain compliance with all expectations of line management at Made Tech, with support
+* Maintain compliance with all expectations of line management at Afiax, with support
 * Demonstrate providing regular feedback for team members
 
 Note: not all SDMs will be line managers, but this will not impact assessment of performance
@@ -92,8 +92,8 @@ Note: not all SDMs will be line managers, but this will not impact assessment of
 * Demonstrate collaborating with capability experts (e.g. Lead Engineer / Lead Designer) to ensure deliveries adhere to best practices such as Security, DevOps, User Centred Design and Data Ethics
 * Be able to explain the purpose of each phase of the GDS Service Manual
 Demonstrate knowledge of where to find and how to use the GDS service standard
-* Be able to explain the Roles and Responsibilities of all of the roles that Made Tech employs
-* Be able to describe the Made Tech propositions, and articulate where to go or who to speak to learn more about these
+* Be able to explain the Roles and Responsibilities of all of the roles that Afiax employs
+* Be able to describe the Afiax propositions, and articulate where to go or who to speak to learn more about these
 * Demonstrate advocacy of best practice delivery with teams and clients 
 
 ### Facilitation and communication
@@ -109,16 +109,16 @@ Demonstrate knowledge of where to find and how to use the GDS service standard
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ## Salary and location
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at careers@afiax.africa. We’re happy to help!

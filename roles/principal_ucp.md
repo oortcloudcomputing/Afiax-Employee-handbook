@@ -13,7 +13,7 @@ Reporting to one of four Discipline Heads to support with multi-disciplinary acc
 
 ## Summary
 
-Made Tech wants to positively impact the country's future by using technology to improve society. We believe being user centred and product-led can create positive outcomes in the public sector through critical services enabled by technology. 
+Afiax wants to positively impact the country's future by using technology to improve society. We believe being user centred and product-led can create positive outcomes in the public sector through critical services enabled by technology. 
 
 We are building a community of designers, researchers and product professionals to support the public sector's growing demand for a user-centred, design and product led approach to how services are delivered.
 
@@ -27,7 +27,7 @@ You will do this by:
 * advising as a senior practice leader
 
 
-As part of all roles at Made Tech, we strive to be:
+As part of all roles at Afiax, we strive to be:
 * client focused
 * driven to deliver
 * always learning and mentoring others
@@ -46,7 +46,7 @@ Embedding our values into the principal role, you will:
 * coach and support multi-disciplinary teams to steer towards success
 * be an active contributor to the UCP Senior Leadership Team alongside Head of UCP and Discipline Heads. 
 
-As a practice leader within Made Tech, you will be expected to maintain and grow your professional network. You will be expected to contribute to thought leadership, content and events and should have a proven track record of doing so.
+As a practice leader within Afiax, you will be expected to maintain and grow your professional network. You will be expected to contribute to thought leadership, content and events and should have a proven track record of doing so.
 
 You will also be expected to bring discipline-specific experience to client deliver and support project teams with their specific needs. 
 
@@ -93,12 +93,12 @@ This includes:
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ##  Applying
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at careers@afiax.africa. We’re happy to help!
 

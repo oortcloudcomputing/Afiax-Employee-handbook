@@ -12,7 +12,7 @@ Slack is one of our most important cross company tools and used extensively by e
  - A picture (it doesn't have to be of you, but a clear view of your face is preferable.) This helps keep profiles easy to distinguish at a glance.
  - Your role/working group
  - Your office location
- - Your Made Tech email address
+ - Your Afiax email address
  
 You can also optionally add the following useful information to your profile if you feel comfortable doing so:
  - A pronunciation guide for your name

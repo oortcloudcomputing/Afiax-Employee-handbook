@@ -13,7 +13,7 @@ Afiax Connected Healthcare operates a Clear Desk/Clear Screen policy. This means
 ## Clear Screen:
 - If you need to leave your workstation for any reason, you should ensure your screen is locked and not visible
 - If you are using multiple screens, ensure you remain aware of what is displayed on both screens
-- When working outside the Made Tech Office (either from home, onsite with a client, or in a public space) ensure you remain aware of your surroundings and who may be able to view your screen. 
+- When working outside the Afiax Office (either from home, onsite with a client, or in a public space) ensure you remain aware of your surroundings and who may be able to view your screen. 
 
 ### Devices:
 - When not in use, turn off your device to ensure disk encryption is enabled.

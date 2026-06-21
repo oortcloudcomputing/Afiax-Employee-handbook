@@ -1,6 +1,6 @@
 # Pension Scheme
 
-We have introduced a much-improved pension offering for all employees (as of May 2022). The workplace pension scheme is run by Scottish Widows and follows a contribution matching model where Made Tech matches the level of contribution you decide to make.
+We have introduced a much-improved pension offering for all employees (as of May 2022). The workplace pension scheme is run by Scottish Widows and follows a contribution matching model where Afiax matches the level of contribution you decide to make.
 
 The pension contribution available to you is aligned to your SFIA level:
 - Grade 8: 4% employer matched
@@ -11,7 +11,7 @@ The pension contribution available to you is aligned to your SFIA level:
 
 The minimum contribution in every level is 4% (employer matched).
 There is no maximum contribution, however your salary must remain above the national minimum wage thresholds set by HMRC.
-If you’d like to adjust your contributions, please [submit a request via Made Benefits]([https://madetech.happl.com/]).
+If you’d like to adjust your contributions, please [submit a request via Made Benefits]([https://benefits.afiax.africa/]).
 
 Pension contributions are deferred for your first 90 days, if you want to opt in early add the date into the "Pension Scheme" section of your Hibob profile where you will be enrolled on a 4% contribution scheme which you can adjust after your probationary period.
 
@@ -25,4 +25,4 @@ You can read more about Workplace pensions on [gov.uk](https://www.gov.uk/workpl
 
 You can read more about Pensions and some third party advice on [MoneySavingExpert](http://www.moneysavingexpert.com/savings/discount-pensions)
 
-For any general pensions queries please enquire via Ask Made Tech.
+For any general pensions queries please enquire via Ask Afiax.

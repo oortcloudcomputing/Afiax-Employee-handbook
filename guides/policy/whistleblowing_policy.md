@@ -14,7 +14,7 @@ Whistleblowing is the reporting of suspected wrongdoing or dangers in relation t
 
 We hope that in many cases you will be able to raise any concerns with your manager. However, where you prefer not to raise it with your manager for any reason, you can:
 - contact the Head of People and/or Head of Operations. Contact details are at the end of this policy.
-- email whistleblowing@madetech.com (which will be confidentially sent to the same roles named above)
+- email whistleblowing@afiax.africa (which will be confidentially sent to the same roles named above)
 
 We will arrange a meeting with you as soon as possible to discuss your concern. You may bring a colleague or union representative to any meetings under this policy. Your companion must respect the confidentiality of your disclosure and any subsequent investigation.
 
@@ -41,7 +41,7 @@ The law recognises that in some circumstances it may be appropriate for you to r
 
 | Contact                                          | Details                                                                                            |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| Head of People                                   | Nina-Marie Purcell<br/>nina-marie.purcell@madetech.com                                             |
-| Head of Operations                               | Sam Paice<br/>sam.paice@madetech.com                                                               |
-| Whistleblowing email                             | whistleblowing@madetech.com
+| Head of People                                   | Nina-Marie Purcell<br/>nina-marie.purcell@afiax.africa                                             |
+| Head of Operations                               | Sam Paice<br/>sam.paice@afiax.africa                                                               |
+| Whistleblowing email                             | whistleblowing@afiax.africa
 | Protect<br/>(Independent whistleblowing charity) | Helpline: 0203 117 2520<br/>E-mail: whistle@pcaw.co.uk<br/>Website: https://protect-advice.org.uk  |

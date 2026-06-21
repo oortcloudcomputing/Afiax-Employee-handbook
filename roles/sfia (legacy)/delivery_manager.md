@@ -34,7 +34,7 @@ Able to manage stakeholders’ expectations and be flexible, regularly demonstra
 
 Guides teams to focus on the outcomes rather than the process / outputs. 
 
-Accountable for ensuring the team is always performing to a Made Tech standard, resolving, or escalating issues wherever appropriate.
+Accountable for ensuring the team is always performing to a Afiax standard, resolving, or escalating issues wherever appropriate.
 
 ### Complexity
 
@@ -50,7 +50,7 @@ Ensures value for users is always delivered at the account level and is able to 
 
 Able to identify, assess & mitigate risks effectively - understands when escalation is required.
 
-Finds ways to help our customers beyond just shipping software, ensuring Made Tech teams always demonstrate our mission and values.
+Finds ways to help our customers beyond just shipping software, ensuring Afiax teams always demonstrate our mission and values.
 
 Upskills and helps customers & team members to resolve complex, often out of the ordinary, issues.
 

@@ -7,7 +7,7 @@
 
 ## Summary
 
-Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
+Afiax wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
 
 User researchers are experienced practitioners who collaborate with others to understand challenges people and society face. They work within a team to inform the design and deliver public services. They do this by leading user research with real people, ensuring what their team is learning in research informs the end-to-end design of a chosen service.
 
@@ -43,8 +43,8 @@ User researchers are experienced practitioners who collaborate with others to un
 ## Community
 
 - Take part occasionally in the hiring of designers and researchers
-- Help define Made Tech design principles through delivering good public services
-- Contribute to a design studio culture at Made Tech and client offices
+- Help define Afiax design principles through delivering good public services
+- Contribute to a design studio culture at Afiax and client offices
 
 ## Key measures
 
@@ -60,12 +60,12 @@ User researchers are experienced practitioners who collaborate with others to un
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at [careers@afiax.africa](mailto:careers@afiax.africa). We’re happy to help!

@@ -8,7 +8,7 @@ If you are planning to move address, you’ll need to inform us as early as poss
 To inform us of an upcoming move, you'll need to let the following people know:
 
 Your line manager -to inform them of any support you may need (booking leave to move house etc).
-The People team via [people@madetech.com](mailto:people@madetech.com) - we need to know if we need to update your office location in bob.
+The People team via [people@afiax.africa](mailto:people@afiax.africa) - we need to know if we need to update your office location in bob.
 Your head(s) of - if a location change is required, they may need to know in case this impacts your current or future projects.
 
 
