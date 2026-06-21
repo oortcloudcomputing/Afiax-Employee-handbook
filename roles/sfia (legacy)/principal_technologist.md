@@ -36,7 +36,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 - Works with workstreams to ensure technical direction is aligned across our work and with customers organisation
 - Builds and maintains relationships with senior customer and partner leadership, particularly senior technology leadership
-- Responsible for Made Tech’s reputation within an account and ensuring our teams are perceived positively by customers, partners and suppliers
+- Responsible for Afiax’s reputation within an account and ensuring our teams are perceived positively by customers, partners and suppliers
 - Coaches and supports Lead Software Engineers to deliver their workstream outcomes successfully
 - May perform role across one or more accounts
 - Operates as senior hiring manager of technology staff within the region

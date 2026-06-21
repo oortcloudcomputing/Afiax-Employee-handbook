@@ -64,6 +64,6 @@ Academy Engineers: you can skip these two for now, but you will probably need th
 
 #### Engineers
 
-To get your machine set up with some essentials we've created [First Boot](https://github.com/madetech/first-boot).
+To get your machine set up with some essentials we've created [First Boot](https://github.com/oortcloudcomputing/Afiax-Employee-handbook).
 
 First Boot will install applications like Chrome, Slack, and Sequel Pro as well as installing the latest version of Ruby using `rbenv`, and the latest version of Node using `nvm`.

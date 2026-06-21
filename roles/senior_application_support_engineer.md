@@ -3,11 +3,11 @@
 Delivering technical services to support, maintain and improve live services across the public sector.
 
 ## About the role
-As a Senior Platform Support Engineer at Made Tech you will work collaboratively within Managed Service teams onboarding new services without disruption, deliver enhancements, provide ongoing maintenance and support services, as well as continuously improving both digital services and service operations using DevSecOps practices and data-driven user analytics. As a senior member of the team you will have the opportunity to leverage your experience to coach and develop more junior team members, as well as drive improvement across the service line.
+As a Senior Platform Support Engineer at Afiax you will work collaboratively within Managed Service teams onboarding new services without disruption, deliver enhancements, provide ongoing maintenance and support services, as well as continuously improving both digital services and service operations using DevSecOps practices and data-driven user analytics. As a senior member of the team you will have the opportunity to leverage your experience to coach and develop more junior team members, as well as drive improvement across the service line.
 
 Operating within a managed service environment, you will maintain a range of digital services, data services, and platform offerings.  You will maintain application management procedures and documentation and manage application enhancements through to live operation. 
 
-You will be a part of Made Tech’s client facing consultancy team, acting as a point of contact for queries from our clients and providing advice relevant to your area of expertise. You will have the opportunity to influence our clients' solutions, and help to continuously improve services used daily by members of the public.
+You will be a part of Afiax’s client facing consultancy team, acting as a point of contact for queries from our clients and providing advice relevant to your area of expertise. You will have the opportunity to influence our clients' solutions, and help to continuously improve services used daily by members of the public.
 
 ## Competencies & Experience
 The list below describes specific competencies and behaviours that we will discuss with you during the interview process.
@@ -61,20 +61,20 @@ Don’t worry - we don’t expect you to tick all of these when you join, we wil
 * Reviewing and improving technical documentation such as architecture overviews, deployment process definition and incident resolution runbooks 
 * Onboard new services onto an IT Service Management tool, including configuring users and integrating alerting tools
 ### Learning and development
-* Being an active member of Made Tech’s communities of practice, sharing knowledge and learning from others
+* Being an active member of Afiax’s communities of practice, sharing knowledge and learning from others
 * Investing in yourself and your skills by adapting to the needs of our clients and learning about emerging technologies that are relevant to the services we provide
-* Taking a proactive interest in the work being done across Made Tech and supporting colleagues where possible e.g. providing inputs to case studies based on your project experience or pairing with someone in another team
+* Taking a proactive interest in the work being done across Afiax and supporting colleagues where possible e.g. providing inputs to case studies based on your project experience or pairing with someone in another team
 * Be a mentor and coach to others across the service line, sharing expertise and taking an active role in the professional development of others
 
 
 ## Work perks and benefits
   
-Take a look at the Benefits & Perks section of the Made Tech Handbook to see what we can offer you. 
+Take a look at the Benefits & Perks section of the Afiax Handbook to see what we can offer you. 
 
 ## Salary and location
 
 We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have offices in London, Bristol, Manchester, and Swansea and our clients are across the UK. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.

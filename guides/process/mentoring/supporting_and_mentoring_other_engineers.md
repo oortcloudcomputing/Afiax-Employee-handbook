@@ -32,7 +32,7 @@ Does the learner know the best place to look for information that could help ans
 
 It's worth bearing in mind where possible that providing multiple types of resources (video, audio, text, workshop) is potentially the most beneficial way to accommodate people with disparate learning styles.
 
-In the [Academy Workshops repo](https://github.com/madetech/academy-workshops) you can find a variety of workshops that we have worked on and peer reviewed that can help provide resources or even questions/discussion topics that can be used with learners.
+In the [Academy Workshops repo](https://github.com/oortcloudcomputing) you can find a variety of workshops that we have worked on and peer reviewed that can help provide resources or even questions/discussion topics that can be used with learners.
 
 ### Pair on it
 

@@ -17,7 +17,7 @@ Once you have completed the application it will be sent to a member of the peopl
 
 ### 2. I've applied when will I get the eCertificate?
 
-We will review all new applications every Friday afternoon, so you shouldnt have to wait longer than one week for Made Tech approval. Once we have approved and paid for your voucher you will then be sent this automatically from TechScheme.
+We will review all new applications every Friday afternoon, so you shouldnt have to wait longer than one week for Afiax approval. Once we have approved and paid for your voucher you will then be sent this automatically from TechScheme.
 
 ### 3. What is TechScheme?
 

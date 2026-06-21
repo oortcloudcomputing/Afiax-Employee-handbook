@@ -8,9 +8,9 @@
 
 ## Summary
 
-Made Tech wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
+Afiax wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
 
-Lead Content Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of content delivery across teams, and leading multiple or highly complex services. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Made Tech. 
+Lead Content Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of content delivery across teams, and leading multiple or highly complex services. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Afiax. 
 
 ## Key responsibilities 
 
@@ -40,8 +40,8 @@ Lead Content Designers are expert practitioners who influence and mentor others.
 
 - Line management of content designers
 - Support the hiring and onboarding of content designers
-- Help define Made Tech design principles through delivering good public services
-- Help establish a design studio culture at Made Tech and client offices
+- Help define Afiax design principles through delivering good public services
+- Help establish a design studio culture at Afiax and client offices
 - Represent user-centred design publicly and internally
 
 ### Client and sales
@@ -53,7 +53,7 @@ Lead Content Designers are expert practitioners who influence and mentor others.
 
 - Delivery of good public services for users with clients
 - Case studies of how to design and deliver good public services and outcomes
-- Growth and happiness of UCD community at Made Tech
+- Growth and happiness of UCD community at Afiax
 
 ## Competencies 
 
@@ -66,7 +66,7 @@ Lead Content Designers are expert practitioners who influence and mentor others.
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ## Applying
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at careers@afiax.africa. We’re happy to help!

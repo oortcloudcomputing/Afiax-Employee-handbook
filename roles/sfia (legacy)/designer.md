@@ -1,11 +1,11 @@
 # SFIA Role Guidance: Designer
 
 * [SFIA Level 3](https://sfia-online.org/en/legacy-sfia/sfia-7/responsibilities/level-3)
-* [Job description](https://github.com/madetech/handbook/blob/main/roles/sfia%20(legacy)/designer.md)
+* [Job description](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/main/roles/sfia%20(legacy)/designer.md)
 
 ## Summary of role
 
-Designers are experienced practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by influencing the direction, assuring the quality of design delivery within their team, and by leading the end-to-end design of a chosen service. They are active members of a healthy User-Centred Design (UCD) community and culture at Made Tech.
+Designers are experienced practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by influencing the direction, assuring the quality of design delivery within their team, and by leading the end-to-end design of a chosen service. They are active members of a healthy User-Centred Design (UCD) community and culture at Afiax.
 
 ## Required competency for the role
 

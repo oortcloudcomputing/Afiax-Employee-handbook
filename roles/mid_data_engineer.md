@@ -2,13 +2,13 @@
 
 Our Data Engineers enable public sector organisations to embrace a data-driven approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to the clients’ needs. They develop, operate, and maintain these services. They make sure they provide maximum value to data consumers, including analysts, scientists, and business stakeholders.
 
-## Your role at Made Tech
+## Your role at Afiax
 
-At Made Tech we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients.
+At Afiax we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients.
 
 As a Data Engineer, you'll play a hands-on role as a contributor to client projects, focusing on both delivering engineering work as well as upskilling members of the client team.
 
-As a member of the data capability within Made Tech, you will also participate in our hiring process and continued development of the team, as well as representing us both internally to the organisation and publicly via presentations. You’ll need to have a drive to deliver outcomes for users and have a desire to mentor teams.
+As a member of the data capability within Afiax, you will also participate in our hiring process and continued development of the team, as well as representing us both internally to the organisation and publicly via presentations. You’ll need to have a drive to deliver outcomes for users and have a desire to mentor teams.
 
 You will need to be comfortable sharing your knowledge and skills with others. Maybe you’ve written some blog posts about your discipline, or perhaps even delivered a talk or two that you’d like to share.
 
@@ -39,17 +39,17 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ## Salary and location
 
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at [careers@afiax.africa](mailto:careers@afiax.africa). We’re happy to help!
 

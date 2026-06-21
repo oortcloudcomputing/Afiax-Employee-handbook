@@ -1,10 +1,10 @@
 # SFIA role guidance Lead Content Designer
 - [SFIA Level 5: Ensure, Advise](https://sfia-online.org/en/sfia-7/responsibilities/level-5)
-- [Job description](https://github.com/madetech/handbook/blob/main/roles/lead_content_designer.md)
+- [Job description](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/main/roles/lead_content_designer.md)
 
 ## Summary of role
 
-Lead Content Designers are expert practitioners who lead  and mentor others. They work with teams and clients to meet user needs and make complex processes easy to understand. They do this by setting the direction, assuring the quality of content design delivery across teams, and ensuring content aligns to strategy and objectives. They have an important role in creating a healthy user-centred design (UCD) community and culture at Made Tech.
+Lead Content Designers are expert practitioners who lead  and mentor others. They work with teams and clients to meet user needs and make complex processes easy to understand. They do this by setting the direction, assuring the quality of content design delivery across teams, and ensuring content aligns to strategy and objectives. They have an important role in creating a healthy user-centred design (UCD) community and culture at Afiax.
 
 ## Required competency for role
 
@@ -69,7 +69,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 - Regularly seeks feedback from peers, teammates and clients. Acting on and sharing what others feel they are doing well and could improve upon.
 - Seeks out new design tools being used and developed by other organisations and tries them for their own and others practice.
 - Put in place new standards for how we content review design work across different client teams
-Quickly assesses the suitability of a Content Designer role for someone interviewing to join Made Tech
+Quickly assesses the suitability of a Content Designer role for someone interviewing to join Afiax
 
 ---
 
@@ -80,7 +80,7 @@ Demonstrates leadership. Communicates effectively, both formally and informally.
 ### Examples of behaviour and responsibilities
 _Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
-- Represents content design at Made Tech at public and internally company wide events.
+- Represents content design at Afiax at public and internally company wide events.
 - Brings together content designers to do a retro about challenges felt across the discipline. Works with others to begin actioning priorities
 - Holds senior management to account for improving their team conditions and ways of working.
 - Decides how to most effectively use their time on the team to help it achieve its outcomes. Explain to teammates and stakeholders the value of using time in a certain way.

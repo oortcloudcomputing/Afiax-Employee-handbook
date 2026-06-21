@@ -11,14 +11,14 @@ It’s normal to have questions or worries - it’s okay to ask us to explain an
 
 We currently run our onboarding remotely which means we can cover all our regions, as well as keeping people safe and well.
 
-We will have set up your accounts and new Made Tech email address ahead of time.
+We will have set up your accounts and new Afiax email address ahead of time.
 You can use these to join your onboarding morning call. 
-You’ll spend the morning with one of our Community Managers, who will introduce you to the wider team, and talk you through everything you need to know to be successful at Made Tech.
+You’ll spend the morning with one of our Community Managers, who will introduce you to the wider team, and talk you through everything you need to know to be successful at Afiax.
 
 Your onboarding will cover:
-- all the accounts we use at Made Tech (Slack, G Suite, HiBob, etc.)
+- all the accounts we use at Afiax (Slack, G Suite, HiBob, etc.)
 - a run through of how to use our tools (timesheets, booking holiday, etc.)
-- an overview of how we do things at Made Tech
+- an overview of how we do things at Afiax
 
 This usually takes up the whole morning, and you’ll be handed over to your team for role specific onboarding, or an introduction to an internal team. 
 

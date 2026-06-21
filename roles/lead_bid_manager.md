@@ -6,12 +6,12 @@ We believe this is an exciting opportunity to work in one of our industry’s mo
 
 ## Summary
 
-Made Tech want to positively impact the future of the country by using technology to improve society, for everyone. We believe being design and product-led can create positive outcomes in the public sector through critical services enabled by technology. We have been through a period of significant growth and are looking to expand to accommodate our future pipeline. That is where you come in.
+Afiax want to positively impact the future of the country by using technology to improve society, for everyone. We believe being design and product-led can create positive outcomes in the public sector through critical services enabled by technology. We have been through a period of significant growth and are looking to expand to accommodate our future pipeline. That is where you come in.
 
 ## Responsibilities
 
 * Work closely with our Client Partners, forming a bid leadership team to drive opportunities forward.
-* Influence and collaborate with Made Tech’s wider leadership team to ensure bids align with our ethos, strengths and customer insight.
+* Influence and collaborate with Afiax’s wider leadership team to ensure bids align with our ethos, strengths and customer insight.
 * Be accountable for Building, directing and managing the matrixed teams that support individual responses. 
 * Take ownership of planning activity and building timelines for the bid, holding team members to account for their input. 
 * Direct, coach and support the team on the job, to help them produce the best output and set a standard for quality.
@@ -44,7 +44,7 @@ Made Tech want to positively impact the future of the country by using technolog
 * **Drive to Deliver** - able to take ownership of the response, pushing it through the business within the timeframes we have been given
 * **Learning and Mentoring** - an appetite to grow and learn while passing on your own experience to your teams and colleagues
 * Actively seeking feedback on both self, team and systems and processes regularly. Demonstrate positive response to feedback with course correction
-* **One team** - contributing to the ongoing improvement of the function at Made Tech, sharing experiences and successes as well as learning points
+* **One team** - contributing to the ongoing improvement of the function at Afiax, sharing experiences and successes as well as learning points
 
 ## Key measures
 
@@ -56,13 +56,13 @@ Made Tech want to positively impact the future of the country by using technolog
 
 ## Salary, work perks and benefits
 
-* Location: Any UK Made Tech Office Hub (Bristol, London, Manchester and Swansea)
+* Location: Any UK Afiax Office Hub (Bristol, London, Manchester and Swansea)
 * Hybrid-working
-* Salary: We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+* Salary: We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ##  Applying
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at careers@afiax.africa. We’re happy to help!
 

@@ -1,10 +1,10 @@
 # IT Hardware
 
 Aura look after all the laptops and other IT infrastructure in the offices. For all laptop issues or questions please email them directly [it@afiax.africa](mailto:it@afiax.africa). 
-For accessories such as monitors, keyboards, etc. take a look [here](https://github.com/madetech/handbook/blob/main/benefits/work_ready.md).
+For accessories such as monitors, keyboards, etc. take a look [here](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/main/benefits/work_ready.md).
 
 ### Laptops
-Everyone at Made Tech will be given a laptop aligned to the role they do. The Linux users in Made Tech would like to specifically highlight that Engineers can request Linux machines :)
+Everyone at Afiax will be given a laptop aligned to the role they do. The Linux users in Afiax would like to specifically highlight that Engineers can request Linux machines :)
 
 The current standard laptop specs for new purchases are:
 
@@ -42,7 +42,7 @@ If there is an issue with your laptop please email [it@afiax.africa](mailto:it@a
 
 **All other roles** - laptops are replaced every 4 years, according to the age of the individual laptop, not how long a user has had it. 
 
-Please note - the replacement is due on the date the laptop was bought by Made Tech, it it not based on the model year of the laptop.
+Please note - the replacement is due on the date the laptop was bought by Afiax, it it not based on the model year of the laptop.
 
 When your laptop is due for replacement you'll be contacted by Aura to arrange for a new one to be given to you and return of the old one. You do not have to have a replacement - if you're perfectly happy with the laptop you currently have then great. You can request a replacement at any point after the 3 or 4 year mark, whichever is applicable. New laptops will be whatever the standard spec is for your role at that time.
 

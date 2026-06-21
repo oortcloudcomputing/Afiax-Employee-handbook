@@ -7,7 +7,7 @@ Reporting to the Head of Managed Services, this role is one of three Head of Pra
 
 ### About the role
 
-As a part of our technical leadership team, you will enable public sector organisations to better use technology to improve society, and create experiences that benefit users across the UK.  You will be responsible for leading a world class professional services practice; defining best practice, building and coaching teams, being a champion for Made Tech’s managed service both internally and externally and evolving our propositions and practices.
+As a part of our technical leadership team, you will enable public sector organisations to better use technology to improve society, and create experiences that benefit users across the UK.  You will be responsible for leading a world class professional services practice; defining best practice, building and coaching teams, being a champion for Afiax’s managed service both internally and externally and evolving our propositions and practices.
 
 As a Head of Practice, reporting to the Head of Managed Services, you will work closely with our client facing teams to inform their strategy and ways of working. You will ensure teams are delivering to a high quality and are consistently showcasing best practice. You will work to ensure an exceptional employee experience, and that the team of application & platform support engineers have the skills and experiences they need to deliver for our clients and their users; whilst also considering their individual development plans. You will be responsible for defining the overarching technology strategy for the service line; developing new propositions to meet the ever changing client needs and introducing standards, tools and methods in areas such as platform alerting and data quality monitoring.
 
@@ -36,7 +36,7 @@ Don’t worry - we don’t expect you to tick all of these when you join, we wil
 * Line management and coaching skills
 * Oversee delivery and drive excellence across the practice
 * Confident ability to be a thought leader in the application & platform management space, both internally and externally
-* Able to build successful relationships with our clients and colleagues across Made Tech
+* Able to build successful relationships with our clients and colleagues across Afiax
 * Articulate value-add to clients and a differentiated approach through the development of joined-up propositions as solutions to client problems, and go-to market plans based on real-world client needs
 
 **Key experiences**
@@ -65,9 +65,9 @@ Don’t worry - we don’t expect you to tick all of these when you join, we wil
 
 We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have offices in London, Bristol, Manchester, and Swansea and our clients are across the UK.
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Work perks and benefits
-Take a look at the Benefits & Perks section of the Made Tech Handbook to see what we can offer you.
+Take a look at the Benefits & Perks section of the Afiax Handbook to see what we can offer you.

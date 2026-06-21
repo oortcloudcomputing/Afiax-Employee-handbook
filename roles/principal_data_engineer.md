@@ -2,19 +2,19 @@
 
 Our Principal Data Engineers enable public sector organisations to transform service delivery with data to improve society, for everyone. They provide our most senior data leadership and support to our clients and teams. They build and manage key relationships with clients, and manage data consultancy and delivery across one or more accounts. They also support sales.
 
-## Your role at Made Tech
+## Your role at Afiax
 
-At Made Tech we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. To do this we work alongside brilliant public servants to drive better decisions through data and automation.
+At Afiax we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. To do this we work alongside brilliant public servants to drive better decisions through data and automation.
 
 As a Principal Data Engineer you will work closely with our clients' senior leadership teams to help inform their data strategy, as well as ensuring our teams are delivering to a high quality and aligned with our clients' data vision. You’ll need to have a drive to deliver outcomes for users. Working alongside delivery, client and other capability principals, you will help shape account plans and be responsible for delivering against them.
 
-Working with Made Tech's leadership team you will ensure our work with customers is aligned to our growth goals and you will play a pivotal role in identifying new opportunities and winning work. Running bid teams, supporting sales teams and developing new business is critical to this role.
+Working with Afiax's leadership team you will ensure our work with customers is aligned to our growth goals and you will play a pivotal role in identifying new opportunities and winning work. Running bid teams, supporting sales teams and developing new business is critical to this role.
 
 You will coach and support Lead Data Engineers to steer their teams towards success. You will also be responsible for hiring and line managing Lead Data Engineers.
 
 While this is not a hands-on coding technical role, the importance of credibility in internet-era approaches to digital, data and technology in the public sector cannot be understated. You will be expected to maintain a broad technical knowledge of modern data practices, be able to shape data strategy and roadmaps, and hold others to account for technical quality. 
 
-As a data leader within Made Tech you will be expected to maintain and grow your professional network. You will be expected to contribute to thought leadership, content and events and should have a proven track record of doing so.
+As a data leader within Afiax you will be expected to maintain and grow your professional network. You will be expected to contribute to thought leadership, content and events and should have a proven track record of doing so.
 
 ## What experience are we looking for?
 
@@ -48,17 +48,17 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook)
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook)
  to see what we can offer you. 
 
 ## Salary and location
 
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at [careers@afiax.africa](mailto:careers@afiax.africa). We’re happy to help!

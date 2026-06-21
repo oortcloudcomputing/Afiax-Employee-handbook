@@ -5,7 +5,7 @@
 
 ## Summary of role
 
-Lead Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery across teams, and by leading multiple, or highly complex, services. They have an important role in creating a healthy user-centred design (UCD) community and culture at Made Tech.
+Lead Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery across teams, and by leading multiple, or highly complex, services. They have an important role in creating a healthy user-centred design (UCD) community and culture at Afiax.
 
 ## Required competency for the role
 
@@ -91,11 +91,11 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 
 - Seeks out new design tools being used and developed by other organisations and tries them for their own and others practice. 
 
-- Answers internal questions about what is ‘policy design’ and how it is and isn’t different from service delivery we’re familiar with at Made Tech. 
+- Answers internal questions about what is ‘policy design’ and how it is and isn’t different from service delivery we’re familiar with at Afiax. 
 
 - Puts in place new standards for how we review design work across different client teams.
 
-- Quickly assesses the suitability of a Designer role for someone interviewing to join Made Tech.
+- Quickly assesses the suitability of a Designer role for someone interviewing to join Afiax.
 
 ---
 
@@ -107,7 +107,7 @@ Demonstrates leadership. Communicates effectively, both formally and informally.
 
 _Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
-- Represents user-centred design at Made Tech at public and internal company-wide events. 
+- Represents user-centred design at Afiax at public and internal company-wide events. 
 
 - Brings together designers to do a retro about challenges felt across the discipline. Works with others to begin actioning priorities.
 

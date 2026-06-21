@@ -8,16 +8,16 @@ This Handbook should be the starting point for any new team members. It provides
 
 ## Contributing to our Handbook
 
-We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook or spot a typo, please feel free to [open a pull request](https://github.com/mattwamoto/handbook/pulls). If you have a question feel free to [open an issue](https://github.com/mattwamoto/handbook/issues). This applies whether you're a AFIAX CONNECTED HEATHCARE employee or not.
+We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook or spot a typo, please feel free to [open a pull request](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/pulls). If you have a question feel free to [open an issue](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/issues). This applies whether you're a AFIAX CONNECTED HEALTHCARE employee or not.
 
 For more information on contributing, including how to as a non-technical user, read our [CONTRIBUTING.md](guides/contributing_to_the_handbook.md).
 
 ## Table of contents
 
-### Introduction to AFIAX CONNECTED HEATHCARE
+### Introduction to AFIAX CONNECTED HEALTHCARE
 
-* [About AFIAX CONNECTED HEATHCARE](company/about.md) – Why we do what we do
-* [Welcome Pack](company/welcome_pack.md) – All you need to know when joining AFIAX CONNECTED HEATHCARE
+* [About AFIAX CONNECTED HEALTHCARE](company/about.md) – Why we do what we do
+* [Welcome Pack](company/welcome_pack.md) – All you need to know when joining AFIAX CONNECTED HEALTHCARE
 
 ### Roles
 
@@ -46,11 +46,12 @@ Fair compensation and benefits:
 * 💷 [Transparent Salary Bands](roles/README.md) – We publish salary bands so you know you're being fairly compensated
 * 👌 [Annual Salary Reviews](guides/compensation/salary_reviews.md) – We review your salary once a year
 * ⛷️ [Pension Scheme](benefits/pension_scheme.md) – We provide a pension scheme which we contribute to, to help you plan for your future
-* 🚄 [Season Ticket Loan](benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
-* 🚲 [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
+* 🚗 [Car Loan](benefits/car_loan.md) – We offer an interest-free loan to help you purchase or maintain a vehicle
+* 🏠 [House Buying Plan](benefits/house_buying_plan.md) – We support employees in taking the step toward home ownership
+* 🏥 [Health Insurance](benefits/health_insurance.md) – Comprehensive medical cover for you and your dependents from day one
 * 🚕 [Expenses Paid](guides/compensation/expenses.md) – We’re happy to cover a range of work-related expenses in line with our expenses policy
-* 💻 [Help To Buy Tech](benefits/help_to_buy_tech.md) – Shop the latest gadgets,technology and now Ikea!
-* 🏦 [Income Protection & Life Assurance](benefits/income_protection_and_life_insurance.md) - Financial support provision when you or your family might need it most
+* 💻 [Help To Buy Tech](benefits/help_to_buy_tech.md) – Shop the latest gadgets and technology
+* 🏦 [Income Protection & Life Assurance](benefits/income_protection_and_life_insurance.md) – Financial support provision when you or your family might need it most
 
 ### Welfare
 
@@ -70,7 +71,7 @@ Fair compensation and benefits:
 * [Team Norms](team-norms)
 * [Learning](guides/learning)
 * [Mentorship](guides/mentorship)
-* [Marketing Assets](https://github.com/madetech/marketing-assets)
+* [Marketing Assets](https://github.com/oortcloudcomputing/Afiax-Employee-handbook)
 * [Line Management](guides/line-management)
 
 #### People
@@ -90,7 +91,7 @@ Fair compensation and benefits:
 #### IT
 
 * [Software & Licences](guides/it/software_licenses.md)
-* [Hardware](https://github.com/madetech/handbook/blob/main/guides/it/Hardware.md)
+* [Hardware](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/main/guides/it/Hardware.md)
 * [Information Security](guides/it/laptop_security.md)
 
 #### Security
@@ -113,4 +114,5 @@ Fair compensation and benefits:
 
 #### ☁️ Cloud and Engineering
 
+* ☁️ [Oortcloud Sandbox](guides/cloud/oortcloud_sandbox.md) – Access the Oortcloud Computing sandbox for personal development and testing
 * 📚 [Book Club](communities-of-practice/cloud-and-engineering/book-club/welcome.md) - Check out what we're reading / have read!

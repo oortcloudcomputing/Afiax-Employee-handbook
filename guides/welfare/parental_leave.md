@@ -1,8 +1,8 @@
 # Maternity, paternity, adoption and shared parental leave
 
-Whether you or your partner are having a baby, you're adopting a child or having a baby through a surrogacy arrangement, Made Tech encourages you to take leave so you can welcome the new child (or children!) into your family. Our paid parental leave is the same for all!
+Whether you or your partner are having a baby, you're adopting a child or having a baby through a surrogacy arrangement, Afiax encourages you to take leave so you can welcome the new child (or children!) into your family. Our paid parental leave is the same for all!
 
-**Note:** You will have to have worked at Made Tech for at least 26 weeks at the point of the child/children's birth to be eligible for these benefits.
+**Note:** You will have to have worked at Afiax for at least 26 weeks at the point of the child/children's birth to be eligible for these benefits.
 
 ## Maternity and adoption leave
 
@@ -12,7 +12,7 @@ For adoption leave, only one parent can take this type of leave. The other paren
 
 The breakdown of pay is:
 
-- 12 weeks at 100% pay (from Made Tech)
+- 12 weeks at 100% pay (from Afiax)
 - 6 weeks at 90% pay (statutory maternity/adoption pay)
 - 33 weeks at statutory or 90% pay whichever is lower (statutory maternity/adoption pay)
 - return to work on reduced hours (30 hours) for 4 weeks on full pay to phase back into full time work
@@ -35,7 +35,7 @@ We provide 12 weeks shared parental leave at full pay and up to 39 weeks at stat
 
 The breakdown of pay is as follows if you qualify for SPL:
 
-- 12 weeks at 100% pay (from Made Tech)
+- 12 weeks at 100% pay (from Afiax)
 - 6 weeks at 90% pay (statutory shared parental pay)
 - 33 weeks at statutory or 90% pay whichever is lower (statutory maternity/adoption pay)
 - return to work on reduced hours (30 hours) for 4 weeks on full pay to phase back into full time work
@@ -54,7 +54,7 @@ We offer a number of additional company benefits which may be attractive to new 
 
 ### Who do I need to inform about upcoming parental leave?
 
-Please email people@madetech.com to request parental leave and include your child/children's due/adoption date. You should also inform your team lead so they can plan for your absence. The people team will inform scheduling if you are in a client facing team.
+Please email people@afiax.africa to request parental leave and include your child/children's due/adoption date. You should also inform your team lead so they can plan for your absence. The people team will inform scheduling if you are in a client facing team.
 
 ### When do I need to inform you about upcoming parental leave?
 

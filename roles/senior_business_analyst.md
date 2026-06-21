@@ -26,7 +26,7 @@ Senior Business Analysts should expect to work more autonomously and may often b
 
 ## Competencies
 
-Senior Business Analysts display [Afiax Connected Healthcare’s values](https://github.com/madetech/handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/business-analyst--2#:~:text=Skill%20level%3A%20working-,Senior%20business%20analyst,system%20in%20a%20project%20or%20programme%20of%20work.%20(Skill%20level%3A%20practitioner),-Lead%20business%20analyst) and [SFIA (Level 4)](https://sfia-online.org/en/sfia-8/responsibilities/level-4) behaviours.
+Senior Business Analysts display [Afiax Connected Healthcare’s values](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/business-analyst--2#:~:text=Skill%20level%3A%20working-,Senior%20business%20analyst,system%20in%20a%20project%20or%20programme%20of%20work.%20(Skill%20level%3A%20practitioner),-Lead%20business%20analyst) and [SFIA (Level 4)](https://sfia-online.org/en/sfia-8/responsibilities/level-4) behaviours.
 
 ## Skills needed for this role
 
@@ -64,7 +64,7 @@ Senior Business Analysts collaborate with Lead Business Analysts to provide feed
 - Personal performance is aligned with DDaT and SFIA grade, evidenced through peer feedback
 
 ## Work perks and benefits
-Take a look at the [Benefits & Perks](https://github.com/madetech/handbook/blob/350005eb3769ef05338461af6413e4553aee54b2/benefits/made_tech_benefits_box.md) section to see what we can offer you. 
+Take a look at the [Benefits & Perks](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/350005eb3769ef05338461af6413e4553aee54b2/benefits/made_tech_benefits_box.md) section to see what we can offer you. 
 
 ## Salary and location
 
@@ -76,4 +76,4 @@ For any internal candidates, we are currently reviewing and refreshing our pay b
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at careers@afiax.africa. We’re happy to help!

@@ -2,7 +2,7 @@
 
 This is a list of roles at Afiax Connected Healthcare including details on the skills and seniority level they operate at.
 
-We have listed roles here so that you can learn about what roles we have and how we are organised. If you are looking for open vacancies, visit the [careers page on our website](https://madetech.com/careers).
+We have listed roles here so that you can learn about what roles we have and how we are organised. If you are looking for open vacancies, visit the [careers page on our website](https://afiax.africa/careers).
 
 ## Seniority levels
 

@@ -6,7 +6,7 @@ Open and closed community groups are collectives of individuals who come togethe
 
 **A closed community group** is open only to those who are members of those communities. For example, to join the “women in tech” closed community group you would need to identify as a woman in order to have your request for an invite to be accepted. To join you will need to reach out to an organising member to request an invite. 
 
-You can find a list of open and closed communities in the description of the [diversity and inclusion Slack channel](https://madetechteam.slack.com/archives/CRAJF24CR). We share this list during onboarding weeks too.
+You can find a list of open and closed communities in the description of the [diversity and inclusion Slack channel](#slack-channel-link-needed
 
 ## Starting a group
 
@@ -40,6 +40,6 @@ Community groups form around particular identities, needs and/or experiences. If
 
 If an individual has reported an issue to a group, it may be too much of a burden on that individual to escalate the issue themselves. In this case, a nominated individual from the group should be nominated to raise the issue on the affected individuals behalf.
 
-Details on who to raise issues to are documented in the [#supply-diversity-and-inclusion Slack channel](https://madetechteam.slack.com/archives/CRAJF24CR).
+Details on who to raise issues to are documented in the [#supply-diversity-and-inclusion Slack channel](#slack-channel-link-needed
 
-We have documented general guidance on [raising an issue](https://github.com/madetech/handbook/blob/main/guides/welfare/raising_an_issue.md) elsewhere in the Handbook, or you can get in touch with the People team if you’re not sure who the best person is to speak to.
+We have documented general guidance on [raising an issue](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/main/guides/welfare/raising_an_issue.md) elsewhere in the Handbook, or you can get in touch with the People team if you’re not sure who the best person is to speak to.

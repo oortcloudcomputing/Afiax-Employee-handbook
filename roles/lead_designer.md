@@ -6,13 +6,13 @@
 Note: Any new joiners will be offered a salary in the bottom third of this range
 - SFIA: Level 5
 
-Lead Designers at Made Tech are specialists in their design discipline(s). In this case, we’re looking for an expert practitioner in Interaction and Service Design who is able to coach, mentor and lead other designers within the Interaction and Service Design discipline at Made Tech. Success in this role means guiding the work of other designers within the Interaction and Service Design discipline to deliver positive outcomes. 
+Lead Designers at Afiax are specialists in their design discipline(s). In this case, we’re looking for an expert practitioner in Interaction and Service Design who is able to coach, mentor and lead other designers within the Interaction and Service Design discipline at Afiax. Success in this role means guiding the work of other designers within the Interaction and Service Design discipline to deliver positive outcomes. 
 
 ## Summary
 
-Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
+Afiax wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
 
-Lead Designers at Made Tech are…
+Lead Designers at Afiax are…
 
 **Expert practitioners** 
 * Able to develop new and novel approaches to highly complex design challenges, based on fundamental interaction and service design principles. 
@@ -59,7 +59,7 @@ Lead Designers at Made Tech are…
 * Create a shared understanding of problems to solve and ideas to test
 * Make things real through storytelling and uncovering the ‘why’
 * Caring about design enough to make sure everyone can use public services
-* Make use of the Made Tech playbooks where they exist and support their development
+* Make use of the Afiax playbooks where they exist and support their development
 * Make public services simple to explain, understand, and use by removing unnecessary complexity and keeping designs focused on creating positive outcomes for people and society.
 
 ## Leading teams
@@ -72,7 +72,7 @@ Lead Designers at Made Tech are…
 
 * Line management of designers
 * Support the hiring and onboarding of designers (contract and permanent)
-* Help define Made Tech design principles through delivering effective public services
+* Help define Afiax design principles through delivering effective public services
 * Represent and advocate for user-centred design publicly and internally
 
 ## Sales
@@ -84,9 +84,9 @@ Lead Designers at Made Tech are…
 ## Key measures
 
 * Case studies of how to design and deliver good public services and outcomes
-* Contributing to the growth and happiness of the UCD community at Made Tech
+* Contributing to the growth and happiness of the UCD community at Afiax
 * Deliver your project objectives on time and to the expected standard
-* Display the Made Tech values and behaviours reflected in feedback from colleagues and clients
+* Display the Afiax values and behaviours reflected in feedback from colleagues and clients
 * Ensure your team members (direct reports and account team members) feel fully supported and engaged - provision of regular 1:1s, an effective cascade of information and progression of development plans.
 
 ## Competencies
@@ -94,15 +94,15 @@ Lead Designers at Made Tech are…
 * Client Focus - a need to put the most compelling offer possible in front of the client
 * Drive to Deliver - able to take ownership of the response, pushing it through the business inside the timeframes that we have been given.
 * Learning and Mentoring - an appetite to grow fast and learn while passing on your own experience to your teams and colleagues
-* One team - contributing to the ongoing improvement of the function at Made Tech, sharing experiences and successes as well as learning points. 
+* One team - contributing to the ongoing improvement of the function at Afiax, sharing experiences and successes as well as learning points. 
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at [careers@afiax.africa](mailto:careers@afiax.africa). We’re happy to help!

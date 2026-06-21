@@ -5,15 +5,15 @@ access, meeting rooms and connecting to the internet.
 Please take a look at the [main office handbook](https://docs.google.com/document/d/1trOGW8mUDmMhDLLJxZwi194WkA6liFk1j0wiAu27C3Q/edit) 
 (internal link) which holds general office information and links to the regional handbook for the office you are attached to. The office handbooks are also pinned to the top of the relevant office slack channel.
 
-For any queries regarding offices please email [operations@madetech.com](mailto:operations@madetech.com) or get in contact via slack #ops
+For any queries regarding offices please email [operations@afiax.africa](mailto:operations@afiax.africa) or get in contact via slack #ops
 
 # How to book a desk
 
-You can book a desk in any office using [Office RnD](https://hybrid.officernd.com/community/madetech/dashboard?date=2023-06-02). There is more information on how to book desks for yourself, your team and any visitors [here](https://docs.google.com/document/d/1wCGrHN-prrUt8RnyNux2MshCTQ36D_rvTKTeu1qJwMk/edit) (internal link).
+You can book a desk in any office using [Office RnD](https://hybrid.officernd.com/community/afiax/dashboard?date=2023-06-02). There is more information on how to book desks for yourself, your team and any visitors [here](https://docs.google.com/document/d/1wCGrHN-prrUt8RnyNux2MshCTQ36D_rvTKTeu1qJwMk/edit) (internal link).
 
 # Access information
 
-Below is information on access and layout for each of our offices. If anyone has a disability that may require additional needs whilst in an office, please slack either #ops or email [operations@madetech.com](mailto:operations@madetech.com), and we will assist you with completing a PEEP.
+Below is information on access and layout for each of our offices. If anyone has a disability that may require additional needs whilst in an office, please slack either #ops or email [operations@afiax.africa](mailto:operations@afiax.africa), and we will assist you with completing a PEEP.
 
 # Office etiquette
 
@@ -60,7 +60,7 @@ Fire and first aid information can be found on the notice board.
 
 The office and all its facilities are on the ground floor.
  
-Entry to the Made Tech office does not involve steps when entering through the Runway East entrance; there are three steps and an escalator to enter through the 101 entrance.
+Entry to the Afiax office does not involve steps when entering through the Runway East entrance; there are three steps and an escalator to enter through the 101 entrance.
  
 The office is on the same floor as the entrance and requires access via two key card-locked fire doors.
  

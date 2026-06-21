@@ -35,13 +35,13 @@ Has sufficient communication skills for effective dialogue with customers, suppl
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 
 - With limited experience in modern technology consulting sector
-- Still learning how Made Tech delivers technology, and may need to pair on occasion to be effective
+- Still learning how Afiax delivers technology, and may need to pair on occasion to be effective
 - Is able to more often than not participate equally in a pair with others
 - For the majority of the time, is able to contribute independently without pairing
 - Seeks feedback and guidance where appropriate; typically receives some constructive feedback and occassionally guidance highlights gaps in knowledge and skills
 - Influencing immediate colleagues regularly by sharing opinions and ideas
-- Challenges other Made Tech colleagues ideas tactfully when in disagreement
-- Has been involved in workshops, retrospectives or other activities where ideas and opinions are shared between customers and Made Tech colleagues
+- Challenges other Afiax colleagues ideas tactfully when in disagreement
+- Has been involved in workshops, retrospectives or other activities where ideas and opinions are shared between customers and Afiax colleagues
 - Would typically gain the ability to provide ideas, opinions and advice on specific subset of a customer's domain
 - Beginning to understand tradeoffs and is learning to make adjustments to approach for the current context
 - Is able to reason about subsets of a domain, building up a good working knowledge of wider technological & user needs

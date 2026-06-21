@@ -1,8 +1,8 @@
-# Equality, Diversity & Inclusion at Made Tech
+# Equality, Diversity & Inclusion at Afiax
 
 Creating a better, fairer society is part of our purpose as an organisation. This starts with our people.
 
-We strive to make Made Tech an equitable, diverse and inclusive workplace and to provide a working environment that is free from discrimination at all times.
+We strive to make Afiax an equitable, diverse and inclusive workplace and to provide a working environment that is free from discrimination at all times.
 
 We understand that everyone has varying needs. We’ll work to make sure that everyone’s needs are supported and met.
 
@@ -12,7 +12,7 @@ Read our [Equality, Diversity & Inclusion Policy](policy.md).
 
 ## Teams and communities
 
-We have a number of ways we support equality, diversity and inclusion at Made Tech.
+We have a number of ways we support equality, diversity and inclusion at Afiax.
 
 We have a [diversity and inclusion service team](about-service-team.md) who are responsible for defining our strategy, setting KPIs and objectives, supporting the wider organisation to take action to deliver on these objectives, and reporting on progress to our leadership team and the wider company. This team is an escalation point for D&I related issues and manages the operation of equality data collection and reporting. 
 

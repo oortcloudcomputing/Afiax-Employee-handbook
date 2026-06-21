@@ -8,7 +8,7 @@
 
 ### Autonomy
 
-With limited experience in modern software delivery. Still learning how Made Tech delivers solutions & works with its customers.
+With limited experience in modern software delivery. Still learning how Afiax delivers solutions & works with its customers.
 
 Able to perform all functional aspects of the role autonomously such as a budget management, reporting, schedulingm and SOW development.
 
@@ -22,9 +22,9 @@ Seeks for advice on how to resolve delivery issues and how best to engage with c
 
 Has an awareness of the importance of team dynamics, collaboration and empowering delivery teams. Understands the importance of feedback, at a team or personal level.
 
-Understands the importance of early feedback and has actioned on this numerous times within teams. Challenges other Made Tech colleagues ideas tactfully when in disagreement. 
+Understands the importance of early feedback and has actioned on this numerous times within teams. Challenges other Afiax colleagues ideas tactfully when in disagreement. 
 
-Has been involved in and in some cases has even become responsible for running workshops, retrospectives or other activities where ideas and opinions are shared between customers and Made Tech colleagues.
+Has been involved in and in some cases has even become responsible for running workshops, retrospectives or other activities where ideas and opinions are shared between customers and Afiax colleagues.
 
 Shows clear signs of awareness and appreciation of the important of high team morale - understands how to act upon situations where this needs to be improved.
 

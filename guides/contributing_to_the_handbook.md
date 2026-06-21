@@ -6,7 +6,7 @@ This guide aims to make it easier to submit changes to the Handbook without usin
 
 ### Creating a page
 
-1. [Go to the handbook.](https://github.com/madetech/handbook)
+1. [Go to the handbook.](https://github.com/oortcloudcomputing/Afiax-Employee-handbook)
 2. Click through to the folder you want.
 3. Click "Create new file"
 4. Type out your contents under "Edit new file" using [Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -18,7 +18,7 @@ This guide aims to make it easier to submit changes to the Handbook without usin
 
 ### Updating a page
 
-1. [Go to the handbook.](https://github.com/madetech/handbook)
+1. [Go to the handbook.](https://github.com/oortcloudcomputing/Afiax-Employee-handbook)
 2. Navigate to the page you wish to update.
 3. Click the pencil button in the top right
 4. Make the necessary changes using [Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -39,14 +39,14 @@ This guide aims to make it easier to submit changes to the Handbook without usin
 
 ### Checking for broken links
 
-There is a [GitHub Actions Workflow that checks for broken links in the Handbook](https://github.com/madetech/handbook/actions/workflows/test.yml).
+There is a [GitHub Actions Workflow that checks for broken links in the Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/actions/workflows/test.yml).
 
 If you see "Some checks were not successful" above the "Squash and merge" button on the pull request overview page, click through to the failing check for the details of the broken links.
 
 You will see something like this:
 
 ```console
-> @madetech/handbook@1.0.0 test
+> @afiax/handbook@1.0.0 test
 > node build.js
 
  [dead(400)] ../../benefits/free_bananas.md in guides/welfare/breakfast_is_important.md
@@ -76,7 +76,7 @@ If in doubt, default to the strictest method (Significant changes or additions) 
 This includes changes to policies, changes to the way people are expected to work, changes that express a departure from a previous community norm, etc.
 
 1. Open a pull request
-2. Shout about the pull request in all relevant Slack channels. This should include announcements, but if it relates to a particular part of Made Tech, also in
+2. Shout about the pull request in all relevant Slack channels. This should include announcements, but if it relates to a particular part of Afiax, also in
 the channels more relevant to those people.
 3. Allow enough time for people to review and comment, remembering that they probably have busy schedules. One to two weeks is probably sensible.
 4. Manage the conversation, seek approvals on GitHub, address feedback.

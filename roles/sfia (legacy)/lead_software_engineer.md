@@ -55,12 +55,12 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Able to build relationships with senior customer and partner stakeholders, both technical and otherwise
 - Works with customers to define outcomes, deadlines and budgets
 - Has significant influence over the scheduling of technical staff to workstreams
-- Likely is the most senior day-to-day representative of Made Tech within the account
+- Likely is the most senior day-to-day representative of Afiax within the account
 - Ensures users’ needs are met consistently through each work stage
 - Influences the technology industry by engaging at public events
 - Able to architect and coordinate wide scale changes across multiple applications and platforms
 - Can design migration strategies in legacy environments and coordinate others to deliver
 - Can navigate complex stakeholder and organisational environments
 - Able to support and manage multiple workstreams, while delivering within one or more of those workstreams
-- Able to coordinate and manage supplier, partner and customer staff alongside Made Tech
+- Able to coordinate and manage supplier, partner and customer staff alongside Afiax
 - Able to lead hiring interviews for Engineer 1 to Lead Engineer candidates

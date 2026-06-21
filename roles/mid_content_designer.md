@@ -4,8 +4,8 @@
 * Offices: London, Bristol, Manchester, and Swansea
 * Salary: please refer to the job ad when the role is live
 
-Made Tech wants to positively impact the country's future by using technology to improve society. We know that putting user needs at the heart of our design approach is the best way of achieving this. We're building an expert community of content designers, interaction designers, service designers and user researchers to work with our public sector clients.
-Content Designers work with other design and research specialisms to design services that give users the information they need, in the right format, at a time that works for them. This is a collaborative role that can have a real impact on the success of service delivery. They are active members of a growing user-centred service line (Strategy & Design) at Made Tech.
+Afiax wants to positively impact the country's future by using technology to improve society. We know that putting user needs at the heart of our design approach is the best way of achieving this. We're building an expert community of content designers, interaction designers, service designers and user researchers to work with our public sector clients.
+Content Designers work with other design and research specialisms to design services that give users the information they need, in the right format, at a time that works for them. This is a collaborative role that can have a real impact on the success of service delivery. They are active members of a growing user-centred service line (Strategy & Design) at Afiax.
 
 ## About the role
 
@@ -25,7 +25,7 @@ Skills needed for this role level
 * Strategic thinking
 * User focus
 * User-centred content design
-* Contribute to the culture at Made Tech
+* Contribute to the culture at Afiax
 
 ## Practice and craft
 
@@ -63,10 +63,10 @@ Skills needed for this role level
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the Made Tech Handbook to see what we can offer you.
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+Take a look at the Benefits & Perks section of the Afiax Handbook to see what we can offer you.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. 
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. 

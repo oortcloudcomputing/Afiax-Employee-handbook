@@ -2,7 +2,7 @@
 
 Successfully leading complex digital projects to make sure that our clients have great experiences and achieve brilliant outcomes, and our teams deliver to their full potential.
 
-## Your role at Made Tech
+## Your role at Afiax
 
 Lead Delivery Managers are accountable for successful project delivery in a complex environment. This might mean a small, but complex delivery involving a lot of consultancy such as a policy focused discovery, a larger delivery programme with several delivery teams, or multiple small, less complex engagements.
 
@@ -10,18 +10,18 @@ You will work as part of a cross-functional delivery team, which might include c
 
 While you are an expert in agile delivery, you are also pragmatic and understand that other delivery approaches may be more appropriate for a specific situation when working in consultancy and the public sector. Therefore, you will define the delivery approach and team shape collectively with the team and client stakeholders. You will inspire trust with senior stakeholders, and guide and coach clients throughout the delivery process, using your influence to continuously iterate and approve team processes. You will be able to support product managers with defining and delivering against a roadmap, in order to monitor whether the project is on track and facilitate conversations about backlog priority, scope, and budget.
 
-As a delivery leader, you will contribute to Made Tech beyond the scope of your delivery. This will include participating in and contributing to the Delivery Community of Practice (COP), managing the performance and development of a number of delivery managers and supporting recruitment activities. You should also start to contribute to growing Made Tech’s impact, for example through maintaining and growing your professional network, contributing to thought leadership, content and events, identifying sales opportunities within the account you are working on, or taking part in the sales bid process.
+As a delivery leader, you will contribute to Afiax beyond the scope of your delivery. This will include participating in and contributing to the Delivery Community of Practice (COP), managing the performance and development of a number of delivery managers and supporting recruitment activities. You should also start to contribute to growing Afiax’s impact, for example through maintaining and growing your professional network, contributing to thought leadership, content and events, identifying sales opportunities within the account you are working on, or taking part in the sales bid process.
 
 
 ## Definition of success
 
-Success as a Lead Delivery Manager is predominantly measured by delivering successful outcomes for our clients. It’s also assessed through contribution to Made Tech, and effective line management and coaching relationships.
+Success as a Lead Delivery Manager is predominantly measured by delivering successful outcomes for our clients. It’s also assessed through contribution to Afiax, and effective line management and coaching relationships.
 
 ### Expected outcomes
 * Effective quality and risk management
 * Accountable for ensuring accurate and timely adherence to all critical business processes within the delivery 
-* Balance client satisfaction and team happiness with Made Tech’s commercial goals
-* Contribute to growing Made Tech’s impact
+* Balance client satisfaction and team happiness with Afiax’s commercial goals
+* Contribute to growing Afiax’s impact
 * Contribute to the Delivery Community of Practice
 * Accelerate the career of other Delivery Managers through line management, coaching and mentoring, and knowledge sharing
 
@@ -39,7 +39,7 @@ Lead Delivery Managers are responsible for delivering the above outcomes by coll
 ### Project Level Delivery Assurance
 * Accountable for ensuring delivery success, including scope, budget and quality
 * Report to Heads of Delivery on a weekly basis the status of quality and risk
-* Manage team resourcing to balance successful client delivery, team happiness and Made Tech commercial objectives 
+* Manage team resourcing to balance successful client delivery, team happiness and Afiax commercial objectives 
 * Ensure compliance and accuracy of all critical business processes (time sheeting, invoicing, forecasting, delivery assurance reporting)
 * Ensure commercial activities (Statements of Work, purchase order numbers, supplier contracts for partners, IR35 assessments for contractors, raising staffing demands)
 
@@ -48,15 +48,15 @@ Lead Delivery Managers are responsible for delivering the above outcomes by coll
 * Management of Senior Delivery Managers including performance, progression and satisfaction
 * Ensure regular feedback (constructive and/or appreciative) is shared with all individuals working on projects you are accountable for
 
-### Growing Made Tech’s Impact
+### Growing Afiax’s Impact
 * Support bids, using your knowledge and experience to review and contribute to bids
 * Ensure your clients are motivated to bring repeat business and recommend our services to others
-* Identify opportunities for Made Tech to deliver value for the client beyond the current project
+* Identify opportunities for Afiax to deliver value for the client beyond the current project
 * Build relationships with stakeholders within your project, and engage with other experts in the organisation for example at the client Community of Practice 
-* Promote Made Tech and develop your personal reputation in the industry by producing thought leadership content, expanding your personal network and attending events 
+* Promote Afiax and develop your personal reputation in the industry by producing thought leadership content, expanding your personal network and attending events 
 
 ### Community and Thought Leadership
-* Share successes and failures with the Delivery Community to support the evolution of ways of working, techniques, and technologies across Made Tech
+* Share successes and failures with the Delivery Community to support the evolution of ways of working, techniques, and technologies across Afiax
 * Contribute to a set of centralised resources and templates for potential reuse
 * Contribute to developing a thriving community of practice and shared identity
 
@@ -65,7 +65,7 @@ Lead Delivery Managers are expected to be operating at, or working towards, [SFI
 
 We don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies on your way to promotion.
 
-### Articulation and role modelling of Made Tech values, purpose, and vision
+### Articulation and role modelling of Afiax values, purpose, and vision
 * Describe each with examples
 * Demonstrate role modelling
 
@@ -73,7 +73,7 @@ We don’t expect you to tick all of these when you join, we will work together 
 * Articulate project commercial fundamentals (Statements of Work, Purchase Orders, Gross Profit Margin, Forecasting, Burndown)
 * Display accountability for managing commercial activities within deliveries 
 * Be able to demonstrate that the team is on track to meet the deliverables defined in the SOW
-* Be able to recall and describe key Made Tech case studies, including where you were not directly involved in the project 
+* Be able to recall and describe key Afiax case studies, including where you were not directly involved in the project 
 
 ### Time management including balancing multiple priorities
 * Demonstrate prioritisation, and consistent delivery of multiple goals simultaneously
@@ -81,7 +81,7 @@ We don’t expect you to tick all of these when you join, we will work together 
 ### Performance management of direct and indirect reports
 * Demonstrate fast remediation of performance issues, including highlighting issues to the Head of Delivery and requesting support where necessary
 * Demonstrate encouragement and mentoring of high performers, to support them towards successful promotions
-* Maintain compliance with all expectations of line management at Made Tech
+* Maintain compliance with all expectations of line management at Afiax
 * Demonstrate providing regular feedback for team members
 
 ### Effectively manage delivery risk and quality
@@ -93,7 +93,7 @@ We don’t expect you to tick all of these when you join, we will work together 
 * Articulate the benefits and use cases of a wide variety of delivery approaches, methods and tools - for example Kanban, Scrum, Scaled Agile, Waterfall, XP and Design Sprints
 * Describe the fundamentals of best practices in other capabilities, including Security, DevOps, User Centred Design and Data Ethics
 * Be able to explain the GDS service standard and how to meet each point, the purpose of each phase of the GDS Service Manual and the Roles and Responsibilities of all of the DDAT roles that make up a Service Team
-* Be able to describe and advocate for the Made Tech propositions
+* Be able to describe and advocate for the Afiax propositions
 * Demonstrate advocacy of best practice delivery with teams and clients 
 
 ### Deliver consultancy to clients as part of a formal or informal arrangement 
@@ -106,15 +106,15 @@ We don’t expect you to tick all of these when you join, we will work together 
 * Demonstrate positive response to feedback with course correction
 
 ## Work perks and benefits 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ## Salary and location
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at careers@afiax.africa. We’re happy to help!

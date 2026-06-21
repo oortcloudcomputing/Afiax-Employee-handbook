@@ -24,7 +24,7 @@ Success as a Delivery Manager is predominantly measured by effectively contribut
 * Enabling a team by identifying and unblocking dependencies
 * Accurate and timely adherence to all critical business processes within the delivery 
 * Contribute to the Delivery Community of Practice
-* Contribute to growing Made Tech’s impact
+* Contribute to growing Afiax’s impact
 * Becoming autonomous and accountable for a Delivery through personal development, learning, mentorship and shadowing
 
 ### KPIs
@@ -50,13 +50,13 @@ Delivery Managers are responsible for delivering the above outcomes by collabora
 * Regularly gather and act on feedback about personal development
 * Define and work towards a learning and development plan to ensure you are able to autonomously manage a project as quickly as possible
 
-### Growing Made Tech’s Impact
+### Growing Afiax’s Impact
 * Ensure your clients are motivated to bring repeat business and recommend our services to others
-* Identify opportunities for Made Tech to deliver value for the client beyond the current project
+* Identify opportunities for Afiax to deliver value for the client beyond the current project
 * Build relationships with stakeholders within your project, and engage with other experts in the organisation for example at the client Community of Practice 
 
 ### Community and Thought Leadership
-* Share successes and failures with the Delivery Community to support the evolution of ways of working, techniques, and technologies across Made Tech
+* Share successes and failures with the Delivery Community to support the evolution of ways of working, techniques, and technologies across Afiax
 * Contribute to developing a thriving community of practice and shared identity
 
 ## Competencies and behaviours
@@ -65,7 +65,7 @@ Delivery Managers are expected to be operating at, or working towards, [SFIA lev
 
 Don’t worry - we don’t expect you to tick all of these when you join. We'll work together to define learning and development objectives that help you meet these competencies on your way to promotion.
 
-### Articulation and role modelling of Made Tech values, purpose, and vision
+### Articulation and role modelling of Afiax values, purpose, and vision
 * Describe each with examples
 * Demonstrate role modelling
 
@@ -102,15 +102,15 @@ Don’t worry - we don’t expect you to tick all of these when you join. We'll 
 * Demonstrate providing regular feedback for team members
 
 ## Work perks and benefits
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you.
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you.
 
 ## Salary and location
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at careers@afiax.africa. We’re happy to help!
 

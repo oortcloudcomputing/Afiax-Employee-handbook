@@ -1,18 +1,18 @@
-# Expectations between Made Tech and staff
+# Expectations between Afiax and staff
 
-As an employee embarking on a career with Made Tech you will have expectations about what that means in terms of your role within the organisation, job security, progression, work life balance and having a comfortable workplace. Made Tech too will have expectations on the employee in terms of the role they play in the organisation.
+As an employee embarking on a career with Afiax you will have expectations about what that means in terms of your role within the organisation, job security, progression, work life balance and having a comfortable workplace. Afiax too will have expectations on the employee in terms of the role they play in the organisation.
 
 We think these expectations create a healthy tension between employee and employer and we seek to be explicit about these expectations all of the time. There should be no surprises.
 
 The healthy tension is a good thing because it means together the individual has their needs met by their employment and the organisation gets closer to achieving its vision due to the contribution of the employee.
 
-## Employees expectations of Made Tech
+## Employees expectations of Afiax
 
-As an employee I expect Made Tech to clearly define my role within the business as well as career progression paths. I also expect for Made Tech to provide me with a comfortable workplace and respect my right to a healthy work life balance. Finally, I expect Made Tech to hold itself accountable against the company values.
+As an employee I expect Afiax to clearly define my role within the business as well as career progression paths. I also expect for Afiax to provide me with a comfortable workplace and respect my right to a healthy work life balance. Finally, I expect Afiax to hold itself accountable against the company values.
 
 If the staff expectations are not being met by the organisation then we encourage staff to [raise an issue](../welfare/raising_an_issue.md). The only way issues can be resolved is by discussing them and working constructively to improve the situation. Everything needs work, organisations are no different.
 
-## Made Tech expectations of staff
+## Afiax expectations of staff
 
 As an organisation we expect an employee to understand their role within the business and meet the expectations of their role. Role expectations should be introduced as part of the onboarding process for all roles. Expectations should be reviewed on a regular (usually monthly) basis with a Director or Line Manager.
 

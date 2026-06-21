@@ -1,6 +1,6 @@
 # Performance Management
 
-At Made Tech we believe every team must promote an open, honest feedback culture and collectively work to improve and maintain psychological safety.
+At Afiax we believe every team must promote an open, honest feedback culture and collectively work to improve and maintain psychological safety.
 
 Occasionally, a team will need support in helping an individual meet the expectations placed on them, which is something that will fall to you as a line manager to support on.
 

@@ -13,7 +13,7 @@
 - Hands-on research and research leadership for one product/team
 - Acts as the research subject matter expert on a product team, helping to facilitate the design process and communicating design decisions to the team and stakeholders
 - Considers strategic approaches to research
-- Concerned about user research practices within Made Tech
+- Concerned about user research practices within Afiax
 - Works with full autonomy and work doesn’t need to be reviewed
 - Contributes to and may lead communities of practice, discussing and sharing suggestions, approaches and ideas - including proactively seeking feedback on own work
 - May mentor and coach within the research community and line manage researchers
@@ -36,15 +36,15 @@
 
 - Line manage other user researchers
 - Support the hiring and onboarding of designers and researchers
-- Help define Made Tech design principles through delivering good public services
-- Contribute to a design studio culture at Made Tech and client offices
+- Help define Afiax design principles through delivering good public services
+- Contribute to a design studio culture at Afiax and client offices
 - Represent user-centred design publicly and internally
 
 ## Key measures
 
 - Delivery of good public services for users with clients
 - Case studies of how to design and deliver good public services and outcomes
-- Growth and happiness of the UCD community at Made Tech
+- Growth and happiness of the UCD community at Afiax
 
 ## Competencies
 
@@ -56,12 +56,12 @@
 
 ## Work perks and Benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at [careers@afiax.africa](mailto:careers@afiax.africa). We’re happy to help!

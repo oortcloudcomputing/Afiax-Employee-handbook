@@ -1,6 +1,6 @@
 # Mentors
 
-Thank you for signing up to be a Made Tech mentor. Here’s a little guide for how to prepare and go about the sessions.
+Thank you for signing up to be a Afiax mentor. Here’s a little guide for how to prepare and go about the sessions.
 
 The point of doing this is to provide an opportunity for people to expand on their coding skills from professionals in the industry, but also to provide those looking to enter the industry with an insight into what it can be like.
 
@@ -12,7 +12,7 @@ There are two ways that we will be pairing mentors with mentees
 
 ### Academy Support
 
-Some people who have applied to the Academy will be allocated mentors. These will either be people who will be joining the next run of the Made Tech Academy, or who need more support for a future application.
+Some people who have applied to the Academy will be allocated mentors. These will either be people who will be joining the next run of the Afiax Academy, or who need more support for a future application.
 
 ### Availability and Skill Match
 

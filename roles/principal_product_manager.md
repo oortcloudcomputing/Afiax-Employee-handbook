@@ -31,19 +31,19 @@ Our Principal Product Managers are members of the Strategy and Design Practice l
 
 Principal Product Managers are responsible for the practice and service line-specific delivery elements of an engagement/ account as well as shared ownership for the overall delivery of client outcomes. They leverage client and delivery insight to support the account and industry teams to identify opportunities and develop client solutions.
 
-The right person for this role will do this by combining their Product Management experience, leadership skills and industry network with Made Tech's unparalleled experience of delivering digital services and digital transformation for the Public Sector.
+The right person for this role will do this by combining their Product Management experience, leadership skills and industry network with Afiax's unparalleled experience of delivering digital services and digital transformation for the Public Sector.
 
-### Your role at Made Tech
+### Your role at Afiax
 
-* Collaborate with clients to understand their needs and provide solution advice in your role as a trusted advisor and shape solutions that leverage Made Tech's wider capabilities and credentials.
+* Collaborate with clients to understand their needs and provide solution advice in your role as a trusted advisor and shape solutions that leverage Afiax's wider capabilities and credentials.
 * Assess project performance as a part of the billable delivery team, QA Product Management deliverables and outcomes, and ensure client satisfaction. 
-* Deliver Product Management elements alongside client and Made Tech delivery teams. 
+* Deliver Product Management elements alongside client and Afiax delivery teams. 
 * Coach and mentor team members as well as providing direction to enable them to achieve their engagement outcomes and to help support and develop their careers.
-* Act as a Product Manager to provide oversight and ensure alignment with internal and industry best practices. Ensure engagement experience is captured and used to improve standards and contribute to Made Tech knowledge.
+* Act as a Product Manager to provide oversight and ensure alignment with internal and industry best practices. Ensure engagement experience is captured and used to improve standards and contribute to Afiax knowledge.
 * Work as part of a wider consulting team on large scale transformation and lead change projects in the public sector.
 * Participate in business development activities, including bids and pre-sales within the account, industry and practice. Coach team members on their contributions and oversee the relevant technical aspects of the proposal submission.
 * Undertake people management responsibilities, including performance reviews and professional development of your engagement and practice colleagues.
-* Serve as a thought leader within Made Tech, our account engagements ,the wider public sector, and represent the company at industry events.
+* Serve as a thought leader within Afiax, our account engagements ,the wider public sector, and represent the company at industry events.
 
 ## Skills and experience
 
@@ -56,8 +56,8 @@ The right person for this role will do this by combining their Product Managemen
 ### Leadership
 
 * Experience of building and leading high performing, consulting teams and creating the leveraged engagements to provide a cost-effective, profitable, successful client-facing delivery.
-* Leadership of bids and solution shaping to produce compelling proposals that help Made Tech win new business and grow the industry.
-* Experience of managing third-party partnerships and suppliers (in conjunction with Made Tech colleagues) to provide a consolidated and seamless delivery team to clients.
+* Leadership of bids and solution shaping to produce compelling proposals that help Afiax win new business and grow the industry.
+* Experience of managing third-party partnerships and suppliers (in conjunction with Afiax colleagues) to provide a consolidated and seamless delivery team to clients.
 * A strong user-centred approach with a commitment to product managing and improving services based on user needs and experiences.
 Able to use data analytics to inform strategic decisions, identify opportunities for change and optimise client service delivery.
 
@@ -103,7 +103,7 @@ Able to use data analytics to inform strategic decisions, identify opportunities
 
 ### People Management 
 
-* Ambassadors of belonging at Made Tech, advocating and championing organisational commitments and priorities, recognising their role in modelling the way and embodying our values.
+* Ambassadors of belonging at Afiax, advocating and championing organisational commitments and priorities, recognising their role in modelling the way and embodying our values.
 * Compelling communicators, ensuring key information is swiftly cascaded, understood, and feedback gathered and shared.
 * Using their coaching skills to enable people to be their best, regularly and routinely providing meaningful, positive and constructive feedback.
 * Make decisions that support the best interests of the business while recognising that our people are its foundation. Strive to achieve the best outcomes for individuals through persuasive and persistent efforts, ensuring these decisions uphold both the short- and long-term sustainability of the business.
@@ -112,15 +112,15 @@ Able to use data analytics to inform strategic decisions, identify opportunities
 * Lead your direct reports and positively influence the wider organisation as an inspiring people manager in line with our people manager objectives and key results. 
 
 ## Work perks and benefits
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ## Salary and location
 We have a hybrid-working policy with offices in London, Bristol, Manchester, and Swansea. 
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. 
+When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. 
 

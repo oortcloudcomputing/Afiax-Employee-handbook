@@ -180,7 +180,7 @@ If you wish to apply for clearance to deal under the Company’s dealing code, p
 
 **Transaction notification**
 
-Please send your completed form to Debbie Lovegrove (debbie.lovegrove@madetech.com]. If you require any assistance in completing this form, please contact Debbie Lovegrove.
+Please send your completed form to Debbie Lovegrove (debbie.lovegrove@afiax.africa]. If you require any assistance in completing this form, please contact Debbie Lovegrove.
 
 |**Name**| |
 | - | - |

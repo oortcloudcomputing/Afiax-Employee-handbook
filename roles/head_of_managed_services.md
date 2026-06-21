@@ -4,22 +4,22 @@ Our Head of Managed Services will be responsible for building an exceptional ope
 
 We believe that Managed Services, done effectively, can significantly enhance citizen and user experiences, bolster the resilience of public services, and continually improve the applications that deliver essential capabilities to our society.
 
-The successful candidate will join the existing practice to help us to grow, develop and support the sale of a set of differentiated offerings covering the end-to-end design, transition and support for a wide range of IT services, platforms and products. They will develop a team of engineering, cloud, data, user-centred and managed service professionals, engage with our clients on their business priorities and challenges, and guide and monitor client engagements across Made Tech. 
+The successful candidate will join the existing practice to help us to grow, develop and support the sale of a set of differentiated offerings covering the end-to-end design, transition and support for a wide range of IT services, platforms and products. They will develop a team of engineering, cloud, data, user-centred and managed service professionals, engage with our clients on their business priorities and challenges, and guide and monitor client engagements across Afiax. 
 
 This role reports directly to the Chief Delivery & Transformation Officer.
 
 ## Role Description
 
-Our Head of Managed Services is a member of Made Tech’s leadership team with the responsibility and autonomy to define strategic plans that accelerate the growth of both the practice and wider business. 
+Our Head of Managed Services is a member of Afiax’s leadership team with the responsibility and autonomy to define strategic plans that accelerate the growth of both the practice and wider business. 
 
 You will be responsible for the revenue, margin and utilisation of the practice, collaborating with the other practice, industry and delivery heads to drive excellent services for our Public Sector clients. 
 
-The right person for this role will do this by combining their experience of IT service management,  passion for simplification and legacy modernisation, and their established industry network with Made Tech's unparalleled experience of delivering digital services and digital transformation for the public sector.
+The right person for this role will do this by combining their experience of IT service management,  passion for simplification and legacy modernisation, and their established industry network with Afiax's unparalleled experience of delivering digital services and digital transformation for the public sector.
 
-### Your role at Made Tech
+### Your role at Afiax
 
-* Grow the Managed Services practice at Made Tech; alongside our industry leadership teams, develop trusted relationships with our clients to identify specific growth opportunities and proactively take new ideas to our clients to help them solve their biggest problems
-* Develop the Managed Services propositions; establish Made Tech as an innovator and thought leader in the space, sharing our differentiated approach to improve services across the public sector
+* Grow the Managed Services practice at Afiax; alongside our industry leadership teams, develop trusted relationships with our clients to identify specific growth opportunities and proactively take new ideas to our clients to help them solve their biggest problems
+* Develop the Managed Services propositions; establish Afiax as an innovator and thought leader in the space, sharing our differentiated approach to improve services across the public sector
 * Lead the Managed Services practice; hire, develop, motivate and coach a team that understands the user/client needs as well as the technology we are supporting across the public sector
 * Deliver a profitable Managed Services business; balance complex client needs with highly performing, suitably leveraged and cost effective teams 
 * Shape our service offering; define and deploy the operational processes and approaches that underpin our migration, modernisation, improvement (cost and experience) and managed service activities
@@ -53,11 +53,11 @@ The right person for this role will do this by combining their experience of IT 
 * Understanding of the support and operations tooling landscape, experience of cross organisation integrations and the development of automated monitoring and alerting frameworks.
 
 ## Work perks and benefits
-Take a look at the Benefits & Perks section of the Made Tech Handbook to see what we can offer you.
+Take a look at the Benefits & Perks section of the Afiax Handbook to see what we can offer you.
 
 ## Salary and location
 We have a hybrid-working policy with visits to clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea.
 
-We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.

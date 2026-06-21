@@ -1,6 +1,6 @@
 # Promotions
 
-This guidance is written mostly for line managers. It'll help you understand how promotions work at Made Tech.
+This guidance is written mostly for line managers. It'll help you understand how promotions work at Afiax.
 
 You're responsible for supporting people you line manage when they want to get promoted.
 

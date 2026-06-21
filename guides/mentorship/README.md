@@ -25,13 +25,13 @@ If you have a particular approach or mentorship / pairing style that you’d lik
 ## Before your sessions
 
 Discuss what you will be pairing on during your sessions. In terms of what you could pair on, a good option would be to use some of the following: 
-- https://learn.madetech.com/technology/katas/
-- https://learn.madetech.com/technology/koans/
+- https://learn.afiax.africa/technology/katas/
+- https://learn.afiax.africa/technology/koans/
 - https://www.codewars.com/
 
 ## Any questions?
 
-Feel free to ask any questions in the #cop-mentoring channels or send an email to mentorship@madetech.com.
+Feel free to ask any questions in the #cop-mentoring channels or send an email to mentorship@afiax.africa.
 
 ## Mentor and Mentee Guidance
 

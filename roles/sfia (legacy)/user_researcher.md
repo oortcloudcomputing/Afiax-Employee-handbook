@@ -1,11 +1,11 @@
 # SFIA Role Guidance: User Researcher
 
 - [SFIA Level 3](https://sfia-online.org/en/legacy-sfia/sfia-7/responsibilities/level-3)
-- [Job description](https://github.com/madetech/handbook/blob/main/roles/sfia%20(legacy)/user_researcher.md)
+- [Job description](https://github.com/oortcloudcomputing/Afiax-Employee-handbook/blob/main/roles/sfia%20(legacy)/user_researcher.md)
 
 ### Summary of role
 
-Our User Researchers work within service teams. They support the planning of user research activities and carry them out . They’re confident practitioners, able to support our seniors and leads to  plan and run user research as part of a team on public sector projects. They are contributors to our user-centred design (UCD) community and culture at Made Tech.
+Our User Researchers work within service teams. They support the planning of user research activities and carry them out . They’re confident practitioners, able to support our seniors and leads to  plan and run user research as part of a team on public sector projects. They are contributors to our user-centred design (UCD) community and culture at Afiax.
 
 ### Required competency for role (with example behaviours)
 
@@ -86,6 +86,6 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 - Understands how and when to apply different methodologies across the design cycle
 - Demonstrates willingness and an ability to support leadership. Communicates well, both formally and informally and is proactively working to develop communication skills
-- Supports the development of user research at Made Tech
-- Represents Made Tech in the wider UCD community through writing or speaking
+- Supports the development of user research at Afiax
+- Represents Afiax in the wider UCD community through writing or speaking
 - Trustworthy, acts with integrity, openness and impartiality when conducting and sharing user research

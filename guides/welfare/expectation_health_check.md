@@ -1,8 +1,8 @@
 # Expectation Health Check
 
-We believe the expectations between Made Tech and staff create a healthy tension that has a positive impact on both in equal measure. Occasionally these expectations will not be met for one reason or another. If Made Tech is not meeting the expectations of staff, an employee can [raise an issue](raising_an_issue.md).
+We believe the expectations between Afiax and staff create a healthy tension that has a positive impact on both in equal measure. Occasionally these expectations will not be met for one reason or another. If Afiax is not meeting the expectations of staff, an employee can [raise an issue](raising_an_issue.md).
 
-In the case where an employee is not meeting the expectations of Made Tech or another member of staff we can perform an expectation health check. This document outlines the procedure.
+In the case where an employee is not meeting the expectations of Afiax or another member of staff we can perform an expectation health check. This document outlines the procedure.
 
 ## What to do before requesting a health check
 
@@ -14,7 +14,7 @@ The first thing you can do, if you feel comfortable and able, is raise the issue
 
 ### Before a health check raise feedback via line manager 121
 
-If you feel unable to have a conversation directly with the person involved, and they are a member of staff at Made Tech then you can encourage them to discuss the issue in their next line manager 121 session by raising the feedback through that process.
+If you feel unable to have a conversation directly with the person involved, and they are a member of staff at Afiax then you can encourage them to discuss the issue in their next line manager 121 session by raising the feedback through that process.
 
 Feedback provided this way is not anonymous but can add a layer of indirection and ensure that the issue is discussed with another member of the team. We hope this will trigger conversations amongst those in the session and we would expect proactive action to happen off the back of that session.
 
