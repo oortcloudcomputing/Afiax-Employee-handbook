@@ -1,39 +1,39 @@
 # Principles
 
-How we work with clients and build teams that deliver.
+How we work with healthcare organisations and build teams that deliver lasting impact across Africa.
 
-## 1. Create impact for all
-We create services that balance user needs, policy goals and what's possible now. Public services exist to create an impact on people's lives. Good services deliver positive outcomes for society that are fair and equitable for all. Be it cleaner air, safer roads, more jobs or better use of taxes - we understand that everything we do has an impact, no matter how large or small. 
+## 1. Put the patient at the centre of every decision
+Healthcare systems exist for patients. Every feature, every integration, every trade-off should be evaluated from the patient's perspective — their safety, their dignity, their continuity of care. We never let institutional convenience override patient-centred design.
 
-## 2. Build successful teams
-Success comes from our people. To build the right team, we strive to truly represent the communities we serve. We bring people together with a mixture of skills and experience. And we give everyone the opportunity to explore. We trust one another, respect hands-on skills, and always assume best intentions.
+## 2. Build on open standards
+We implement FHIR R4 as the foundation, not an afterthought. We use HL7, SNOMED CT, ICD-10/11, LOINC, and other open health standards because interoperability is not a feature — it is the product. Systems built on open standards outlast any single vendor.
 
-## 3. Everyone can learn
-We’re passionate about learning. We strive to leave our clients, partners and suppliers with the skills, enthusiasm and credibility to keep delivering. Learning works both ways - we understand that others can teach us as much as we can teach them. 
+## 3. Design for the real Africa
+Kenya is not Silicon Valley. Our users may be on 2G networks, shared devices, and interrupted power. Clinicians work in high-pressure, time-constrained environments. We design for these realities first, then scale up — never the reverse.
 
-## 4. Make real solutions
-We measure value in our work by delivering real things that impact our clients, citizens and society. By inviting feedback and seeking the shortest path to deliver real value, we see the change our work creates in people’s lives. 
+## 4. Interoperate or it did not happen
+A system that cannot share data with the national HIE (AfyaLink), the SHA claims platform, or partner health facilities has not solved the problem — it has moved it. Every system we build must speak to the broader health ecosystem from day one.
 
-## 5. Do less to achieve more
-By working in agile teams, designing fewer features and using words everyone understands, we make a meaningful impact sooner, and create strong foundations to build on.
+## 5. Build local capacity, not dependency
+Real change means leaving healthcare organisations stronger than we found them. We embed knowledge transfer in every engagement, mentor local engineers and health informaticists, and design systems that clients can own, operate, and extend independently.
 
 ## 6. Deliver little and often
-By delivering features step by step we can get the small stuff out first, giving real value to the people who need it - quickly. We invite feedback early and to learn, iterate and reduce risk.
+We ship working software in short iterations, get it in front of clinicians and patients quickly, and learn from real use rather than assumptions. A deployed feature that helps one ward today is worth more than a perfect feature shipping in six months.
 
-## 7. Earn trust
-Openness is at the core of everything we do. We use open ways of working on our projects, in our business and with one another. Sharing our successes and failures builds trust, gives us room to grow and holds us accountable. This lets others reuse and give feedback on our work so we all learn and improve. 
+## 7. Bring uncertainty forward
+Healthcare systems carry real stakes. We tackle the hardest clinical, regulatory, and technical risks first. We use spikes and prototypes to expose unknowns before they become blockers, and we surface bad news early rather than hiding it.
 
-## 8. Be brave, be curious
-We have the courage to challenge the status quo and the curiosity to innovate. By exploring new ways of doing things and taking lessons we've learnt, we can build services the public sector needs. We recognise there's always a different way to solve a problem, often supported by proven practices and technologies.
+## 8. Earn trust through openness
+We work transparently with clients, partners, and regulators. We share our progress, our setbacks, and our reasoning. In a sector where trust is life-critical — for patients trusting clinicians, for clinicians trusting data — we earn it by being honest, consistently.
 
-## 9. Believe in compromise
-There's no such thing as perfect and we acknowledge that tradeoffs can often be part of our work. When making challenging decisions, we focus on quality and work within our limits. We recognise when to shift deadlines and make smart business decisions - always with a humble approach.
+## 9. Use country packs, not forks
+Every Kenya-specific feature we build is designed as a reusable country pack that can be adapted for Uganda, Ethiopia, Ghana, and beyond. We solve problems once, well, and with the next country in mind. We do not fork solutions when configuration will do.
 
-## 10. Nurture long-term relationships
-As trusted advisors we always aim to go above and beyond. We collaborate with our clients, working with them to design and build the future of their services. We support them to define and solve their challenges, building long-term partnerships. 
+## 10. Comply without compromising care
+We respect and actively implement Kenya's data protection law (PDPA), DHA data governance requirements, and SHA compliance standards. Compliance is not a gate we pass through — it is a continuous practice woven into how we build.
 
-## 11. Work ourselves out of a job
-Real change means helping our clients deliver services independently and long term. We nurture long term partnerships so we can support the next challenge rather than locking ourselves in to the last one. 
+## 11. Maintain quality as a non-negotiable
+In healthcare, poor software quality has clinical consequences. We hold a high bar for test coverage, code review, performance, and security. We do not ship features we know are broken. We fix issues before they reach a clinician's screen.
 
-## 12. Leave things better than we found them
-Our work involves trying to meet the often-competing needs of our people, clients and users while building solutions that really work. This means knowing that, sometimes, we must build trust now to create a bigger impact later on. 
+## 12. Leave systems better than we found them
+Health IT debt costs lives. When we work in a system — whether we built it or inherited it — we leave the codebase cleaner, the documentation clearer, and the team more capable than when we arrived. Better systems now create the foundation for better care later.

@@ -1,10 +1,10 @@
 # Data Engineer
 
-Our Data Engineers enable public sector organisations to embrace a data-driven approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to the clients’ needs. They develop, operate, and maintain these services. They make sure they provide maximum value to data consumers, including analysts, scientists, and business stakeholders.
+Our Data Engineers enable healthcare organisations to embrace a data-driven approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to the clients’ needs. They develop, operate, and maintain these services. They make sure they provide maximum value to data consumers, including analysts, scientists, and business stakeholders.
 
 ## Your role at Afiax
 
-At Afiax we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients.
+At Afiax we want to positively impact the future of healthcare across Africa by using technology to improve health outcomes, for everyone. We want to empower the healthcare sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients.
 
 As a Data Engineer, you'll play a hands-on role as a contributor to client projects, focusing on both delivering engineering work as well as upskilling members of the client team.
 
@@ -35,7 +35,7 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 - Infrastructure-as-Code (e.g. Terraform, Cloud Formation)
 - Working knowledge of statistics
 - Working with multidisciplinary digital and technology teams
-- Working within the public sector
+- Working within the healthcare sector
 
 ## Work perks and benefits
 
@@ -43,7 +43,7 @@ Take a look at the Benefits & Perks section of the [Afiax Handbook](https://gith
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

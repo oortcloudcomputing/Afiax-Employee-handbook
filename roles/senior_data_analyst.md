@@ -2,7 +2,7 @@
 
 ## Summary
 
-Afiax Connected Healthcare wants to positively impact the country's future by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients. You will also work closely with clients to help shape their data strategy
+Afiax Connected Healthcare wants to positively impact the future of healthcare in Africa by using technology to improve health outcomes, for everyone. We want to empower the healthcare sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients. You will also work closely with clients to help shape their data strategy
 As a Senior Data Analyst, you may play one or more roles according to our clients' needs. The role is very hands-on and you'll support as a senior contributor role for a project, focusing on:
 
 - **Data analysis and reporting**: Conducting in-depth data analysis, generating reports, and providing actionable insights for client projects.
@@ -81,7 +81,7 @@ You’ll need to have a drive to deliver outcomes for users. You’ll make sure 
 Take a look at the Benefits & Perks section of the Afiax Connected Healthcare Handbook to see what we can offer you.
 
 ## Salary and location
-We mainly work remotely but you may need to visit clients or visit the office occasionally. We have offices in London, Bristol, Manchester, and Swansea.
+We mainly work remotely but you may need to visit clients or visit the office occasionally. We have office in Nairobi, Kenya.
 
 We practice salary transparency when it comes to advertising roles at Afiax Connected Healthcare. Every role we publish will include the salary range in the job ad, please do refer to that.
 

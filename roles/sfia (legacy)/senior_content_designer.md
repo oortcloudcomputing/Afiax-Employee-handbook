@@ -36,7 +36,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 _Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 - Works closely with the team to identify user needs, write and map user stories, design content plans, create and publish content
 - Drives team towards good quality content design by influencing their whole team to work on problems in a suitable way.
-- Line manages content designers new to Afiax and the public sector. Coaches them on where to spend energy and what to compromise on, using the design guides and operating models as reference.
+- Line manages content designers new to Afiax and the healthcare sector. Coaches them on where to spend energy and what to compromise on, using the design guides and operating models as reference.
 - Presents clearly and confidently the design decisions at the start of each sprint to the whole team. Making it clear what hypotheses the prototypes are trying to prove or disprove.
 - Regularly pairs with other disciplines in their team such as user researchers. Able to see when this is needed to move work forward and show the value of working closely together like this.
 - Writes key content to form part of a minimal viable service a team can ship as its first release.
@@ -61,7 +61,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 ---
 
 ### Knowledge
-- Has a thorough understanding of different content design techniques and ways of working. Can either quickly apply their own content design knowledge of the public sector or have personal experience of it they can draw upon.
+- Has a thorough understanding of different content design techniques and ways of working. Can either quickly apply their own content design knowledge of the healthcare sector or have personal experience of it they can draw upon.
 - Applies knowledge effectively in unfamiliar situations and actively maintains own knowledge and contributes to the development of others.
 - Rapidly absorbs new information about a problem space and its users and applies it effectively.
 Maintains an awareness of developing content design practices and their application and takes responsibility for driving own personal growth.
@@ -72,7 +72,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 - Explains their role as Content Designer in the different GDS service design phases. Can advise a client or team how to get the best value out of their time.
 - Reads around the wider context of their teams work, be that client blog posts, ministerial announcements or news about a new policy. Can communicate the policy intent behind the work and how it relates to making the language of what can be complex policies easy to understand.
 - Suggests activities and tools to their team for designing a service with fewer barriers for people with disabilities and other access needs.
-- Attends events relating to public sector content design. Shares learnings with the wider community of practice at Afiax.
+- Attends events relating to healthcare content design. Shares learnings with the wider community of practice at Afiax.
 - Trials a new content technique from other organisations in their own team. Then, evaluates how effective the technique is and shares learning with the wider community of practice.
 - Decide what is the most effective way to test an idea, be that card sorting, a paper prototype or A/B test.
 

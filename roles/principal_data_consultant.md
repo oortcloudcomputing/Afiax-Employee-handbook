@@ -1,10 +1,10 @@
 # Principal Data Consultant
 
-Reporting to the Head of Data, the Principal Data Consultant supports the Afiax mission to enable public sector organisations to better use technology in order to improve society. They do this by building and managing strategic relationships, leading accounts, finding new opportunities and advising as a senior technology leader across multiple clients.
+Reporting to the Head of Data, the Principal Data Consultant supports the Afiax mission to enable healthcare organisations to better use technology in order to improve health outcomes. They do this by building and managing strategic relationships, leading accounts, finding new opportunities and advising as a senior technology leader across multiple clients.
 
 ## Summary
 
-We help public sector organisations deliver quality technology solutions to help citizens get more from public services. To do this we work alongside brilliant public servants to modernise technology and accelerate digital delivery.
+We help healthcare organisations deliver quality technology solutions to help citizens get more from public services. To do this we work alongside brilliant public servants to modernise technology and accelerate digital delivery.
 
 As Principal Data Consultant you will work closely with our customers senior leadership to help inform their strategy and to ensure our consulting teams are delivering to a high quality and are aligned to our customers technology vision.
 
@@ -12,7 +12,7 @@ Working with leadership within Afiax and the Data & AI practice you will ensure 
 
 You will help to coach and support Data & AI team members as well as colleagues from Cloud & Engineering and other practices to steer our project teams towards success. You will also have input into hiring and line managing colleagues.
 
-While this is not a hands-on technical role, the importance of credibility in internet-era approaches to digital, data and technology in the public sector cannot be understated. You will be expected to maintain a broad technical knowledge of modern data practices, be able to shape data strategy and roadmaps, and hold others to account for technical quality.
+While this is not a hands-on technical role, the importance of credibility in internet-era approaches to digital, data and technology in the healthcare sector cannot be understated. You will be expected to maintain a broad technical knowledge of modern data practices, be able to shape data strategy and roadmaps, and hold others to account for technical quality.
 
 As a data leader within Afiax you will be expected to maintain and grow your professional network. You will be expected to contribute to thought leadership, content and events and should have a proven track record of doing so.
 
@@ -20,7 +20,7 @@ As a data leader within Afiax you will be expected to maintain and grow your pro
 
 We look for the following experience. But when hiring for this role, if you don’t have some of the experience listed below, don’t let that stop you from applying!
 * Working directly with customers and users
-* Working within a technology consultancy or data/ strategy role within a public sector facing or commercial organisation 
+* Working within a technology consultancy or data/ strategy role within a healthcare facing or commercial organisation 
 * Shaping data strategy, delivery roadmaps and approaches to quality, ethics and governance
 * Developing a data practice, capability or function
 * Combining data strategy, data science, analytics and engineering to deliver an outcome
@@ -40,7 +40,7 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 * Working within an account or programme leadership team
 * Working within bid teams to win contracts exceeding value of £1m
 * Working with multidisciplinary digital and technology teams
-* Working within the public sector
+* Working within the healthcare sector
 * Experience in hiring, forming and running teams
 
 ## Work perks and benefits
@@ -49,7 +49,7 @@ Take a look at the Benefits & Perks section of the Afiax Handbook to see what we
 
 ## Salary and location
 
-We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have offices in London, Bristol, Manchester, and Swansea and our clients are across the UK. 
+We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have office in Nairobi, Kenya and our clients are across the UK. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

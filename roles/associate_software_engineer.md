@@ -4,7 +4,7 @@ Our engineers build software that makes our clients happy. They prefer problem s
 
 ## Your role at Afiax
 
-We primarily write and deliver custom software for the public sector. Technical excellence for us isn’t about delivering to feature lists. We place a strong emphasis on outcome-based delivery, making sure our clients’ goals are understood and achieved with the technology we deploy.
+We primarily write and deliver custom software for the healthcare sector. Technical excellence for us isn’t about delivering to feature lists. We place a strong emphasis on outcome-based delivery, making sure our clients’ goals are understood and achieved with the technology we deploy.
 
 Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, and C# with .NET Core. We don’t limit ourselves and we expect all of our engineers to be keen on learning new technologies. Automation is important to our teams, so we make sure there’s a CD pipeline set up to build, test, and release. We’re usually responsible for setting up clients’ infrastructure, too. For example, on AWS, GCP or Azure using tools like Terraform. Though, sometimes we opt for a Platform as a Service like Heroku.
 
@@ -18,7 +18,7 @@ Take a look at the Benefits & Perks section of the [Afiax Handbook](https://gith
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

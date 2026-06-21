@@ -14,30 +14,30 @@ Our Head of Managed Services is a member of Afiax’s leadership team with the r
 
 You will be responsible for the revenue, margin and utilisation of the practice, collaborating with the other practice, industry and delivery heads to drive excellent services for our Public Sector clients. 
 
-The right person for this role will do this by combining their experience of IT service management,  passion for simplification and legacy modernisation, and their established industry network with Afiax's unparalleled experience of delivering digital services and digital transformation for the public sector.
+The right person for this role will do this by combining their experience of IT service management,  passion for simplification and legacy modernisation, and their established industry network with Afiax's unparalleled experience of delivering digital services and digital transformation for the healthcare sector.
 
 ### Your role at Afiax
 
 * Grow the Managed Services practice at Afiax; alongside our industry leadership teams, develop trusted relationships with our clients to identify specific growth opportunities and proactively take new ideas to our clients to help them solve their biggest problems
-* Develop the Managed Services propositions; establish Afiax as an innovator and thought leader in the space, sharing our differentiated approach to improve services across the public sector
-* Lead the Managed Services practice; hire, develop, motivate and coach a team that understands the user/client needs as well as the technology we are supporting across the public sector
+* Develop the Managed Services propositions; establish Afiax as an innovator and thought leader in the space, sharing our differentiated approach to improve services across the healthcare sector
+* Lead the Managed Services practice; hire, develop, motivate and coach a team that understands the user/client needs as well as the technology we are supporting across the healthcare sector
 * Deliver a profitable Managed Services business; balance complex client needs with highly performing, suitably leveraged and cost effective teams 
 * Shape our service offering; define and deploy the operational processes and approaches that underpin our migration, modernisation, improvement (cost and experience) and managed service activities
 * Provide subject matter expertise; lead the migration and operations offerings on our existing client accounts, guiding the account teams to building strategic plans that deliver on our goals
-* Be a trusted advisor; build strategic relationships with C-Level stakeholders across our public sector client base and the wider industry
+* Be a trusted advisor; build strategic relationships with C-Level stakeholders across our healthcare client base and the wider industry
 * Be the point of escalation; support the team for service impacting issues/ incidents, conduct major service reviews with key clients and liaise with high profile stakeholders
 * Help develop our integrated client proposition; align the Managed Services  strategy and offerings to our Transformation, Security, Engineering and Cloud offerings to ensure a comprehensive service to our clients.
 
 ### The following skills will be assessed during the application process
 
 **Client  Advisory**
-* Understanding of the issues and challenges that the public sector faces in supporting and transforming legacy applications, as well as minimising the risk of future legacy technology
-* Experience building trusted advisor relationships with senior client stakeholders within the public sector.
+* Understanding of the issues and challenges that the healthcare sector faces in supporting and transforming legacy applications, as well as minimising the risk of future legacy technology
+* Experience building trusted advisor relationships with senior client stakeholders within the healthcare sector.
 
 **Practice vision**
-* Strategic vision; ability to align services with evolving societal requirements and public sector objectives
+* Strategic vision; ability to align services with evolving societal requirements and healthcare objectives
 * User-centric approach; strong commitment to designing and improving services based on user needs and experiences
-* Continuous improvement and innovation; proficiency in engaging with stakeholders, including end-users and public sector teams, to identify and implement improvements and incorporate new technology to enhance service performance, user satisfaction and accessibility
+* Continuous improvement and innovation; proficiency in engaging with stakeholders, including end-users and healthcare teams, to identify and implement improvements and incorporate new technology to enhance service performance, user satisfaction and accessibility
 * Data-driven decision making; utilise data analytics to inform strategic decisions, identify opportunities for change and optimise service delivery.
 
 **Routine growth**
@@ -56,7 +56,7 @@ The right person for this role will do this by combining their experience of IT 
 Take a look at the Benefits & Perks section of the Afiax Handbook to see what we can offer you.
 
 ## Salary and location
-We have a hybrid-working policy with visits to clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea.
+We have a hybrid-working policy with visits to clients or go to the office occasionally. We have office in Nairobi, Kenya.
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

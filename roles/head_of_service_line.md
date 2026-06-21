@@ -6,7 +6,7 @@ Our Heads of Service Line are responsible for building world class professional 
 
 Heads of Service Lines share a common set of outcomes and KPIs that work towards our organisational purpose, vision and missions. To be successful they must work as one team with Industry Practices, the Delivery Management Organisation and Business Services. They should:
 
-- generate public sector demand for a set of capabilities
+- generate healthcare demand for a set of capabilities
 - help make sure there’s high growth of revenue and headcount
 - maximise utilisation and make the most of bench time by using it to invest in career development, training, and sales
 - maximise retention by building a strong practice identity and clearly defining career pathways
@@ -59,7 +59,7 @@ Take a look at the Benefits & Perks section of the [Afiax Handbook](https://gith
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

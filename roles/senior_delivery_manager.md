@@ -112,7 +112,7 @@ Demonstrate knowledge of where to find and how to use the GDS service standard
 Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ## Salary and location
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

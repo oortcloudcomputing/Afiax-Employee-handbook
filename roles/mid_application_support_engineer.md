@@ -1,6 +1,6 @@
 # Application Support Engineer
 
-Delivering technical services to support, maintain and improve live services across the public sector.
+Delivering technical services to support, maintain and improve live services across the healthcare sector.
 
 As an application support engineer at Afiax you will work collaboratively within delivery teams transitioning live services without disruption from incumbent suppliers, deliver enhancements and provide ongoing maintenance and BAU support.
 
@@ -54,7 +54,7 @@ Take a look at the Benefits & Perks section of the Afiax Handbook to see what we
 
 ## Salary and location
 
-We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have offices in London, Bristol, Manchester, and Swansea and our clients are across the UK. 
+We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have office in Nairobi, Kenya and our clients are across the UK. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

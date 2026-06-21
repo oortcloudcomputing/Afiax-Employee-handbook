@@ -1,10 +1,10 @@
 # Lead Data Engineer
 
-Our Lead Data Engineers enable public sector organisations to embrace a data-supported approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to our clients' needs. They manage teams to develop, operate, and maintain these services. They make sure they’re providing maximum value to data consumers, including analysts, scientists, and business stakeholders.
+Our Lead Data Engineers enable healthcare organisations to embrace a data-supported approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to our clients' needs. They manage teams to develop, operate, and maintain these services. They make sure they’re providing maximum value to data consumers, including analysts, scientists, and business stakeholders.
 
 ## Your role at Afiax 
 
-At Afiax we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are secure, user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients. You will also work closely with clients to help shape their data strategy.
+At Afiax we want to positively impact the future of healthcare across Africa by using technology to improve health outcomes, for everyone. We want to empower the healthcare sector to deliver and continuously improve digital services that are secure, user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients. You will also work closely with clients to help shape their data strategy.
 
 You may play one or more roles according to our clients' needs. Sometimes the role is very hands-on and you'll both manage the team and contribute to a project, delivering engineering work including code as well as upskilling members of the client team. At other points, you might play more of a technical architect role, making sure that the wider context of a delivery is considered and maintaining alignment between the operational and analytical aspects of the engineering solution.
 
@@ -36,7 +36,7 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 - Working knowledge of statistics
 - Working within bid teams to win contracts exceeding value of £1m
 - Working with multidisciplinary digital and technology teams
-- Working within the public sector
+- Working within the healthcare sector
 - Experience in hiring, forming and running teams
 
 ## Work perks and benefits
@@ -45,7 +45,7 @@ Take a look at the Benefits & Perks section of the [Afiax Handbook](https://gith
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 The salary for this role is location-dependent:
 

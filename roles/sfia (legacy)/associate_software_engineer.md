@@ -6,7 +6,7 @@
 
 ## Summary of role
 
-Assists in the delivery of digital, data and technology outcomes that improve society. They do this by autonomously developing software features and contributing ideas to workstream direction.
+Assists in the delivery of digital, data and technology outcomes that improve health outcomes. They do this by autonomously developing software features and contributing ideas to workstream direction.
 
 ## Required competency for role
 

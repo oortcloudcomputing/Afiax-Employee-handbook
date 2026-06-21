@@ -12,7 +12,7 @@ That said, there are a number of delivery norms that we expect teams to adopt by
 
 ## 1. Hold a standup every morning
 
-Every team is expected to hold a standup involving Engineers, Delivery Managers, and wherever possible customer teams. Standups should focus around the Trello board for transparency and to visualise bottlenecks. Standups must use the yesterday/today/blockers format, and care should be taken to avoid standups turning in to customer status reports.
+Every team is expected to hold a standup involving Engineers, Delivery Managers, and wherever possible client teams. Standups should focus around the team's board (GitHub Projects or equivalent) for transparency and to visualise bottlenecks. Standups must use the yesterday/today/blockers format, and care should be taken to avoid standups turning into client status reports.
 
 ## 2. Hold a retrospective at least every 2 weeks
 
@@ -55,7 +55,7 @@ Every team is expected to bring forward uncertainty. Where an iteration contains
 
 ## 10. Communicate regularly with customers and each other
 
-Every team is expected to be in contact with their customer at least once per day. Individuals in teams should communicate when they're unclear on any aspect of the delivery. Teams must not defer communication until standup. Teams must have a conversation with their customer as soon as any iteration goals become at risk. A customer must not be negatively surprised by progress at a showcase. Teams should send a weekly summary email to their customer stakeholders and for inclusion in the Afiax TGIF email.
+Every team is expected to be in contact with their customer at least once per day. Individuals in teams should communicate when they're unclear on any aspect of the delivery. Teams must not defer communication until standup. Teams must have a conversation with their customer as soon as any iteration goals become at risk. A customer must not be negatively surprised by progress at a showcase. Teams should send a weekly summary to their client stakeholders and post a brief update in the `#delivery` Slack channel for company-wide visibility.
 
 ## 11. Maintain quality
 

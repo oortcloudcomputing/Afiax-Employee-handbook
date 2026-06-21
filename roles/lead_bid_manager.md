@@ -1,12 +1,12 @@
 # Lead Bid Manager
 
-Reporting to the Head of Bids and Frameworks, you will lead the bid process from early presales to proposal submission and then signature. As the COO of your bids, you will direct and inspire your team to produce winning responses. You will have a strong understanding of public sector procurement, DDaT principles, market trends and competitor activity to feed into the wider bid strategy.
+Reporting to the Head of Bids and Frameworks, you will lead the bid process from early presales to proposal submission and then signature. As the COO of your bids, you will direct and inspire your team to produce winning responses. You will have a strong understanding of healthcare procurement, DDaT principles, market trends and competitor activity to feed into the wider bid strategy.
 
 We believe this is an exciting opportunity to work in one of our industry’s most critical and complex functions. The successful applicant will be a subject expert and recognised leader within that team.
 
 ## Summary
 
-Afiax want to positively impact the future of the country by using technology to improve society, for everyone. We believe being design and product-led can create positive outcomes in the public sector through critical services enabled by technology. We have been through a period of significant growth and are looking to expand to accommodate our future pipeline. That is where you come in.
+Afiax want to positively impact the future of healthcare across Africa by using technology to improve health outcomes, for everyone. We believe being design and product-led can create positive outcomes in the healthcare sector through critical services enabled by technology. We have been through a period of significant growth and are looking to expand to accommodate our future pipeline. That is where you come in.
 
 ## Responsibilities
 
@@ -25,7 +25,7 @@ Afiax want to positively impact the future of the country by using technology to
 
 ### Skills you must have
 
-* A minimum of 5 years experience working primarily in UK public sector technology.
+* A minimum of 5 years experience working primarily in UK healthcare technology.
 * A strong understanding of agile methodologies and digital transformation, including user-centred design principles.
 * Excellent communication and interpersonal skills, with a strong ability to influence and enable collaboration across functions and a strength in creative writing with an eye for detail. 
 * An ability to roll your sleeves up and be the person to take ownership.

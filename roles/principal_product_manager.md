@@ -1,19 +1,19 @@
 # Principal Product Manager 
 **Delivering world class client engagements.**
 
-Our Principal Product Managers are responsible for leading and delivering on strategically significant and complex client engagements across our portfolio of public sector clients.
+Our Principal Product Managers are responsible for leading and delivering on strategically significant and complex client engagements across our portfolio of healthcare clients.
 
 We believe that great delivery stems from:
 * a thorough understanding of our clients and their needs
 * strong practice skills and subject matter expertise
 * excellent leadership
-a clear vision of lasting and effective change in a public sector environment 
+a clear vision of lasting and effective change in a healthcare environment 
 * the ability to translate meaningful strategy into effective implementation
 
 We expect our Principal Product Managers to bring all of this and to enthuse our design teams and clients with the same passion.
 The successful candidate will lead the Product Management aspects of one or more of our client engagements while overseeing the wider delivery within the account (or industry) when appropriate. 
 
-They will bring thought leadership and  best-practice, honed through hands-on experience in both the private and public sector.  They will work with user researchers,  service designers, business analysts, data analysts and client product owners to make ongoing recommended improvements to drive better user and business outcomes. 
+They will bring thought leadership and  best-practice, honed through hands-on experience in both the private and healthcare.  They will work with user researchers,  service designers, business analysts, data analysts and client product owners to make ongoing recommended improvements to drive better user and business outcomes. 
 
 They will often be responsible for creating a product vision helping to translate it into a UX strategy that can deliver a category leading user experience, driving impact and reach across multiple user groups.  
 
@@ -40,16 +40,16 @@ The right person for this role will do this by combining their Product Managemen
 * Deliver Product Management elements alongside client and Afiax delivery teams. 
 * Coach and mentor team members as well as providing direction to enable them to achieve their engagement outcomes and to help support and develop their careers.
 * Act as a Product Manager to provide oversight and ensure alignment with internal and industry best practices. Ensure engagement experience is captured and used to improve standards and contribute to Afiax knowledge.
-* Work as part of a wider consulting team on large scale transformation and lead change projects in the public sector.
+* Work as part of a wider consulting team on large scale transformation and lead change projects in the healthcare sector.
 * Participate in business development activities, including bids and pre-sales within the account, industry and practice. Coach team members on their contributions and oversee the relevant technical aspects of the proposal submission.
 * Undertake people management responsibilities, including performance reviews and professional development of your engagement and practice colleagues.
-* Serve as a thought leader within Afiax, our account engagements ,the wider public sector, and represent the company at industry events.
+* Serve as a thought leader within Afiax, our account engagements ,the wider healthcare, and represent the company at industry events.
 
 ## Skills and experience
 
 ### Clients 
 
-* Understanding of the issues and challenges that the public sector faces in developing policies and services that make the best use of data and digital capabilities, transforming legacy infrastructure, and taking an innovative and user-centric approach.
+* Understanding of the issues and challenges that the healthcare sector faces in developing policies and services that make the best use of data and digital capabilities, transforming legacy infrastructure, and taking an innovative and user-centric approach.
 * Ability to take learnings from the commercial sector and other countries and apply them to UK challenges to create tangible solutions for our clients.
 * Experience building trusted advisor relationships with senior client stakeholders within the public and commercial sectors.
 
@@ -64,7 +64,7 @@ Able to use data analytics to inform strategic decisions, identify opportunities
 ### Practice and industry  growth
 
 * An expert Product Management practitioner with experience in both the public and commercial sectors.
-* Experience in delivering complex and difficult engagements that span multiple capabilities for user-facing digital and data services in the public sector.
+* Experience in delivering complex and difficult engagements that span multiple capabilities for user-facing digital and data services in the healthcare sector.
 * Experience in identifying opportunities based on client needs and developing targeted solutions to progress the development of the opportunity.
 * Experience of working with sales professionals and commercial responsibility for strategic organisational goals.
 
@@ -115,7 +115,7 @@ Able to use data analytics to inform strategic decisions, identify opportunities
 Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
 
 ## Salary and location
-We have a hybrid-working policy with offices in London, Bristol, Manchester, and Swansea. 
+We have a hybrid-working policy with office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

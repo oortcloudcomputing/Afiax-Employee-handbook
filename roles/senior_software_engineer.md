@@ -1,71 +1,60 @@
 # Senior Software Engineer
 
-Our Senior Software Engineers create digital, data and technology outcomes that improve society. They do this by delivering and architecting software, and coaching others in public sector organisations to do the same.
+Our Senior Software Engineers build the digital health infrastructure that connects patients, clinicians, and health systems across Africa. They do this by delivering and architecting FHIR-native software, and by coaching other engineers in the teams they work with.
 
 ## Your role at Afiax
 
-At Afiax we want to positively impact the future of the country. We help public sector organisations deliver quality software to help citizens get more from public services. We work alongside brilliant public servants to modernise technology and accelerate digital delivery.
+At Afiax we are building a Kenya-first, pan-African FHIR platform on top of [Medplum](https://www.medplum.com/) — an open-source, FHIR R4-native healthcare platform. Our platform connects hospitals, clinics, and health authorities to national systems like Kenya's AfyaLink health information exchange and the Social Health Authority (SHA) claims platform.
 
-As a Senior Software Engineer you will combine your technical excellence, drive to deliver and coaching skills to achieve great outcomes for our clients and their users, and establish strong engineering cultures within organisations.
+As a Senior Software Engineer you will combine deep technical skill, a drive to deliver, and a coaching mindset to create working software that has a real impact on clinical care across Africa. You will work across a TypeScript monorepo, design FHIR-native data models, build and maintain integrations with national health systems, and help shape how we approach engineering as a team.
 
-You will have the opportunity to work across a variety of technologies and will need to be comfortable doing so. Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular, C# with .NET Core, Java with Spring, Python with Django, and plenty more stacks. We don’t limit ourselves as a company to particular technologies and we expect all of our engineers to be keen on learning new skills.
+You will be comfortable working across the full stack and across cloud infrastructure. Our primary stack is **TypeScript / Node.js / React**, built on the Medplum FHIR server and deployed on **Oortcloud Computing** infrastructure. We build country packs — reusable, configuration-driven modules — so that each new African country deployment extends rather than repeats the work.
 
-High-performing software delivery teams need to be empowered to iteratively and rapidly deliver changes all the way through to production. To do this we combine our extensive cloud automation knowledge with DevOps culture.
-
-We've been using AWS from the start and as Advanced Partners we’re go-to experts within the public sector. We use a range of IaaS, PaaS and FaaS depending on the needs of our users, in this case software teams, such as EC2, Lambda, ECS, Kubernetes, Heroku, CloudFoundry, Azure App Services, and more. We use VPC and PrivateLink for connecting to on-premise, legacy systems. We also use API Gateway, S3, CloudFront, SQS, SNS, SES, RDS, and many other services provided by AWS. You will have the opportunity to use and learn these technologies. We also offer AWS and other cloud training.
-
-We make sure we document our architecture and infrastructure as code, using technologies such as Terraform and OpenAPI. Containerisation is a big part of empowering our teams to develop, deploy and scale their applications, as is using AWS Lambda and avoiding the complexity of stateful services altogether. 
-
-For us, DevOps is more about culture rather than roles and titles. Even though this role is for someone with strong DevOps experience, the biggest impact you will have is coaching and helping teams use the platforms you build. You won't be building infrastructure in isolation or charged with deploying other people’s work into production. You'll empower teams with the mantra, “you build it, you run it”!
-
-We have a team of polyglot programmers (which you might already consider yourself to be), who are versed in a mix of paradigms such as object-oriented, functional, declarative, event-based and aspect-oriented. You will need to be comfortable sharing your knowledge and skills with others. We’d love to hear some examples of where you’ve mentored, coached, and contributed to the growth of team members. Maybe you’ve written some blog posts about your discipline, or perhaps even delivered a talk or two that you’d like to share.
+We expect all engineers to understand the basics of FHIR R4: resources, search parameters, SMART on FHIR authorisation, and FHIR Subscriptions. You do not need to arrive as a FHIR expert — we will support you — but you need the curiosity and drive to become one.
 
 ## What skills and experience do we look for?
 
-We look for the following skills and experience. But when we’re hiring for this role, if you don’t have some of the skills and experience listed below, don’t let that stop you from applying! 
+We look for the following. If you do not have everything listed, do not let that stop you from applying — we value learning and will invest in the right person.
 
-- Writing code with tests
-- Delivery in an agile environment
-- Working with more than one programming language
-- Working with databases
-- Working with APIs
-- Working with a cloud platform such as AWS, GCP and/or Azure
-- Debugging experience with a range of systems
-- Evidence of self-development – we value keen learners
-- Empathy and people skills
+**Core:**
+- Production TypeScript or JavaScript (Node.js and/or React)
+- Writing and maintaining automated tests — unit, integration, and end-to-end
+- Working with REST APIs and designing clean API contracts
+- Working with relational or document databases
+- Experience with CI/CD pipelines and deployment automation
 
+**Healthcare / FHIR (desirable but not required on day one):**
+- Knowledge of FHIR R4 resources and RESTful FHIR APIs
+- Experience with health data standards: HL7, SNOMED CT, ICD-10/11, LOINC
+- Familiarity with Kenya health IT context — AfyaLink, SHA, KEMR, or similar
 
-## Desirable skills and experience
+**Cloud & Infrastructure:**
+- Experience with a cloud platform (any — we run on Oortcloud, built on Linux/container-first infrastructure)
+- Docker and container-based deployments
+- Infrastructure as code (Terraform or similar)
 
-Experience in the following things isn’t essential, but it’s highly desirable!
+**Collaboration & delivery:**
+- Comfortable working in short delivery iterations (agile / Scrum / Kanban)
+- Experience mentoring or coaching junior engineers
+- Strong communication skills — written and verbal
 
-- Working at a technology consultancy
-- Working directly with customers and users
-- Working within multidisciplinary teams with product, design, and technology working within the same cycles
-- Showcasing and presentation skills
-- Agile practices such as Scrum, XP, and/or Kanban
-- Pair programming
-- Writing code with test-driven development
-- Component-based design techniques such as using pattern libraries, styled-components, CSS-in-JS, BEM, and/or SUIT CSS
-- Debugging infrastructure
-- The React ecosystem including a test-driven approach
-- Infrastructure as code technology like Terraform and Cloud Formation
-- Familiarity with architectural and design patterns
-- Use of architectural decision records
-- Writing blog posts and giving talks
+## Desirable experience
 
-## Work perks and benefits
+- Building or integrating with health information exchanges or national health APIs
+- Working in resource-constrained environments (low-bandwidth, mobile-first)
+- Familiarity with the Medplum platform or other FHIR server implementations
+- Experience building multi-tenant SaaS platforms
+- Open-source contributions
+- Writing technical blog posts or giving conference talks
 
-Take a look at the Benefits & Perks section of the [Afiax Handbook](https://github.com/oortcloudcomputing/Afiax-Employee-handbook) to see what we can offer you. 
+## Where you will work
 
-## Salary and location
+We are a remote-first team headquartered in Nairobi, Kenya. You may be asked to visit client sites — hospitals, clinics, county health offices — as part of delivery. We run regular in-person team weeks for collaboration and planning.
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+## Salary and transparency
 
-We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
-
-For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
+We practice salary transparency. Every role we advertise will include the salary range in the job posting.
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.afiax.africa/careers. If you have any questions about the role please email us at [careers@afiax.africa](mailto:careers@afiax.africa). We’re happy to help!
+When we are hiring for this role, details and applications are at [www.afiax.africa/careers](https://www.afiax.africa/careers). Questions? Email [careers@afiax.africa](mailto:careers@afiax.africa) — we are happy to have an informal chat before you apply.

@@ -1,10 +1,10 @@
 # Lead Software Engineer
 
-Our Lead Software Engineers work with organisations to deliver digital, data and technology outcomes that improve society. They do this by establishing and managing teams to deliver software in public sector organisations.
+Our Lead Software Engineers work with organisations to deliver digital, data and technology outcomes that improve health outcomes. They do this by establishing and managing teams to deliver software in healthcare organisations.
 
 ## Your role at Afiax
 
-At Afiax we want to positively impact the future of the country. We help public sector organisations deliver quality software to help citizens get more from public services. We work alongside brilliant public servants to modernise technology and accelerate digital delivery.
+At Afiax we want to positively impact the future of healthcare across Africa. We help healthcare organisations deliver quality software to help citizens get more from public services. We work alongside brilliant public servants to modernise technology and accelerate digital delivery.
 
 You will combine technical excellence, drive to deliver, and coaching to achieve better outcomes for our clients and their users, and establish strong engineering cultures within organisations. You’ll work on a variety of different problems, including monoliths, microservices, and upskilling colleagues and clients.
 
@@ -16,7 +16,7 @@ You will have the opportunity to work across a variety of technologies and will 
 
 High-performing software delivery teams need to be empowered to iteratively and rapidly deliver changes all the way through to production. To do this we combine our extensive cloud automation knowledge with DevOps culture.
 
-We've been using AWS from the start and as Advanced Partners are go-to experts within the public sector. We use a range of IaaS, PaaS and FaaS depending on the needs of our users, in this case software teams, such as EC2, Lambda, ECS, Kubernetes, Heroku, CloudFoundry, Azure App Services, and more. We use VPC and PrivateLink for connecting to on-premise, legacy systems. We also use API Gateway, S3, CloudFront, SQS, SNS, SES, RDS, and many other services provided by AWS. You will have the opportunity to use and learn these technologies. We also offer official AWS and other cloud training.
+We've been using AWS from the start and as Advanced Partners are go-to experts within the healthcare sector. We use a range of IaaS, PaaS and FaaS depending on the needs of our users, in this case software teams, such as EC2, Lambda, ECS, Kubernetes, Heroku, CloudFoundry, Azure App Services, and more. We use VPC and PrivateLink for connecting to on-premise, legacy systems. We also use API Gateway, S3, CloudFront, SQS, SNS, SES, RDS, and many other services provided by AWS. You will have the opportunity to use and learn these technologies. We also offer official AWS and other cloud training.
 
 We make sure we document our architecture and infrastructure as code, using technologies such as Terraform and OpenAPI. Containerisation is a big part of empowering our teams to develop, deploy and scale their applications, as is using AWS Lambda and avoiding the complexity of stateful services altogether. 
 
@@ -61,7 +61,7 @@ Take a look at the Benefits & Perks section of the [Afiax Handbook](https://gith
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.

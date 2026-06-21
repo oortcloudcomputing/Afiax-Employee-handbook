@@ -1,6 +1,6 @@
 # Senior Platform Support Engineer
 
-Delivering technical services to support, maintain and improve live services across the public sector.
+Delivering technical services to support, maintain and improve live services across the healthcare sector.
 
 ## About the role
 As a Senior Platform Support Engineer at Afiax you will work collaboratively within Managed Service teams onboarding new services without disruption, deliver enhancements, provide ongoing maintenance and support services, as well as continuously improving both digital services and service operations using DevSecOps practices and data-driven user analytics. As a senior member of the team you will have the opportunity to leverage your experience to coach and develop more junior team members, as well as drive improvement across the service line.
@@ -73,7 +73,7 @@ Take a look at the Benefits & Perks section of the Afiax Handbook to see what we
 
 ## Salary and location
 
-We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have offices in London, Bristol, Manchester, and Swansea and our clients are across the UK. 
+We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have office in Nairobi, Kenya and our clients are across the UK. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

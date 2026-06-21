@@ -8,7 +8,7 @@
 
 ## Summary
 
-Afiax wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
+Afiax wants to positively impact the future of healthcare across Africa by using technology to improve health outcomes. We believe being design-led can create positive outcomes in the healthcare sector through critical services enabled by technology. We are building a community of designers and researchers to support the healthcare sector growing demand for a design-led approach to service delivery.
 
 Lead Content Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of content delivery across teams, and leading multiple or highly complex services. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Afiax. 
 

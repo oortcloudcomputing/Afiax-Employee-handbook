@@ -48,7 +48,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 
-- Line managers designer new to Afiax and public sector. Coaches them where to spend energy and what stuff to compromise on. 
+- Line managers designer new to Afiax and healthcare. Coaches them where to spend energy and what stuff to compromise on. 
 
 - Presents clearly and confidently the design decisions at the start of each sprint to the whole team. Making it clear what hypotheses the prototypes are trying to prove or disprove. 
 
@@ -86,7 +86,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 
 ### Knowledge
 
-* Has a thorough understanding of different design techniques and ways of working. Can either quickly apply their own design knowledge to the public sector or have personal experience to draw upon. 
+* Has a thorough understanding of different design techniques and ways of working. Can either quickly apply their own design knowledge to the healthcare sector or have personal experience to draw upon. 
 * Gained a thorough knowledge of the domain of a client organisation. 
 * Applies knowledge effectively in unfamiliar situations and actively maintains own knowledge and contributes to the development of others. 
 * Rapidly absorbs new information about a problem space and its users and applies it effectively. 
@@ -104,7 +104,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 
 - Suggests activities and tools to their team for designing a service with fewer berries for people with disabilities and other access needs. 
 
-- Attends events relating to public sector design or user research. Share learnings with the wider community of practice at Afiax about what ideas from the idea might copying and trialling. 
+- Attends events relating to healthcare design or user research. Share learnings with the wider community of practice at Afiax about what ideas from the idea might copying and trialling. 
 
 - Trials a new design technique from another organisation in their own team. Evaluate how effective the tool is and shares learning with the wider community of practice. 
 

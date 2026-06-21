@@ -1,10 +1,10 @@
 # Senior Data Scientist
 
-Our Data Scientists enable public sector organisations to unlock the value and the potential of their data, extracting insights and helping organisations to make informed decisions. They collaborate closely with our clients in all aspects of the project - from understanding the data, to interpreting model's output and model deployment. They seek to provide reliable answers and deliver maximum value to stakeholders.
+Our Data Scientists enable healthcare organisations to unlock the value and the potential of their data, extracting insights and helping organisations to make informed decisions. They collaborate closely with our clients in all aspects of the project - from understanding the data, to interpreting model's output and model deployment. They seek to provide reliable answers and deliver maximum value to stakeholders.
 
 ## Your role at Afiax
 
-At Afiax we want to positively impact the future of the government by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-supported and freed from legacy technology. A key component of this is developing modern data systems that enable informed decision-making for our clients.
+At Afiax we want to positively impact the future of the government by using technology to improve health outcomes, for everyone. We want to empower the healthcare sector to deliver and continuously improve digital services that are user-centric, data-supported and freed from legacy technology. A key component of this is developing modern data systems that enable informed decision-making for our clients.
 
 As a Data Scientist, you may play one or more roles according to our clients' needs. You could be working closely with clients to help shape their data strategy alongside our data engineers. At other times the role can be very hands-on, and you'll serve in a senior contributor role to projects, focusing on both delivering data science solutions and upskilling members of the client team. Sometimes, you might have to play the role of an advisor, suggesting to clients how data science is done and helping them set up their data science environment. At other times you will be working with the other members of data engineering teams and performing exploratory data analysis.
 
@@ -43,7 +43,7 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 - Working knowledge of source code repository (GitHub, BitBucket etc)
 - Knowledge of SparkML
 - Working with multidisciplinary digital and technology teams
-- Working within the public sector
+- Working within the healthcare sector
 
 ## Work perks and benefits
 
@@ -52,7 +52,7 @@ Take a look at the Benefits & Perks section of the [Afiax Handbook](https://gith
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have office in Nairobi, Kenya. 
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 

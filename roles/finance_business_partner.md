@@ -81,7 +81,7 @@ We are looking for a person who has completed their professional accounting qual
 Take a look at the Benefits & Perks section of the Afiax Handbook to see what we can offer you.
 
 ### Salary and location
-We mainly work remotely but you will need to go to the office usually a few times a month. We have offices in London, Bristol, Manchester, and Swansea.
+We mainly work remotely but you will need to go to the office usually a few times a month. We have office in Nairobi, Kenya.
 The salary for this role is experience dependant though our pay philosophy is to hire and develop:
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
