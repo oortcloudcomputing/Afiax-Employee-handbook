@@ -10,7 +10,7 @@ Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, a
 
 ## What experience are we looking for?
 
-All of our Software Engineers are trained first as an Academy Software Engineer within our 12-week academy programme. 
+All of our Software Engineers are trained first as an **Academy Trainee: Software Engineering**: five months of free training on the Oortcloud Academy and supervised project work, on a KES 25,000 monthly stipend ([how people join](../guides/compensation/pay_bands.md)).
 
 ## Work perks and benefits
 
@@ -22,8 +22,8 @@ We mainly work remotely but you may need to visit clients or go to the office oc
 
 We practice salary transparency when it comes to advertising roles at Afiax. Every role we publish will include the salary range in the job ad, please do refer to that.
 
-For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
+Associate Software Engineer: **KES 80,000 – 130,000 a month** ([all pay bands](../guides/compensation/pay_bands.md)).
 
 ## Applying
 
-We don't hire directly for Associate Software Engineer roles at Afiax. We prioritise our hiring opportunities towards our Software Engineering Academy. You’ll need to complete our 12-week academy programme. After your first 6 months at Afiax, you’ll be in a position to pass probation and become an Associate Software Engineer with us. Learn more about our academy and find out when we’re accepting applications at https://www.afiax.africa/careers/academy. We’d still love to hear from you if you feel our academy or more senior engineering roles aren’t a good fit for you. If you have any questions, drop us a line at [careers@afiax.africa](mailto:careers@afiax.africa).
+We don't hire directly for Associate Software Engineer roles at Afiax. Apply as an **Academy Trainee: Software Engineering**: after five months of training and a passed training review, you become an Associate Software Engineer, with a 3-month probation. Open positions, including the Academy, are listed at https://www.afiax.africa/career/. We’d still love to hear from you if you feel our academy or more senior engineering roles aren’t a good fit for you. If you have any questions, drop us a line at [careers@afiax.africa](mailto:careers@afiax.africa).

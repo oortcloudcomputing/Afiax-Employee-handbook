@@ -77,6 +77,7 @@ Fair compensation and benefits:
 #### People
 
 * [Equality, Diversity & Inclusion](guides/equality-diversity-and-inclusion/README.md)
+* [Pay bands, the Academy and how people join](guides/compensation/pay_bands.md)
 * [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
 * [Salary Reviews](guides/compensation/salary_reviews.md)
 * [Expenses](guides/compensation/expenses.md)
